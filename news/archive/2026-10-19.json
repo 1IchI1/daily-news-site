@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-19",
+  "updated_at": null,
+  "status": "過去の朝刊を再掲。出典・時点に留意してください。",
+  "summary": [
+    "高市内閣の支持率は共同通信49.1%、読売新聞57%と調査間で差。20日の消費税減税審議が次の焦点。",
+    "中東・ウクライナ情勢が原油・制裁・海運に波及。米国の対ロ制裁猶予と情報共有の行方に注目。",
+    "中国の太陽電池技術輸出規制案と次世代HBMの製造分業が産業面の焦点。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-19-1",
+      "category": "国内政治・政策",
+      "title": "内閣支持率、共同49.1%・読売57%と差",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-pm-takaichis-support-rate-falls-below-50-lowest-since-taking-office-kyodo-2026-10-18/"
+        },
+        {
+          "label": "出典",
+          "url": "https://news.livedoor.com/article/detail/32597886/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-2",
+      "category": "国内政治・政策",
+      "title": "食料品消費税減税法案、20日審議入り予定",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.nippon.com/ja/news/yjj2026101600416/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-3",
+      "category": "経済・金融",
+      "title": "中東株式市場、原油高の下で明暗",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/middle-east/oil-lifts-saudi-bourse-egypt-tumbles-regional-tensions-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-4",
+      "category": "経済・金融",
+      "title": "米国、対ロ制裁の適用猶予を最大60日評価",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/us/rubio-says-trump-take-up-60-days-weigh-russia-sanctions-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-5",
+      "category": "経済・金融",
+      "title": "米AI関連株、今週の決算で設備投資採算が焦点",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-6",
+      "category": "国際・地政学",
+      "title": "ウクライナ大統領、エネルギー施設への攻撃76回と主張",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-attacked-ukrainian-energy-sector-76-times-past-week-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-7",
+      "category": "国際・地政学",
+      "title": "米国の対ウクライナ情報共有、一時中断後に再開と説明",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/legal/government/us-resumes-intelligence-sharing-with-ukraine-after-pause-zelenskiy-says-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-8",
+      "category": "国際・地政学",
+      "title": "ルーマニア、黒海上で無人機2機を撃墜",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/romanian-f-16-fighter-jets-shoot-down-two-drones-over-romanian-territorial-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-9",
+      "category": "国際・地政学",
+      "title": "イエメン北部で空爆、9人死亡とフーシ派側発表",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/793087dde3cb4435c6b771bae28faff3"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-10",
+      "category": "社会・産業",
+      "title": "首都高・新富町出口廃止と銀座入口長期通行止め",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.shutoko.co.jp/news/press-update/press/2026/07/17-longterm-road-closure/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-11",
+      "category": "社会・産業",
+      "title": "関西電力と海上自衛隊、舞鶴で災害時の輸送訓練",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://newsdig.tbs.co.jp/articles/mbs/3020064"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-12",
+      "category": "テクノロジー",
+      "title": "中国、太陽電池製造技術12項目の輸出規制案",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/autos-transportation/china-proposes-export-controls-solar-manufacturing-technologies-2026-10-18/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-13",
+      "category": "テクノロジー",
+      "title": "Samsung、次世代HBMでTSMCの3nm工程利用との報道",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://whtc.com/2026/10/18/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-seoul-newspaper-reports/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-19-14",
+      "category": "テクノロジー",
+      "title": "G7、AI活用サイバー攻撃を想定した金融演習を計画",
+      "date": "2026-10-18",
+      "summary": "",
+      "background": "",
+      "importance": "当時の報道に基づく。出典を確認してください。",
+      "japan_impact": "",
+      "investment_impact": "",
+      "work_impact": "",
+      "caveats": "",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/g7-launch-exercises-guard-against-ai-cyber-attacks-2026-10-16/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [],
+  "github_trending": []
+}
