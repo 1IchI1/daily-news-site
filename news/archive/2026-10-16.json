@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-23",
+  "status": "過去号（非公開Markdownから一般ニュースのみ移行）",
+  "summary": [],
+  "articles": [
+    {
+      "id": "2026-10-16-1",
+      "category": "経済・金融",
+      "date": "2026-10-16",
+      "title": "TSMC 2026年第3四半期決算（10月15日）: 売上高1兆4,942.4億台湾ドル、純利益7,630.6億台湾ドル。出典: https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "summary": "TSMC 2026年第3四半期決算（10月15日）: 売上高1兆4,942.4億台湾ドル、純利益7,630.6億台湾ドル。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-2",
+      "category": "経済・金融",
+      "date": "2026-10-16",
+      "title": "CoreWeaveの約500億米ドルの債務負担とAIインフラ融資への懸念（Reuters、10月15日19:24 UTC）。出典: https://www.reuters.com/legal/transactional/why-coreweaves-troubles-are-rattling-ai-boom-2026-10-15/",
+      "summary": "CoreWeaveの約500億米ドルの債務負担とAIインフラ融資への懸念（Reuters、10月15日19:24 UTC）。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/legal/transactional/why-coreweaves-troubles-are-rattling-ai-boom-2026-10-15/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-3",
+      "category": "テクノロジー",
+      "date": "2026-10-16",
+      "title": "GitHub AI Scan for pull requestsおよびAgentic autofixの一般提供開始（10月15日）。出典: https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/ および https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/",
+      "summary": "GitHub AI Scan for pull requestsおよびAgentic autofixの一般提供開始（10月15日）。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available/"
+        },
+        {
+          "label": "出典",
+          "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-4",
+      "category": "テクノロジー",
+      "date": "2026-10-16",
+      "title": "GitHub Copilotの一部モデル廃止予定（11月16日予定、10月15日告知）。出典: https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/",
+      "summary": "GitHub Copilotの一部モデル廃止予定（11月16日予定、10月15日告知）。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-5",
+      "category": "テクノロジー",
+      "date": "2026-10-16",
+      "title": "OpenAIがブラジルポルトガル語版AI for Educatorsを公開（10月15日）。出典: https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
+      "summary": "OpenAIがブラジルポルトガル語版AI for Educatorsを公開（10月15日）。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [],
+  "github_trending": []
+}
