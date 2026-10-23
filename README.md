@@ -1,7 +1,20 @@
 # 日本と世界の朝刊
 
-GitHub Pages 用の公開ニュース閲覧サイト。記事は `news/latest.json` に保存し、過去号は `news/archive/YYYY-MM-DD.json` に保存します。`news/index.json` の `issues` に日付を登録します。
+GitHub Pages 用の公開ニュース閲覧サイトです。一般公開できる報道・事実・出典URLのみを掲載し、個人の学習・仕事・投資方針や非公開資料は掲載しません。
 
-GitHub Settings → Pages → Deploy from a branch → main / (root) を選択して公開してください。
+## データ構成
 
-個人情報や非公開の `ai-news-knowledge` の内容はこのリポジトリに保存しないでください。
+- `news/latest.json`: 閲覧サイトの最新号
+- `news/archive/YYYY-MM-DD.json`: 当日号の履歴
+- `news/index.json`: 公開済みの日付リスト（降順）
+- `index.html` と `assets/app.js`: JSON を読み込む表示部分
+
+毎朝ニュースを生成したときは、非公開保存先の `daily/YYYY-MM-DD.md` に保存するだけで終わらず、**同じ公開可能なニュースを JSON に変換し、上の3種類を GitHub にコミットしてから読み戻し確認**してください。出典URL・日付・記事数が一致することを確認します。元のMarkdownをそのまま公開リポジトリへコピーしないでください。
+
+## バックナンバーについて（2026-10-23時点）
+
+10月14〜18日、20〜21日の保存済みMarkdownから公開ニュースのみをJSON化しています。10月19日は取材途中の下書きしかなく、22〜23日に別チャットで作成された朝刊Markdownは現時点でGitHub上に存在しないため、元の14本構成での移行は未完了です。10月23日の最新号はPHP2Shellの**特別号（1記事）**で、当日の通常朝刊14本の代替・完全版ではありません。
+
+## 公開
+
+GitHub の Settings → Pages → Deploy from a branch → `main` / `(root)` を選択して公開します。公開URLが実際にアクセスできるかは配信ごとに確認してください。
