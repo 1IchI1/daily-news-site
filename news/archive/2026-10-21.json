@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-21",
+  "updated_at": "2026-10-23",
+  "status": "過去号（非公開Markdownから一般ニュースのみ移行）",
+  "summary": [
+    "食料品消費税を8％から1％に引き下げる法案が20日に審議入り。年約5兆円の財源・給付の詳細が未確定で、国会審議が焦点。",
+    "日銀は10月会合で金利据え置きの見方が報じられる一方、国内株は841円安。原油価格と円・長期金利の動向を注視。",
+    "ウクライナ和平協議がオスロで進展を模索。日本の半導体対米投資、重要鉱物の供給制約、米中AI規制の競争も重要。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-21-1",
+      "category": "国内政治・政策",
+      "date": "2026-10-19〜20",
+      "title": "食料品の消費税減税法案が衆院で審議入り（10月20日）",
+      "summary": "食料品の消費税率を2027年4月から2年間、8％から1％へ下げ、残る1％相当を所得に応じて支給する法案の審議が始まった。首相は歳出・歳入見直しによる財源確保を説明したが、給付対象・額などの制度設計は未確定。時事通信は財源を年約5兆円規模と報じた。",
+      "background": "家計負担軽減と財政規律の両立が争点。野党は財源の具体性や2年後の税率復帰を追及。",
+      "importance": "",
+      "japan_impact": "成立・施行されれば家計と食品小売の需要に影響。財政懸念が国債利回り・円相場へ波及する可能性。小売・会計システムには税率変更への準備が必要。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.fnn.jp/articles/-/1136626"
+        },
+        {
+          "label": "出典",
+          "url": "https://www.nippon.com/ja/news/yjj2026102000124/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-2",
+      "category": "経済・金融",
+      "date": "2026-10-19〜20",
+      "title": "日銀、10月会合は据え置き・物価見通し上方修正の可能性（10月20日）",
+      "summary": "ロイターは関係筋に基づき、日銀が10月30日の会合で政策金利1.25％を据え置く一方、2027年度物価見通しを上方修正する可能性を報じた。決定済みではない。",
+      "background": "原油高による輸入物価圧力と、9月利上げ後の影響見極め。",
+      "importance": "",
+      "japan_impact": "円・銀行・不動産・国債への影響が大きい。会合結果と予測の差が市場変動要因。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/bank-japan-may-raise-inflation-forecast-stand-pat-rates-sources-say-2026-10-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-3",
+      "category": "経済・金融",
+      "date": "2026-10-19〜20",
+      "title": "日経平均841円安、半導体・AI関連に売り（10月20日）",
+      "summary": "日経平均は64,075.42円、前日比841.28円（1.30％）安。値下がりは東証プライムの約4分の3に広がった。半導体関連などが下落寄与。",
+      "background": "金利・AI設備投資の採算・地政学リスクへの警戒が重なる。",
+      "importance": "",
+      "japan_impact": "指数の下落と個別企業の利益・競争力の恒久的な悪化は別。企業業績への波及を確認して評価する必要。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://fu.minkabu.jp/news/722846"
+        },
+        {
+          "label": "出典",
+          "url": "https://www.traderswebfx.jp/news/article/1216237"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-4",
+      "category": "経済・金融",
+      "date": "2026-10-19〜20",
+      "title": "原油が一時高値圏から反落、イランを巡る仲介外交（10月20日）",
+      "summary": "ロイターによると、ブレント原油は一時高値圏を付けた後、20日には108.79ドル／バレルで決済。イラン大統領とパキスタン軍トップの協議、海上輸送・中東の供給不安が焦点。",
+      "background": "エネルギー輸入依存の日本では原油高が燃料費・物流費・企業収益に波及。",
+      "importance": "",
+      "japan_impact": "航空、化学、電力、運輸にコスト増圧力。日銀の物価判断にも影響し得る。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/energy/oil-eases-markets-assess-potential-waiver-russian-energy-middle-east-supply-2026-10-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-5",
+      "category": "経済・金融",
+      "date": "2026-10-19〜20",
+      "title": "米国株はダウ上昇、ナスダック小幅安（10月20日米国市場）",
+      "summary": "APによるとS&P500は0.3％高、ダウは約1％高、ナスダックは0.1％未満の下落。原油価格の変動と決算が背景。",
+      "background": "AI関連の大型株と広範な景気敏感株の値動きが乖離。",
+      "importance": "",
+      "japan_impact": "日本の翌営業日の寄り付きや半導体株のセンチメントに影響し得るが、個別企業価値の変化とは区別。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/0a5ea168499c6ae617c49e10bf48f9c6"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-6",
+      "category": "国際・地政学",
+      "date": "2026-10-19〜20",
+      "title": "ウクライナ大統領と米特使がオスロで協議（10月20日）",
+      "summary": "ゼレンスキー大統領はノルウェーで米特使ウィトコフ氏、ノルウェー・フィンランド首脳らと協議。ウクライナ側は米国のミサイル警戒情報共有の再開に言及した。停戦合意が成立したわけではない。",
+      "background": "米ウクライナ関係の緊張を背景に、安全保障と停戦交渉の条件を調整。",
+      "importance": "",
+      "japan_impact": "欧州防衛支出、対ロ制裁、エネルギー価格の見通しに波及。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/ukraines-zelenskiy-travels-norway-talks-war-security-tuesday-2026-10-20/"
+        },
+        {
+          "label": "出典",
+          "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-7",
+      "category": "国際・地政学",
+      "date": "2026-10-19〜20",
+      "title": "国連WFP、資金不足でガザの食料支援を縮小（10月19〜20日報道）",
+      "summary": "WFPはガザで月間食料支援の対象を160万人から110万人に減らしたと説明。ヨルダン川西岸でも支援を縮小。向こう6か月に4億5000万ドルの資金が必要と訴えた。",
+      "background": "停戦後も人道支援と復興が進まず、資金不足が住民生活に直結。",
+      "importance": "",
+      "japan_impact": "国際援助予算と地域安定への圧力が増す。人道的影響が中心で、投資上の利益機会に短絡しない。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/d7ebbcf1fd30cc608c9b9ed5126deb95"
+        },
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/middle-east/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-shortages-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-8",
+      "category": "社会・産業",
+      "date": "2026-10-19〜20",
+      "title": "日本の半導体投資、米国工場支援と国内育成の両立が課題（10月20日）",
+      "summary": "ロイターは、日本の対米投資枠組みと米国の半導体工場案件を詳報。専門家は日本国内の技術基盤や供給網への還元が限定的となる可能性を指摘する一方、政府は外交・経済安保上の意義を重視。",
+      "background": "日米関税・安保交渉と、国内半導体産業再建の資金配分が重なる。",
+      "importance": "",
+      "japan_impact": "製造装置・材料企業の受注機会はあるが、国内生産能力の拡大とは別途評価すべき。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-pursues-chip-industry-reboot-its-being-pressed-build-americas-2026-10-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-9",
+      "category": "社会・産業",
+      "date": "2026-10-19〜20",
+      "title": "中国の供給制約で日本のイットリウム不足懸念（10月20日）",
+      "summary": "英FTは、重要レアアースのイットリウムの日本向け供給が中国の輸出規制で逼迫し、在庫が数か月で枯渇する可能性があると関係者が懸念していると報道。確定した枯渇時期ではない。",
+      "background": "航空機エンジン・半導体製造装置などで使う素材の調達が一国依存。",
+      "importance": "",
+      "japan_impact": "代替調達、在庫の棚卸し、リサイクル投資が進む可能性。商社・製造業の調達費用に影響。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.ft.com/content/ebd3244a-9120-4773-b55f-41df77f60c93"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-10",
+      "category": "社会・産業",
+      "date": "2026-10-19〜20",
+      "title": "ドイツ製造業でフィジカルAI活用を提唱（10月19日、20日確認）",
+      "summary": "NVIDIAのジェンスン・フアンCEOは独メルツ首相との対談で、自動車・機械・ロボット産業が持つ製造データをAIに生かす重要性を強調。企業経営者の提案であり、効果は未実証。",
+      "background": "製造業の競争力回復と、米国製AI基盤への依存懸念が同時に存在。",
+      "importance": "",
+      "japan_impact": "日本でも工場データ標準化、ロボティクス、品質管理へのAI適用余地。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/f024c1e0d181677a19468657907a9025"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-11",
+      "category": "テクノロジー",
+      "date": "2026-10-19〜20",
+      "title": "中国、米政府によるDeepSeek排除を批判（10月20日）",
+      "summary": "APによると、中国政府は米連邦民生機関でのDeepSeek製品利用排除方針を批判。米側はデータ・供給網の安全保障上の懸念を理由に挙げる。リスクの個別事実は米政府の評価と区別。",
+      "background": "米中のAI・半導体分断が政府調達から民間のモデル選定へ波及。",
+      "importance": "",
+      "japan_impact": "日本企業のAI調達ではデータ保管場所、契約上の管理、モデルの配備方式を確認する必要。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/2bffa5b0131808735280b2c0e6f0d856"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-12",
+      "category": "テクノロジー",
+      "date": "2026-10-19〜20",
+      "title": "AI企業の公益基金構想、実効性と透明性に焦点（10月20日）",
+      "summary": "APはAnthropicとOpenAIがAIの社会的影響に対応する公益目的の資金拠出構想を進めていると報道。Anthropicの株式拠出計画などは既報で、今回は比較・検証の続報。実施額や制度の効果は将来の検証対象。",
+      "background": "AI企業の資金調達と社会的責任、雇用への影響への対応。",
+      "importance": "",
+      "japan_impact": "日本のAI導入企業も透明性、受益者、監査体制を重視する可能性。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/fc16c0ff997c8334dcd71e65d726aadc"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-21-13",
+      "category": "テクノロジー",
+      "date": "2026-10-19〜20",
+      "title": "欧州のAI主権論争、Google幹部が米企業依存懸念に反論（10月20日）",
+      "summary": "FTによるとGoogle幹部はAI市場で競争が進んでいると主張。一方、欧州側では技術主権や米企業への依存を懸念する見解がある。どちらか一方の評価を確定事実としない。",
+      "background": "AI導入の生産性効果と、競争政策・データ統治のトレードオフ。",
+      "importance": "",
+      "japan_impact": "日本企業にもマルチモデル設計、ベンダーロックイン回避、データ保護の判断が重要。",
+      "work_impact": "",
+      "caveats": "当時の情報・当事者の主張・予測を区別。公開後に状況が変わった可能性があります。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.ft.com/content/2202b6a7-9645-4a0f-995b-40f3e939fbac"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "ドイツ",
+      "summary": "製造業×フィジカルAI。産業データを国内の競争力として活用。日本との比較：自動車・ロボット・工作機械の強みは共通。実務では現場データの整備が先決。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://apnews.com/article/f024c1e0d181677a19468657907a9025"
+    },
+    {
+      "title": "米国",
+      "summary": "政府AI調達の安全保障基準。DeepSeek排除を巡り中国と対立。日本との比較：日本の民間企業では政府方針をそのまま一般化せず、利用データの機密性と調達リスクを個別評価。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://apnews.com/article/2bffa5b0131808735280b2c0e6f0d856"
+    },
+    {
+      "title": "欧州",
+      "summary": "AIの技術主権と導入速度。Google側の競争重視と欧州の自律性重視が対立。日本との比較：外部AI活用と独自データ・業務ノウハウ保全を両立。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://www.ft.com/content/2202b6a7-9645-4a0f-995b-40f3e939fbac"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "star_gain": 3890,
+      "purpose": "**MadsLorentzen/ai-job-search**   ****：ローカルで求人検索・応募文書を支援。",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "star_gain": 1559,
+      "purpose": "**stablyai/orca**   ****：複数のコーディングエージェントを管理。",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "star_gain": 1256,
+      "purpose": "**anomalyco/opencode**   ****：オープンソースのコーディングエージェント。",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "star_gain": 1201,
+      "purpose": "**Comfy-Org/ComfyUI**   ****：ノード型の画像生成ワークフロー。",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "star_gain": 1007,
+      "purpose": "**DietrichGebert/ponytail**   ****：AIエージェント向け開発支援。",
+      "period": "daily（当時の表示）"
+    }
+  ]
+}
