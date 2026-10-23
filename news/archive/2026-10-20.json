@@ -1,0 +1,266 @@
+{
+  "date": "2026-10-20",
+  "updated_at": "2026-10-23",
+  "status": "過去号（非公開Markdownから一般ニュースのみ移行）",
+  "summary": [
+    "高市首相は飲食料品の消費税減税財源として国債発行を排除せず。日銀は基調的物価が2％に接近との認識。",
+    "ロシアのウクライナ攻撃が継続。米国の和平交渉姿勢と米中ロ首脳会談案は不確実。",
+    "米政府のDeepSeek排除、AI企業の公益基金、製造業AI投資に注目。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-20-1",
+      "category": "国内政治・政策",
+      "date": "2026-10-18〜19",
+      "title": "減税財源と国債",
+      "summary": "高市首相は国債発行を排除しないと表明。背景は家計支援と財政規律の両立。重要性は国債利回りと為替。【推測】食品流通に追い風、金利上昇リスク。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-pm-says-wont-rule-out-debt-issuance-fund-tax-cut-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-2",
+      "category": "国内政治・政策",
+      "date": "2026-10-18〜19",
+      "title": "参院予算委で財源質疑",
+      "summary": "減税財源や国交省予算配分が焦点。背景は政策実行可能性の検証。【推測】公共事業と食品小売への影響を注視。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.fnn.jp/articles/-/1135238"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-3",
+      "category": "経済・金融",
+      "date": "2026-10-18〜19",
+      "title": "日銀総裁、基調物価2％目標に接近",
+      "summary": "9月利上げ後の次回会合は10/29～30。背景は物価・賃金・AI需要。追加利上げ時期が重要。【推測】銀行・不動産・為替に波及。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/boj-governor-ueda-says-underlying-inflation-quite-close-2-target-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-4",
+      "category": "経済・金融",
+      "date": "2026-10-18〜19",
+      "title": "日経平均407.59円安",
+      "summary": "終値64,916.70円、-0.62%。半導体など値がさ株が重荷、TOPIXは小幅高。【推測】指数安と個別の本来価値毀損を区別。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://minkabu.jp/news/4638413"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-5",
+      "category": "国際・地政学",
+      "date": "2026-10-18〜19",
+      "title": "ウクライナ各地にロシアの大規模攻撃",
+      "summary": "死傷者と電力設備被害。ウクライナ側は警戒情報・防空装備不足を訴える。戦況は当事者発表を含む。【推測】欧州エネルギー・防衛に波及。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/europe/russian-strike-kills-woman-hits-kyiv-subway-station-mayor-says-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-6",
+      "category": "国際・地政学",
+      "date": "2026-10-18〜19",
+      "title": "トランプ氏、ウクライナ交渉代表交代に言及",
+      "summary": "米国の情報共有継続とも発言。外交方針の不確実性が重要。【推測】制裁・資源価格への影響。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/trump-says-zelenskiy-should-get-somebody-else-negotiate-end-war-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-7",
+      "category": "国際・地政学",
+      "date": "2026-10-18〜19",
+      "title": "米中ロ首脳会談案を報道",
+      "summary": "WSJを引用したロイター報道。開催・議題は未確定。ウクライナ不在の協議懸念。【推測】対ロ制裁見通しに影響。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/china/putin-proposes-summit-with-trump-xi-discuss-ukraine-deal-wsj-says-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-8",
+      "category": "社会・産業",
+      "date": "2026-10-18〜19",
+      "title": "ドイツ製造業とNVIDIAのAI連携",
+      "summary": "政府と企業が協力覚書。製造業のデータ活用を強化。【推測】日本の工場AI導入・競争力に示唆。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/finance/germany-sees-up-46-trillion-investment-potential-by-2035-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-9",
+      "category": "社会・産業",
+      "date": "2026-10-18〜19",
+      "title": "青森で秋の火災予防運動",
+      "summary": "9月末まで県内火災390件・死者20人と地元報道。暖房器具の安全確認が実務上重要。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://tver.jp/episodes/epm3u70opd"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-10",
+      "category": "テクノロジー",
+      "date": "2026-10-18〜19",
+      "title": "米政府、DeepSeekを連邦民生ITから排除へ",
+      "summary": "DHSがデータ・供給網リスクを指摘。政府の懸念と独立実証は区別。【実務】AI調達とデータ送信先を監査。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-11",
+      "category": "テクノロジー",
+      "date": "2026-10-18〜19",
+      "title": "Anthropic、株式5％を公益基金に",
+      "summary": "株主承認が条件。雇用影響などの支援を想定。【推測】AIの社会的説明責任の先例。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.anthropic.com/news/public-benefit-fund"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-20-12",
+      "category": "テクノロジー",
+      "date": "2026-10-18〜19",
+      "title": "Microsoft、AIエージェントの最小権限を強調",
+      "summary": "必要時のみアクセス権を付与する考え方。【実務】権限分離・操作ログ・承認を設計。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-says-ai-agents-should-start-with-zero-access-unveils-new-security-controls/articleshow/135050681.cms"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [],
+  "github_trending": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "star_gain": 3860,
+      "purpose": "ローカル求人AI",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "star_gain": 1591,
+      "purpose": "エージェント運用",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "star_gain": 1310,
+      "purpose": "コーディングAI",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "star_gain": 1011,
+      "purpose": "画像生成ワークフロー",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "star_gain": 666,
+      "purpose": "AI記憶管理",
+      "period": "daily（当時の表示）"
+    }
+  ]
+}
