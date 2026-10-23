@@ -1,0 +1,303 @@
+{
+  "date": "2026-10-18",
+  "updated_at": "2026-10-23",
+  "status": "過去号（非公開Markdownから一般ニュースのみ移行）",
+  "summary": [
+    "IMF高官は日銀の金融正常化を支持し、物価上振れ時の利上げ加速に言及。世界経済でも戦争・エネルギー高・債務リスクが焦点。",
+    "ウクライナ戦況についてロシアとウクライナの主張が対立。中東ではレバノンが攻撃停止を求めて米国で協議へ。",
+    "AIでは半導体調達資金の高コスト化が報じられる一方、経済成長への強気の期待も続く。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-18-1",
+      "category": "国内政治・政策",
+      "date": "2026-10-17",
+      "title": "高市首相、靖国神社の秋季例大祭に真榊を奉納",
+      "summary": "首相が「内閣総理大臣」名義で真榊を奉納。19日までの例大祭中の参拝は見送る方向と報じられた。城内担当相は参拝。",
+      "background": "戦没者追悼と歴史認識を巡り、中国・韓国との外交関係が論点。",
+      "importance": "",
+      "japan_impact": "対中・対韓関係は貿易、観光、安全保障対話に関係。参拝見送りは現時点の報道上の見通しであり、最終行動は未確定。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.nippon.com/ja/news/yjj2026101700164/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-2",
+      "category": "経済・金融",
+      "date": "2026-10-17",
+      "title": "IMF高官、日銀の金融正常化を評価",
+      "summary": "IMFアジア太平洋局長は日銀の正常化を支持し、インフレが予想を上回れば利上げ加速が必要と述べた。中期財政枠組みの明確化も要請。",
+      "background": "9月の利上げ、円安輸入物価、国債利回り上昇が背景。これはIMFの見解であり日銀の決定ではない。",
+      "importance": "",
+      "japan_impact": "銀行、住宅ローン、設備投資、為替に波及し得る。10月29〜30日の会合判断に注目。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/boj-may-need-tighten-faster-if-inflation-beats-forecast-imf-says-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-3",
+      "category": "経済・金融",
+      "date": "2026-10-17",
+      "title": "IMF委員会、戦争と先端AIの金融リスクに言及",
+      "summary": "IMF国際通貨金融委員会は戦争・エネルギー高・貿易摩擦・債務と先端知能技術の金融リスクを警戒し、脆弱国への支援を促した。",
+      "background": "世界経済が一定の成長を保つ一方、国ごとに負担が異なる。",
+      "importance": "",
+      "japan_impact": "海外需要、輸入価格、AI設備投資の資金調達条件を観察する材料。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/markets/asia/imf-members-call-increased-support-countries-amid-negative-risks-war-spillovers-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-4",
+      "category": "経済・金融",
+      "date": "2026-10-17",
+      "title": "原油が一時110ドル近辺に上昇",
+      "summary": "北海ブレント原油が一時109.86ドルに達した。中東情勢とロシア製油所への攻撃が供給不安の背景。",
+      "background": "日本は輸入エネルギーに依存するため燃料・電力・物流費へ波及しやすい。",
+      "importance": "",
+      "japan_impact": "企業の価格転嫁力と利益率を確認。原油高のみを根拠に株式売買は判断しない。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-5",
+      "category": "国際・地政学",
+      "date": "2026-10-17",
+      "title": "ロシア軍の占領地拡大主張にウクライナ軍が反論",
+      "summary": "ロシア軍高官は9月以降の占領地拡大を主張したが、ウクライナ軍は誇張だと否定した。",
+      "background": "前線の支配状況は独立確認が難しい。両者の主張を確定した戦況と混同しない。",
+      "importance": "",
+      "japan_impact": "和平条件、制裁、欧州防衛支出、エネルギー供給の見通しに影響し得る。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/europe/ukraine-says-russias-claimed-territorial-advances-are-an-illusion-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-6",
+      "category": "国際・地政学",
+      "date": "2026-10-17",
+      "title": "レバノン、米国での協議で攻撃停止を要求へ",
+      "summary": "レバノン大統領府によると、軍代表団は20日の米フロリダでの協議でイスラエルの攻撃停止を求める予定。",
+      "background": "ヒズボラの武装解除とイスラエル軍撤収を巡る対立。交渉予定は停戦合意ではない。",
+      "importance": "",
+      "japan_impact": "海上輸送保険や燃料価格に波及し得る。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/middle-east/lebanon-says-military-delegation-will-press-halt-israeli-attacks-us-talks-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-7",
+      "category": "国際・地政学",
+      "date": "2026-10-17",
+      "title": "ウクライナ大統領、米国の追加対ロ制裁への支持を要請",
+      "summary": "ゼレンスキー大統領は米国で保留されている追加制裁への支持を要請した。",
+      "background": "制裁は成立・実施済みではない。米国とウクライナの説明や利害には違いがある。",
+      "importance": "",
+      "japan_impact": "制裁の変化はエネルギー調達に波及する可能性。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/07e1dfc41bdad7b3292c6c263005fabc"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-8",
+      "category": "国際・地政学",
+      "date": "2026-10-17",
+      "title": "IMF会合でロシア代表発言時に一部欧州当局者が退席",
+      "summary": "英中銀総裁らがロシア財務相の発言に抗議して退席。一方、委員会声明は合意された。",
+      "background": "ウクライナ侵攻を巡る対立が国際経済協議にも波及。",
+      "importance": "",
+      "japan_impact": "国際金融協調の難しさは日本にも間接的に影響。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-9",
+      "category": "国際・地政学",
+      "date": "2026-10-17",
+      "title": "フランスで生活費高騰への大規模抗議、一部で衝突",
+      "summary": "物価と公共サービスへの不満から大規模な抗議活動。多くの参加者は平和的だったが、一部で破壊行為や警察との衝突があった。",
+      "background": "参加者全体を暴力行為と同一視しない。参加者数は推計に幅がある。",
+      "importance": "",
+      "japan_impact": "物価上昇と財政支援の持続性は日本でも政策課題。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/students-trade-unions-yellow-vests-set-protest-across-france-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-10",
+      "category": "社会・産業",
+      "date": "2026-10-17",
+      "title": "北海道登別市、巨大地震・大津波を想定した合同訓練",
+      "summary": "警察・自衛隊・消防・通信事業者が避難誘導、ドローンでの情報収集、道路寸断時の救助連携を確認した。",
+      "background": "日本海溝・千島海溝沿いの巨大地震への備え。訓練の実施と実災害での効果は別。",
+      "importance": "",
+      "japan_impact": "自治体・企業のBCP、通信冗長化に示唆。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.fnn.jp/articles/-/1134785"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-11",
+      "category": "社会・産業",
+      "date": "2026-10-17",
+      "title": "仏スーパー冷凍設備へのサイバー攻撃、17日に管理上の課題を検証",
+      "summary": "フランスの多数の店舗で冷凍設備が不正操作され食品廃棄が発生。17日の記事は旧式設備・遠隔管理・保険適用の課題を指摘。",
+      "background": "新たな攻撃発生と混同しない。攻撃主体は未確定。",
+      "importance": "",
+      "japan_impact": "食品・医療・工場の設備台帳、更新、ネット分離、物損保険の確認が重要。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/10/17/french-supermarket-fridge-cyberattack-a-warning-for-the-industry-that-highlights-cybersecurity-flaws_6758705_19.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-12",
+      "category": "テクノロジー",
+      "date": "2026-10-17",
+      "title": "Anthropicの半導体資金調達、高利回り提示との報道",
+      "summary": "FTによるとBlackstoneが約90億ドルの債務資金を提供する構想がある。Reutersは独立確認できていない。",
+      "background": "契約締結・実行済みとは扱わない。AI計算資源の調達コストが焦点。",
+      "importance": "",
+      "japan_impact": "AIサービスの採算性と顧客価格、設備需要に波及し得る。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/anthropic-offers-blackstone-double-digit-yield-chip-financing-deal-ft-reports-2026-10-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-18-13",
+      "category": "テクノロジー",
+      "date": "2026-10-17",
+      "title": "Anthropic幹部、AIの経済効果と管理リスクを強調",
+      "summary": "共同創業者Jack Clark氏は国際会議でAIの急速な進歩、科学・産業への可能性とサイバー・生物分野での悪用リスクを指摘。",
+      "background": "米GDPの大幅増加は同氏の条件付きシナリオであり、確定した予測ではない。",
+      "importance": "",
+      "japan_impact": "AI導入は評価指標、権限管理、人間による監督が重要。",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/china/anthropics-clark-says-ais-impact-accelerating-quickly-could-vastly-boost-us-gdp-2026-10-17/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "世界的なエネルギー高と日本の物価",
+      "summary": "IMFは戦争・債務・エネルギーを警戒。日本は輸入エネルギー依存と円安が重なる点が特徴。利上げは物価抑制に資する一方、国債利払い・住宅・設備投資の負担を高め得る。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://www.reuters.com/markets/asia/imf-members-call-increased-support-countries-amid-negative-risks-war-spillovers-2026-10-17/"
+    },
+    {
+      "title": "欧州の食品流通設備セキュリティ",
+      "summary": "仏冷凍設備への攻撃は情報漏洩だけでなく食品廃棄という物損につながった。日本でも食品・医療・工場の古い制御機器と遠隔接続の把握が必要。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/10/17/french-supermarket-fridge-cyberattack-a-warning-for-the-industry-that-highlights-cybersecurity-flaws_6758705_19.html"
+    },
+    {
+      "title": "米国AI投資の資金調達と日本の実務導入",
+      "summary": "米国では半導体調達に高コスト資金を使う可能性が報じられる一方、経済成長への期待も大きい。日本企業は投資回収、データ品質、運用安全性を重視したい。資金調達報道は未確認。",
+      "japan_comparison": "日本への示唆を含む過去の編集分析。",
+      "url": "https://www.reuters.com/business/anthropic-offers-blackstone-double-digit-yield-chip-financing-deal-ft-reports-2026-10-17/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "star_gain": 2301,
+      "purpose": "ローカル音声生成・文字起こし・吹き替え",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "star_gain": 1648,
+      "purpose": "AI向けデータ検索・自動インデックス",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "star_gain": 1552,
+      "purpose": "Claude Codeプラグイン集",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "star_gain": 1158,
+      "purpose": "科学研究向けAIスキル",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "star_gain": 1057,
+      "purpose": "AIコーディングエージェントの運用・スキル",
+      "period": "daily（当時の表示）"
+    }
+  ]
+}
