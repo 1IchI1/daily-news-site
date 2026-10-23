@@ -1,40 +1,332 @@
 {
   "date": "2026-10-23",
-  "updated_at": "2026-10-23",
-  "status": "特別号｜PHP2Shellと協調開示の問題（2026-10-23確認）",
+  "updated_at": null,
+  "status": "過去に作成した朝刊の再掲。掲載当時の報道・推測を含みます。",
   "summary": [
-    "PHPに重大な脆弱性2件（CVE-2026-109618 / 109619）が見つかり、10月21日に修正版が公開された。",
-    "10月20日の情報流出を受け公式公開は22日から21日に前倒し。Chainguardは合意時刻より6時間以上早く修正済みイメージを公開した。",
-    "修正済みコード・バイナリの先行公開は攻撃者の差分解析を助け得る一方、環境ごとの更新準備には時間がかかる。"
+    "日本政府は冬の電気・ガス補助再開と防衛支出の算定範囲拡大を検討。いずれも決定前で、財源と透明性が焦点。",
+    "円高方向への変動と原油高が同時進行。日本の貿易赤字や企業コストへの影響を注視。",
+    "台風による交通障害が発生。技術面ではAI向け先端パッケージング需要と米国の半導体支援が進む。"
   ],
   "articles": [
     {
-      "id": "php2shell-20261023",
-      "category": "テクノロジー",
-      "date": "2026-10-21〜23",
-      "title": "PHP2Shell：重大脆弱性とChainguard先行公開が突きつけた「協調開示」の難題",
-      "summary": "PHP基盤に認証なしの遠隔コード実行につながり得る脆弱性2件。修正版は10月21日に公開されたが、その前に漏洩と先行配布が相次ぎ、防御側の準備と攻撃側の解析時間に差が生じた。",
-      "background": "PHP FoundationによるとOOM処理に関する問題の兆候は2024年に把握されていたが、互換性・性能・拡張機能への影響など修正の難しさから対応が停滞。2026年8月に深刻な攻撃経路が報告され、優先度が上がった。10月20日のCVE番号漏洩を受け、公式公開は当初予定の10月22日14:00 UTCから10月21日14:00 UTCに前倒しされた。Califによる攻撃実証動画の誤公開も発生。",
-      "importance": "Chainguardは10月21日07:41 UTCに修正済みコンテナイメージを一般公開した。公式公開より6時間以上早く、攻撃者が修正前後のバイナリ差分を解析できる一方、他のディストリビューション利用者はまだ適合する更新パッケージを待つ状態だった。Chainguard側は攻撃試行を踏まえた早期防御の必要性を主張している。",
-      "japan_impact": "自治体・金融・企業サイトを含む幅広いPHP利用環境で、バージョン・実行方式・配布経路ごとの影響確認が重要となった。",
-      "work_impact": "影響資産の棚卸し、配布元が提供する更新パッケージの適用、ログ点検、更新後の動作検証が必要。公式の修正版はPHP 8.5.12／8.4.27／8.3.36／8.2.35。WAFは一時的なリスク低減策であり完全な代替にはならない。",
-      "caveats": "大量の攻撃試行は確認されているが、試行件数を侵入成功件数と混同しない。先行公開が被害をどの程度増減させたかは断定できない。Chainguardの公開物はコンテナイメージであり、全PHP環境で無条件に適用できるわけではない。",
+      "id": "2026-10-23-1",
+      "category": "国内政治・政策",
+      "title": "冬の電気・ガス料金補助、12月再導入を政府が検討",
+      "date": "2026-10-22",
       "sources": [
         {
-          "label": "PHP Foundation：経緯と先行公開",
-          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
-        },
-        {
-          "label": "AWS：脆弱性と暫定防御",
-          "url": "https://aws.amazon.com/jp/blogs/news/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
-        },
-        {
-          "label": "TechTarget：Chainguard側の説明と攻撃状況",
-          "url": "https://www.techtarget.com/cybersecurity/news/366652613/PHP2Shell-disclosure-unravels-after-leaks-forced-early-patch-drop"
+          "label": "出典",
+          "url": "https://www.reuters.com/business/energy/japan-consider-re-introducing-gas-electricity-subsidies-sources-say-2026-10-22/"
         }
-      ]
+      ],
+      "summary": "政府関係者2人によると、9月に終了した料金補助の12月再開を検討。決定・予算成立は未確認。",
+      "background": "輸入燃料高と家計負担が再燃。過去の補助には累計約5.6兆円を支出した。",
+      "importance": "家計支援と財政規律のトレードオフ。広範な補助より対象を絞るべきとのIMF提言とも対比される。",
+      "japan_impact": "再導入なら冬の生活費に短期的な下押し効果があり得る。",
+      "investment_impact": "電力・ガス需要、財政負担、国債需給を通じた影響を見極めたい。",
+      "work_impact": "事業所の光熱費見通しは制度決定まで仮置き。",
+      "caveats": "政府関係者による検討段階の報道。政策決定ではない。"
+    },
+    {
+      "id": "2026-10-23-2",
+      "category": "国内政治・政策",
+      "title": "防衛費の算定範囲をAI・衛星・インフラ等に広げる案",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-considers-broader-definition-security-spending-inflate-defense-outlays-2026-10-22/"
+        }
+      ],
+      "summary": "政府関係者への取材で、安保関連支出の定義拡大が検討されていると報道。",
+      "background": "対GDP比の防衛支出目標と巨額の追加財源確保が課題。",
+      "importance": "支出の再分類だけで実質的な防衛能力が高まるわけではないため、透明性が論点。",
+      "japan_impact": "AI、港湾、鉄道、衛星などの公共投資と安保予算の線引きに影響し得る。",
+      "investment_impact": "防衛関連調達に関係する産業の受注期待はあるが、実際の新規支出額と区別が必要。",
+      "work_impact": "予算区分変更と新規案件を分けて追跡。",
+      "caveats": "政府検討の報道であり制度決定ではない。"
+    },
+    {
+      "id": "2026-10-23-3",
+      "category": "経済・金融",
+      "title": "円が対ドルで約0.75%上昇、リスク回避の動き",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/dip-dollar-takes-breather-with-fed-focus-2026-10-22/"
+        }
+      ],
+      "summary": "10月22日の市場で円は一時1ドル156.96円付近へ上昇。原油高やAI投資懸念、仏財政不安が重なった。",
+      "background": "地政学リスクと資産価格変動が同時進行。",
+      "importance": "為替と原油の組合せが日本の輸入物価・企業利益に複雑に作用する。",
+      "japan_impact": "円高は輸入コストに追い風だが、原油高が相殺する可能性。",
+      "investment_impact": "輸出企業・輸入企業で感応度が異なる。短期相場と本来価値を分けて評価。",
+      "work_impact": "為替換算や海外調達の見積りに複数シナリオを置く。",
+      "caveats": "相場水準は報道時点の値で終値ではない。"
+    },
+    {
+      "id": "2026-10-23-4",
+      "category": "経済・金融",
+      "title": "日本の上期貿易赤字2.81兆円、燃料輸入負担が重く",
+      "date": "2026-10-21",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/c2265fa62a4511229dd83693d94d32e2"
+        }
+      ],
+      "summary": "10月21日公表データを受け、2026年度上半期の貿易赤字は2.81兆円と報道。輸出入額はいずれも増加。",
+      "background": "中東の輸送制約と原油高が輸入額を押し上げた。",
+      "importance": "輸出増でもエネルギー輸入コストが貿易収支を悪化させる構造。",
+      "japan_impact": "燃料の安定調達とエネルギー価格が物価・実質所得の焦点。",
+      "investment_impact": "資源・運輸・化学と消費関連でコスト転嫁力を比較。",
+      "work_impact": "調達経路と輸送保険の変動を点検。",
+      "caveats": "公表は前日。背景を理解するため収録。"
+    },
+    {
+      "id": "2026-10-23-5",
+      "category": "経済・金融",
+      "title": "中国の対内直接投資、1〜9月は前年比4.3%減",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/foreign-investment-flows-into-china-fall-43-yy-first-three-quarters-2026-10-22/"
+        }
+      ],
+      "summary": "中国商務省によると対内投資は5488億元で前年比4.3%減。一方ハイテク分野への投資は33.8%増。",
+      "background": "地政学リスク・内需停滞の中、投資先が高付加価値領域へ偏る。",
+      "importance": "総額の減少と先端分野の増加が同時に起きている。",
+      "japan_impact": "日本企業の対中投資・供給網再配置の判断材料。",
+      "investment_impact": "中国内需関連とハイテク関連を同一視しない。",
+      "work_impact": "現地法人投資の業種別・地域別リスクを見直す。",
+      "caveats": "中国当局の公表値。"
+    },
+    {
+      "id": "2026-10-23-6",
+      "category": "国際・地政学",
+      "title": "米ロ・ウクライナ和平模索の中、キーウへの攻撃",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0"
+        }
+      ],
+      "summary": "米特使とロシア大統領の会談後、キーウへのミサイル攻撃が報じられた。死傷者数などは更新され得る。",
+      "background": "11月の新たな協議が模索される一方、現地の戦闘は継続。",
+      "importance": "外交日程の進展と停戦実現を混同しないことが重要。",
+      "japan_impact": "欧州安全保障・エネルギー供給・日本の防衛政策に波及。",
+      "investment_impact": "欧州リスクプレミアムやエネルギー価格を通じた影響があり得る。",
+      "work_impact": "物流・拠点の事業継続計画を再確認。",
+      "caveats": "死傷者・迎撃数は当局発表と報道に基づく。"
+    },
+    {
+      "id": "2026-10-23-7",
+      "category": "国際・地政学",
+      "title": "イラン高官、湾岸のエネルギー・AI設備への報復を警告",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.theguardian.com/world/2026/oct/22/iran-threatens-seven-gulf-countries-us-israel-renew-attacks"
+        }
+      ],
+      "summary": "イランの安全保障高官が、米・イスラエルによる新たな攻撃があれば湾岸の石油設備・海底ケーブル・データセンター等を標的とする可能性を示した。",
+      "background": "ホルムズ海峡をめぐる緊張とエネルギー輸送の制約が継続。",
+      "importance": "実際の攻撃と条件付きの威嚇は区別すべき。",
+      "japan_impact": "日本の燃料輸入・海運・通信の多重リスクに直結。",
+      "investment_impact": "エネルギー、海運、データセンター関連のリスクを点検。",
+      "work_impact": "代替経路・クラウドリージョンの冗長化を検討。",
+      "caveats": "イラン側の発言であり攻撃の実施を確認したものではない。"
+    },
+    {
+      "id": "2026-10-23-8",
+      "category": "国際・地政学",
+      "title": "台湾、組織犯罪と中国の「越境弾圧」の関係を調査",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/china/taiwan-probes-organised-crime-links-chinas-transnational-repression-2026-10-22/"
+        }
+      ],
+      "summary": "台湾の安全保障当局者が、犯罪組織や調査会社と中国の関係を調べていると説明。",
+      "background": "台湾は中国の海上活動や政治的圧力にも警戒を強めている。",
+      "importance": "当局の調査と中国政府の関与が立証されたことは別。",
+      "japan_impact": "東アジアの安全保障と半導体供給網の安定性に関わる。",
+      "investment_impact": "台湾依存度の高い製造業は地政学リスクを継続監視。",
+      "work_impact": "出張・調達・情報セキュリティ面の警戒を点検。",
+      "caveats": "中国政府の指示・資金提供の有無は調査中。"
+    },
+    {
+      "id": "2026-10-23-9",
+      "category": "社会・産業",
+      "title": "台風Champiが台湾接近、日本の航空便・日米訓練にも影響",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/environment/taiwan-issues-land-warning-ahead-arrival-powerful-typhoon-champi-2026-10-22/"
+        }
+      ],
+      "summary": "台湾で警報が出され、日台の航空便200便以上の欠航や日米共同演習の変更が報じられた。",
+      "background": "大型台風による暴風・豪雨・高波リスク。",
+      "importance": "観光・物流・防災に直接影響する短期重要情報。",
+      "japan_impact": "沖縄・南西諸島への接近可能性があり、現地の最新気象情報が必要。",
+      "investment_impact": "航空・観光・物流の短期業績に影響し得る。",
+      "work_impact": "航空・配送予定の変更と現地の公式気象警報を確認。",
+      "caveats": "進路・欠航数は随時変化。"
+    },
+    {
+      "id": "2026-10-23-10",
+      "category": "社会・産業",
+      "title": "日本企業のバングラデシュ投資、5年間で1兆円規模の計画と報道",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-arrange-private-investments-worth-636-billion-bangladesh-nikkei-reports-2026-10-22/"
+        }
+      ],
+      "summary": "日経報道をReutersが紹介。自動車・製造・エネルギー基盤などの民間投資を政府が後押しする構想。",
+      "background": "生産拠点の多様化と新興国市場への投資拡大。",
+      "importance": "正式合意前の報道だが、サプライチェーンの中期変化として重要。",
+      "japan_impact": "日本企業の海外生産・輸出先の選択肢に影響。",
+      "investment_impact": "投資対象企業の実際の資本支出・収益寄与は今後の開示待ち。",
+      "work_impact": "現地規制・インフラ・労務リスクを事前評価。",
+      "caveats": "Reutersは独自確認していない。計画段階。"
+    },
+    {
+      "id": "2026-10-23-11",
+      "category": "社会・産業",
+      "title": "NATO向けAI、供給者が遠隔停止できるかが争点に",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/"
+        }
+      ],
+      "summary": "Palantir幹部はNATO向けMavenシステムを自社や米政府が遠隔停止できないと説明した。",
+      "background": "欧州で米国製の防衛・情報システム依存への懸念が高まる。",
+      "importance": "サプライヤーの説明と独立監査による技術検証は区別する必要。",
+      "japan_impact": "日本の公共・防衛システムでもベンダーロックイン対策の論点。",
+      "investment_impact": "ソフトウェア主権・保守契約・供給停止リスクを評価。",
+      "work_impact": "オフライン運用、権限設計、契約条項、移行可能性を確認。",
+      "caveats": "「停止できない」は同社幹部の説明であり独立実証ではない。"
+    },
+    {
+      "id": "2026-10-23-12",
+      "category": "テクノロジー",
+      "title": "半導体後工程Besi、AI需要で受注が予想超え",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/"
+        }
+      ],
+      "summary": "Besiの四半期受注は3億4260万ユーロ。ハイブリッドボンディング装置への需要増を説明。",
+      "background": "AIの演算性能向上でチップ積層・高密度接合技術が重要化。",
+      "importance": "GPU本体以外の先端パッケージングも投資のボトルネックになり得る。",
+      "japan_impact": "日本の製造装置・素材・精密加工産業にも関連。",
+      "investment_impact": "装置の受注と顧客の実際の量産開始時期を分けて分析。",
+      "work_impact": "半導体関連のサプライヤー能力と納期を点検。",
+      "caveats": "競争環境の評価には会社側の見解が含まれる。"
+    },
+    {
+      "id": "2026-10-23-13",
+      "category": "テクノロジー",
+      "title": "米政府、パワー半導体・重要材料R&Dに3.89億ドル支援",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/technology/us-award-389-million-rd-funds-power-semiconductors-critical-materials-2026-10-22/"
+        }
+      ],
+      "summary": "米商務省は4社に総額3.89億ドルの研究開発支援を行う計画を発表。",
+      "background": "電力効率・エネルギー技術を支える半導体の国内開発を促進。",
+      "importance": "AIの計算資源だけでなく電力系の技術競争も政策対象になっている。",
+      "japan_impact": "日本のパワー半導体メーカーや素材産業に競争・協業機会。",
+      "investment_impact": "助成金発表と商用売上は別。採択企業の技術成熟度を確認。",
+      "work_impact": "政策補助の採択条件と供給網への影響を調査。",
+      "caveats": "支援計画の発表。研究成果や商用化は未確定。"
+    },
+    {
+      "id": "2026-10-23-14",
+      "category": "テクノロジー",
+      "title": "米AI大手のロビー活動支出が過去最高水準",
+      "date": "2026-10-22",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+        }
+      ],
+      "summary": "米公開資料に基づく報道で、2026年7〜9月のロビー活動支出はNvidia220万ドル、Anthropic210万ドル、OpenAI150万ドル。",
+      "background": "AI安全性、輸出管理、データセンター電力、独禁政策が競争条件に直結。",
+      "importance": "モデル性能だけでなく制度形成への関与も市場競争の要素に。",
+      "japan_impact": "日本企業の海外AIサービス調達や規制対応にも間接的影響。",
+      "investment_impact": "規制・輸出管理・電力政策の変更可能性を企業評価に反映。",
+      "work_impact": "AI導入時は規約・データ所在・安全性基準を定期点検。",
+      "caveats": "金額はロビー活動支出の届出に基づく。影響力の大きさそのものを示すものではない。"
     }
   ],
-  "overseas_trends": [],
-  "github_trending": []
+  "overseas_trends": [
+    {
+      "title": "エネルギー高騰への対応：日本の補助再開検討とアジアのLNG確保",
+      "japan_comparison": "日本は価格負担の軽減策と調達安全保障を同時に考える必要。",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/asia-buys-more-lng-despite-surging-prices-el-nino-clouds-outlook-2026-10-22/"
+    },
+    {
+      "title": "安全保障×デジタル主権：欧州のNATO向けAIと日本の防衛費定義",
+      "japan_comparison": "欧州は運用支配権、日本は予算の定義と実効性が焦点。",
+      "url": "https://www.reuters.com/business/media-telecom/palantir-says-it-cannot-shut-off-nato-ai-system-europeans-fear-us-tech-2026-10-22/"
+    },
+    {
+      "title": "半導体産業政策：米国のパワー半導体支援と欧州の後工程需要",
+      "japan_comparison": "日本は製造装置・材料の強みを活かせる一方、政策競争が激化。",
+      "url": "https://www.reuters.com/business/besis-quarterly-orders-beat-expectations-ai-data-centre-demand-stays-strong-2026-10-22/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "star_gain": 2979,
+      "period": "2026-10-23日次",
+      "purpose": "AIコーディングエージェント向け多段階セキュリティ監査スキル。注目度は品質・安全性の証明ではない"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "star_gain": 1949,
+      "period": "2026-10-23日次",
+      "purpose": "最小限のコード変更を促すエージェント向けツール。利用前にライセンス・保守状況を確認"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "star_gain": 1407,
+      "period": "2026-10-23日次",
+      "purpose": "コード・ドキュメント等を知識グラフ化。実装品質とセキュリティは別途評価"
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "star_gain": 683,
+      "period": "2026-10-23日次",
+      "purpose": "PostgreSQLを中心とする開発プラットフォーム。累計スター数ではなく期間増加数"
+    },
+    {
+      "name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "star_gain": 423,
+      "period": "2026-10-23日次",
+      "purpose": "PHP言語インタプリタ本体。累計スター数ではなく期間増加数"
+    }
+  ]
 }
