@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-23",
+  "status": "過去号（非公開Markdownから一般ニュースのみ移行）",
+  "summary": [
+    "日本では消費税減税法案が20日に審議入りへ。日経平均は16日に反発したが、エネルギー高と為替の不確実性は継続。",
+    "ウクライナと中東の緊張が続く一方、日米・日独の半導体供給網連携が注目を集める。",
+    "AIでは設備投資の採算性・金融サイバーリスク・業務ソフトの競争政策が焦点。GitHubではエージェント系ツールが上位。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-17-1",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "消費税減税法案、10月20日に審議入りへ",
+      "summary": "自民党と衆院会派「中道」の国対委員長が、食料品の消費税減税関連法案を10月20日の衆院本会議で審議入りさせることで合意した。高市首相が出席予定。成立や施行は未確定。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.nippon.com/ja/news/yjj2026101600416/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-2",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "参議院予算委員会で基本的質疑開始",
+      "summary": "10月16日に参院予算委員会の基本的質疑が始まり、高市首相と全大臣が出席予定と報じられた。野党は簗氏の大臣辞任を巡る任命責任を追及する構えと報道。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.fnn.jp/articles/-/1133854"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-3",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "日独が半導体・重要鉱物の供給網強化を協議へ",
+      "summary": "共同通信は10月16日、日独政府が経済安全保障分野の連携強化を調整中で、10月28日にも首脳会談し半導体や重要鉱物の供給網強化で合意を目指すと報じた。正式合意は未確認。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://news.livedoor.com/article/detail/32583796/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-4",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "日経平均は10月16日に898.34円反発",
+      "summary": "日本経済新聞社の公式指数データによると、2026年10月16日の日経平均株価終値は65,324.29円で前日比898.34円高、+1.39%。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://indexes.nikkei.co.jp/nkave/archives/summary?dt=20261016&idx=nk225"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-5",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "10月16日午後5時のドル円は158.00〜158.02円",
+      "summary": "日銀公表の午後5時時点の外国為替市況を伝えた報道によると、2026年10月16日のドル円は1ドル158円00〜02銭。日中・時点の数値であり将来の相場ではない。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://finance.matsui.co.jp/news/628274/index"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-6",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "IMF、2026年世界成長率を3.1%と見通し",
+      "summary": "ReutersはIMF・世界銀行年次総会で、IMFが2026年世界経済成長率を3.1%と見通し、AI投資の持続性、債務、エネルギー価格のリスクを警告したと報道。成長率は予測であり確定値ではない。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/business/finance/imf-chief-urges-cooperation-ai-war-risks-us-hails-economic-momentum-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-7",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "ロシア大統領、ウクライナ国境沿いの『安全地帯』を主張",
+      "summary": "Reutersによるとプーチン大統領はウクライナ領内に安全地帯を構築すると表明し、交渉対象ではないと主張。支配範囲や目的に関するロシア側説明は独立検証された事実と区別する。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/putin-says-russia-is-building-non-negotiable-security-zone-ukraine-along-border-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-8",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "中国とEU、世界的な経済不均衡で対話",
+      "summary": "Reutersは、中国の藍仏安財政相がEU幹部との会談で世界的な経済不均衡について対話と政策協調に前向きな姿勢を示したと報道。実際の政策変更・合意内容は別途確認が必要。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/china/china-ready-cooperate-with-eu-tackling-global-imbalances-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-9",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "中東でヨルダン川西岸の暴力とイエメン攻撃が報道",
+      "summary": "APは、ヨルダン川西岸のオリーブ収穫時の入植者による襲撃と、イエメンのアデンでのミサイル攻撃などを報道。個別事件の被害・責任について報道時点の情報と当事者主張を区別する。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://apnews.com/article/5da500114e070ccaa27d36837b095de5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-10",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "日米、米ニューヨーク州の半導体工場計画で一致",
+      "summary": "JETROは、日米政府が戦略的投資イニシアティブでニューヨーク州の半導体製造プロジェクト実施に一致し、初期投資は約100億ドル、GFが工場運営者に選定されたと報告。将来増設は計画段階。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.jetro.go.jp/biznews/2026/10/48c1c629ae5acf43.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-11",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "東芝などが約10分充電のEVバス実証を発表",
+      "summary": "川崎鶴見臨港バス、東芝などはパンタグラフ式充電器を使う超急速充電EVバスの実証事業開始を発表。約10分での充電を目指し、2026年12月の営業運行開始予定が報じられた。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://cdntest.digitalpr.jp/r/146019"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-12",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "西武鉄道、変電所点検ロボットの実証を開始",
+      "summary": "西武鉄道はugoと連携し、ugo miniを使った変電所点検の実証実験を10月1日から開始したと報道された。点検担当者の移動時間削減やデータ蓄積が目的。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://response.jp/article/2026/10/15/417799.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-13",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "トヨタ、Areneを2030年に年間1000万台規模へ",
+      "summary": "Reutersはトヨタが車載ソフト基盤Areneを2030年までに約50車種・年間1000万台の新車に展開する目標を報道。これは将来目標で達成済みではない。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/technology/toyota-aims-make-all-its-cars-software-defined-by-2030-nikkei-reports-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-14",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "英競争当局、Microsoftの業務ソフト市場での地位を審査",
+      "summary": "Reutersは英国CMAがMicrosoftの業務ソフト市場における戦略的市場地位指定を検討していると報道。Excel・Teams・Copilotなどの抱き合わせや相互運用性が論点。Microsoftは当局の見解に異議を唱えている。決定は未確定。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/legal/litigation/uk-competition-regulator-targets-microsofts-business-software-grip-2026-10-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-17-15",
+      "category": "国内政治・政策",
+      "date": "2026-10-15〜16",
+      "title": "G7、AIを悪用した金融サイバー攻撃の演習へ",
+      "summary": "ReutersによるとG7財務相・中央銀行総裁らはAIを悪用したサイバー攻撃を想定した机上演習を実施する方針で合意。片山財務相が説明した。演習結果や具体的な対策の効果は今後の検証事項。",
+      "background": "",
+      "importance": "",
+      "japan_impact": "",
+      "work_impact": "",
+      "caveats": "過去の朝刊に記録された当時の報道・見通し。現在の確定情報とは区別してください。",
+      "sources": [
+        {
+          "label": "出典",
+          "url": "https://www.reuters.com/world/asia-pacific/g7-launch-exercises-guard-against-ai-cyber-attacks-2026-10-16/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "AIインフラ投資の資金調達が転機に",
+      "summary": "2026-10-16｜米AIデータセンター投資の負債依存と回収期間への懸念が拡大。日本も半導体・電力・設備投資の恩恵を受ける一方、需要減速時の設備稼働率が焦点。",
+      "japan_comparison": "当時の海外動向と日本への影響についての編集分析。",
+      "url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt"
+    },
+    {
+      "title": "ドイツが産業向けAI・ロボットに注力",
+      "summary": "2026-10-15｜独紙報道をReutersが紹介。NVIDIAとの産業AI協力案が浮上。日本の製造業の強みと共通するが、モデル基盤・計算資源の確保に違いがある。正式合意は未確認。",
+      "japan_comparison": "当時の海外動向と日本への影響についての編集分析。",
+      "url": "https://www.reuters.com/business/germany-plans-ai-cooperation-deal-with-nvidia-handelsblatt-says-2026-10-15/"
+    },
+    {
+      "title": "EU、エネルギー価格と自動車産業の両立を模索",
+      "summary": "2026-10-16｜EU首脳会議ではエネルギー高・対中貿易・自動車CO2規制が課題。日本も輸入エネルギーへの依存と自動車競争力の両立が課題だが、制度や電源構成は異なる。",
+      "japan_comparison": "当時の海外動向と日本への影響についての編集分析。",
+      "url": "https://www.reuters.com/sustainability/energy-prices-loom-over-eu-summit-2026-10-16/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "star_gain": 32282,
+      "purpose": "AIエージェントによるリバースエンジニアリング",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "star_gain": 3027,
+      "purpose": "ローカル音声合成・文字起こし・吹き替え",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "star_gain": 1369,
+      "purpose": "ソフトウェアのリバースエンジニアリング",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "star_gain": 1091,
+      "purpose": "科学研究向けエージェントスキル集",
+      "period": "daily（当時の表示）"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "star_gain": 1013,
+      "purpose": "コーディングエージェントの最適化・スキル集",
+      "period": "daily（当時の表示）"
+    }
+  ]
+}
