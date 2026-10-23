@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-14",
+  "status": "試験号｜1件のみ（朝刊の本番配信ではありません）",
+  "summary": [
+    "GitHubがGemini 4 ArgonをGitHub Copilot向けに提供すると発表。ニュース保存機能の試験記録。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-14-1",
+      "date": "2026-10-13",
+      "category": "テクノロジー",
+      "title": "GitHub Copilot、Gemini 4 Argonを追加",
+      "summary": "GitHubがGemini 4 ArgonをGitHub Copilot向けに提供すると発表。対象プラン・利用環境について案内した。",
+      "importance": "この号は公開記事の作成・保存フローを確認するための試験記録であり、一般ニュースの網羅的な朝刊ではない。",
+      "caveats": "モデル提供条件はその後変更されている可能性があります。",
+      "sources": [
+        {
+          "label": "GitHub Changelog",
+          "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot/"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-10-23",
+  "overseas_trends": [],
+  "github_trending": []
+}
