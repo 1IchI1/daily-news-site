@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-15",
+  "updated_at": "2026-10-23",
+  "status": "過去号｜公式発表の記録から一般ニュースのみ移行",
+  "summary": [
+    "ASMLが2026年第3四半期決算を発表。半導体製造装置の需要見通しが焦点。",
+    "GitHub Actionsの依存関係ロックファイルがパブリックプレビューに。",
+    "LSEGとNVIDIAが金融データ分析協業を発表。3D空間データや英国AI安全性研究も注目。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-15-1",
+      "title": "ASML、2026年第3四半期決算を発表",
+      "category": "経済・金融",
+      "summary": "ASMLは第3四半期売上高116億6,200万ユーロ、純利益49億6,000万ユーロ、粗利益率57.5%と公表した。",
+      "date": "2026-10-13〜14",
+      "caveats": "将来需要は企業の見通しであり実現済みではない。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-2",
+      "title": "GitHub Actions、ワークフロー依存関係ロックファイルを公開プレビュー",
+      "category": "テクノロジー",
+      "summary": "GitHubはGitHub Actionsの参照コミットを固定するワークフローロックファイルをプレビュー公開した。",
+      "date": "2026-10-13〜14",
+      "caveats": "固定した依存関係自体の安全性まで保証するものではない。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-3",
+      "title": "LSEGとNVIDIA、金融データ分析で協業",
+      "category": "テクノロジー",
+      "summary": "LSEGはNVIDIA cuDFとPolarsを使い、Tick Historyの大規模金融データ分析を高速化する協業を発表。",
+      "date": "2026-10-13〜14",
+      "caveats": "処理性能は当事者の発表値であり、すべての環境で再現できると確認したわけではない。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.lseg.com/en/media-centre/press-releases/2026/lseg-nvidia-accelerate-tick-history-analysis-cudf"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-4",
+      "title": "Hesai、3D空間データ基盤「Kosmo」を発表",
+      "category": "テクノロジー",
+      "summary": "HesaiはLiDARなどを活用し、ロボット訓練やワールドモデル向けの空間データを作成する基盤を発表。",
+      "date": "2026-10-13〜14",
+      "caveats": "速度や精度の性能値は企業の公表値で、第三者検証とは区別する。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.hesaitech.com/9974-2/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-15-5",
+      "title": "NVIDIA、英国のAI安全性研究へ計算資源提供計画",
+      "category": "テクノロジー",
+      "summary": "NVIDIAは英国のエージェント型AIの安全性研究に向け、今後5年間で2億5,000万ドル相当の計算資源を提供する計画を発表。",
+      "date": "2026-10-13〜14",
+      "caveats": "現金の給付ではなく計算資源相当額。将来の計画であり全額提供済みではない。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [],
+  "github_trending": []
+}
