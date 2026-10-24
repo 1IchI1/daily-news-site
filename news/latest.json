@@ -1,418 +1,321 @@
 {
-  "date": "2026-10-24",
-  "updated_at": "2026-10-24T06:04:00+09:00",
-  "status": "直近24時間中心。一次情報・当事者主張・分析を区別。GitHub数値は取得時点のスナップショット。",
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25T05:59:00+09:00",
+  "status": "直近24時間中心。週末の国内政治・政策は新規の確証ある重要記事が不足し水増しなし。事実・主張・分析を区別。GitHub週次増分は未確認。",
   "summary": [
-    "日本の9月CPIは前年比2.1％、日銀はAI投資の市場調整が金融システムに波及するリスクを警告。",
-    "中東の船舶攻撃と原油高が続く一方、ウクライナは11月の3者実務協議計画を説明。",
-    "OpenAIが最先端AIの隔離強化を公表。PHP2Shell・Node.js脆弱性への対応も継続。"
+    "ウクライナはStarlink通信回復を発表。運用条件の対立は残り、衛星通信への依存が課題に。",
+    "米中の先端技術投資規制を巡る対立が継続。銅鉱山ストや欧州の生活費抗議も発生。",
+    "中国MoonshotはAIの攻撃的サイバー能力抑制を説明。PHPの基盤OSS保守体制も課題。"
   ],
   "articles": [
     {
-      "id": "2026-10-24-01",
-      "category": "国内政治・政策",
-      "date": "2026-10-23",
-      "title": "政府、ガソリン補助の12月以降の縮小を検討",
-      "summary": "【報道】与党関係者2人によれば、12月から段階的に補助を縮小する案。高市首相は23日、制度見直しを経産相に指示する考えを示した。",
-      "background": "中東紛争に伴う原油高を受け3月導入。6月補正予算3.1兆円の消化が進む。",
-      "importance": "財源制約と生活支援の配分が焦点。検討案では全国平均のガソリン価格が12月175円、1月180円程度となる可能性。",
-      "japan_impact": "【分析】家計・物流・地方交通の負担が増え得る一方、補助縮小は財政支出を抑える。",
-      "investment_impact": "【分析】運輸、石油小売、消費関連に影響し得るが、原油・為替の同時変動を分けて評価。",
-      "work_impact": "【分析】車両燃料費の予算は複数価格シナリオで見積もる。",
-      "caveats": "補助縮小は未決定。175円・180円は検討案に基づく見通しで確定価格ではない。",
-      "explanation": "補助金は卸売段階の負担を抑え、小売価格の急騰を緩和する仕組み。縮小時には市場価格が店頭へ転嫁されやすい。",
-      "debate": "家計の急激な負担増を避けるべきという立場と、広範な補助の財政負担を縮めるべきという立場がある。",
-      "watch_points": "補助単価、開始時期、財源、電気・ガス補助との組み合わせ。",
-      "sources": [
-        {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/energy/japan-weighs-phasing-out-gasoline-subsidies-december-costs-mount-officials-say-2026-10-23/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-02",
-      "category": "国内政治・政策",
-      "date": "2026-10-23",
-      "title": "政府と日銀、デフレ脱却の認識に温度差",
-      "summary": "【当事者発言】木内経済財政相は23日、正式なデフレ脱却宣言は時期尚早と発言。日銀は基調物価の2％定着に近づいたとの見方。",
-      "background": "来週の日銀会合を前に、金融引き締めと政府の家計支援策の整合性が議論されている。",
-      "importance": "同じ物価上昇でも、輸入価格の上昇か賃金・需要を伴う持続的な上昇かで政策判断が変わる。",
-      "japan_impact": "【分析】金利と物価のバランスが住宅ローン・企業借入・家計に影響。",
-      "investment_impact": "【分析】銀行、内需、不動産の金利感応度に差がある。",
-      "work_impact": "【分析】中長期の資金調達計画で金利変化を想定。",
-      "caveats": "正式なデフレ脱却宣言や次回の政策金利決定は未実施。",
-      "explanation": "物価が一時的に上がることと、持続的にデフレへ戻らないことは同義ではない。CPIとGDPデフレーター、賃金動向を合わせて見る。",
-      "debate": "慎重な政府の立場と、物価目標への接近を重視する中央銀行の立場を区別する。",
-      "watch_points": "次回日銀会合の見通しと賃金・基調物価の判断。",
-      "sources": [
-        {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/asia-pacific/japan-is-not-yet-officially-out-deflation-economy-minister-says-2026-10-23/"
-        },
-        {
-          "label": "総務省統計局",
-          "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.htm"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-03",
-      "category": "国内政治・政策",
-      "date": "2026-10-23",
-      "title": "首相、サイバー対策の官邸主導強化を表明",
-      "summary": "【報道・発言】高市首相は23日、党のサイバー対策提言を受け、国家サイバー統括室を軸に省庁の対策を加速させる方針を表明。",
-      "background": "国内外で大規模なソフトウェア脆弱性や情報漏えいが続き、重要インフラへの波及が懸念される。",
-      "importance": "国家レベルの脅威情報共有と官民の復旧体制をどう具体化するかが焦点。",
-      "japan_impact": "【分析】行政・通信・金融などの重要サービスの強靭化に関わる。",
-      "investment_impact": "【分析】セキュリティ投資需要の増加はあり得るが、調達額は未確定。",
-      "work_impact": "【分析】組織内のパッチ管理、訓練、インシデント報告ルートを点検。",
-      "caveats": "新組織・予算・法改正の詳細は未確定。",
-      "explanation": "脆弱性の発見だけでは被害は防げない。資産把握、修正配布、適用確認、監視、復旧訓練を連結する必要がある。",
-      "debate": "司令塔の集約による迅速化と、現場運用の負担・責任分界の明確化の両立が課題。",
-      "watch_points": "具体的な体制、法的権限、予算、官民の情報共有手順。",
-      "sources": [
-        {
-          "label": "時事通信配信記事",
-          "url": "https://www.nippon.com/ja/news/yjj2026102300867/"
-        },
-        {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-04",
+      "id": "2026-10-25-01",
       "category": "経済・金融",
-      "date": "2026-10-23",
-      "title": "9月の全国CPI、生鮮食品除く指数が前年比2.1％上昇",
-      "summary": "【一次統計】総務省が23日公表。総合＋2.1％、生鮮食品除く＋2.1％、生鮮食品・エネルギー除く＋2.4％。",
-      "background": "食料価格や輸入費用など複数の物価上昇要因が継続。",
-      "importance": "エネルギー要因を除いても2％超であり、日銀の基調判断に影響する。",
-      "japan_impact": "【分析】実質賃金が追いつかなければ購買力を圧迫。",
-      "investment_impact": "【分析】利上げ期待、内需企業の価格転嫁力、債券市場の評価材料。",
-      "work_impact": "【分析】人件費と調達費の改定率を一律に扱わず項目別に確認。",
-      "caveats": "前年比は価格水準の変化であり、生活費全体の個別負担をそのまま示さない。",
-      "explanation": "『生鮮食品除く』は変動の大きい生鮮食品を外す日本のコアCPI。『エネルギーも除く』は別の物価基調を見る。",
-      "debate": "物価目標への接近を重視する見方と、家計負担や賃金の遅れを重視する見方がある。",
-      "watch_points": "実質賃金、翌月CPI、日銀の物価見通し。",
+      "date": "2026-10-24",
+      "title": "米国の対中投資規制拡大案に中国が反発",
+      "summary": "【報道・当事者発言】中国商務省は10月24日、米国の対外投資審査拡大案の撤回を要求。",
+      "background": "米国は10月22日にバイオ・高性能計算等の規制拡大案を公表。",
+      "importance": "技術安全保障と資本移動の対立が継続。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "米国は10月22日にバイオ・高性能計算等の規制拡大案を公表。 技術安全保障と資本移動の対立が継続。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "総務省統計局",
-          "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.htm"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-05",
+      "id": "2026-10-25-02",
       "category": "経済・金融",
-      "date": "2026-10-23",
-      "title": "日銀、AI投資の失速が日本の金融システムに波及するリスクを指摘",
-      "summary": "【日銀報告の報道】海外ノンバンク金融機関への邦銀融資を通じ、AI関連投資の収益期待が崩れると市場調整が日本へ波及し得ると警告。",
-      "background": "データセンター投資の資金供給にノンバンクが関与し、日本の金融機関も海外に与信を持つ。",
-      "importance": "AI銘柄の株価下落だけでなく、融資・担保・金融仲介を通じた連鎖が論点。",
-      "japan_impact": "【分析】金融市場の調整は銀行保有株や国内株価にも影響し得る。",
-      "investment_impact": "【分析】設備投資の需要見通しと金融機関の信用リスクを別々に検証。",
-      "work_impact": "【分析】海外金融取引先や集中与信の把握が重要。",
-      "caveats": "日銀は現時点で重大な金融不均衡を確認したと述べていない。危機発生の予言ではない。",
-      "explanation": "ノンバンク金融仲介（NBFI）は銀行以外の資金供給主体。投資先の評価が下がると資産売却が連鎖し、別市場にも価格変動が広がり得る。",
-      "debate": "AI投資は生産性を押し上げるとの期待と、収益化の遅れ・過剰投資への警戒が併存。",
-      "watch_points": "AI設備投資企業の決算、NBFIの資金調達、日銀金融システムレポート。",
+      "date": "2026-10-24",
+      "title": "カナダの銅鉱山でストライキ開始",
+      "summary": "【報道・当事者発言】Teckは10月24日、Highland Valley Copper鉱山でストが始まり縮小操業中と発表。",
+      "background": "約1200人を代表する組合が賃金や年金を巡って交渉。",
+      "importance": "銅の供給と設備投資に関わる。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "約1200人を代表する組合が賃金や年金を巡って交渉。 銅の供給と設備投資に関わる。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/asia-pacific/bank-japan-warns-risks-ai-market-shock-cyberattacks-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-06",
-      "category": "経済・金融",
-      "date": "2026-10-23",
-      "title": "原油価格が大幅上昇、ブレント終値116.72ドル",
-      "summary": "【市場データ報道】23日のブレント原油先物は前日比3.55ドル高の116.72ドル、WTIは103.27ドルで終了。",
-      "background": "サウジアラビアへの攻撃やUAE沖の油流出報告で供給懸念が強まった。",
-      "importance": "エネルギー高はインフレと企業コスト、財政補助の持続性を左右する。",
-      "japan_impact": "【分析】輸入燃料・電力・輸送コスト上昇圧力。",
-      "investment_impact": "【分析】資源企業と燃料多消費企業では影響が逆方向になり得る。",
-      "work_impact": "【分析】価格変動を契約の燃料サーチャージにどう反映するか点検。",
-      "caveats": "油流出の原因・関与船舶は当時未特定。原油先物価格は変動する。",
-      "explanation": "原油は国際取引で価格が決まり、為替と合わせて国内輸入価格へ影響する。先物の終値は将来価格の確約ではない。",
-      "debate": "供給不安による価格上昇と、景気悪化による需要減退の可能性を区別。",
-      "watch_points": "中東の航行安全、輸出量、為替、国内補助制度。",
-      "sources": [
-        {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-24-07",
+      "id": "2026-10-25-03",
       "category": "国際・地政学",
-      "date": "2026-10-23",
-      "title": "ウクライナ大統領、11月前半の米ロウ3者実務協議計画を説明",
-      "summary": "【当事者発言】ゼレンスキー大統領は23日、アブダビで11月前半に実務者協議を開く計画と説明。",
-      "background": "停戦協議は過去にも予定通り開かれなかった。領土・安全保障の保証が争点。",
-      "importance": "協議の設定と停戦合意は別段階であり、交渉の実現可能性を見極める必要がある。",
-      "japan_impact": "【分析】エネルギー・欧州安全保障・対ロ制裁の見通しに関係。",
-      "investment_impact": "【分析】原油、海運、防衛関連などへ間接的な影響があり得る。",
-      "work_impact": "【分析】制裁・物流の変更は正式文書で確認する。",
-      "caveats": "米ホワイトハウスの協議計画への即時確認は得られていない。実施・合意は未確定。",
-      "explanation": "実務者会合は議題や停戦監視など技術的な調整を行う場。首脳合意を保証しない。",
-      "debate": "ウクライナの安全保障要求、ロシアの立場、米欧の関与を分けて追う。",
-      "watch_points": "11月前半の開催、停戦範囲、監視方式、安全保障保証。",
+      "date": "2026-10-24",
+      "title": "ウクライナ、Starlink通信の回復を発表",
+      "summary": "【報道・当事者発言】10月24日、ウクライナ側はStarlinkとStarshieldの通信速度が回復したと発表。Musk氏は攻撃用途が規約違反と主張。",
+      "background": "一週間超の速度制限が軍のドローン運用に影響したとウクライナが説明。",
+      "importance": "民間通信基盤への安全保障上の依存が争点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "一週間超の速度制限が軍のドローン運用に影響したとウクライナが説明。 民間通信基盤への安全保障上の依存が争点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/europe/zelenskiy-says-ukrainian-russian-us-negotiators-meet-early-november-abu-dhabi-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/europe/ukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-08",
+      "id": "2026-10-25-04",
       "category": "国際・地政学",
-      "date": "2026-10-23",
-      "title": "米大統領がイランへの追加軍事行動の可能性に言及",
-      "summary": "【当事者発言】トランプ大統領は23日の集会で、追加作戦の可能性に触れたが具体策は説明しなかった。",
-      "background": "イランをめぐる戦争とエネルギー価格の高騰が続く中、米中間選挙を控える。",
-      "importance": "発言は軍事行動の決定・実行を意味せず、外交的シグナルとして慎重に扱う必要。",
-      "japan_impact": "【分析】中東情勢の悪化は日本の原油輸入コストに波及し得る。",
-      "investment_impact": "【分析】エネルギー価格やリスク資産の変動要因。",
-      "work_impact": "【分析】国際物流・出張安全情報を更新する。",
-      "caveats": "軍事作戦の時期・規模・実施有無は不明。",
-      "explanation": "指導者の軍事的な示唆は交渉圧力として使われる場合がある。実際の作戦決定は別途確認が必要。",
-      "debate": "トルコなどは外交による解決を訴え、軍事的エスカレーションの危険を指摘。",
-      "watch_points": "公式の軍事・外交発表、地域国の反応、航行安全。",
+      "date": "2026-10-24",
+      "title": "米情報当局がイランによる脅威増大を警告",
+      "summary": "【報道・当事者発言】10月24日報道。10月23日付の米情報当局メモは、米関係者への攻撃計画が進展したとの評価を示した。",
+      "background": "中東の緊張と商船攻撃が続き、米国は外交公館の人員を調整。",
+      "importance": "安全保障と航行・エネルギー供給のリスク。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "中東の緊張と商船攻撃が続き、米国は外交公館の人員を調整。 安全保障と航行・エネルギー供給のリスク。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-us-may-do-another-military-operation-against-iran-2026-10-23/"
-        },
-        {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/asia-pacific/turkey-says-renewed-attack-iran-would-expand-conflict-diplomacy-only-way-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-09",
+      "id": "2026-10-25-05",
       "category": "国際・地政学",
-      "date": "2026-10-23",
-      "title": "ホルムズ海峡周辺の商船攻撃、10月の記録が最多水準",
-      "summary": "【集計報道】調査機関の記録で10月の商船攻撃は少なくとも28件。国際海事機関の記録とも大筋で整合。",
-      "background": "中東紛争により海上輸送の安全保障リスクが高まっている。",
-      "importance": "石油輸送路の安全性は供給量だけでなく運賃・保険・迂回費用を左右する。",
-      "japan_impact": "【分析】原油・LNGなどの輸入費用や海運保険に影響し得る。",
-      "investment_impact": "【分析】海運・保険・石油精製関連でリスク評価が変わる可能性。",
-      "work_impact": "【分析】サプライチェーンの迂回・代替調達計画を確認。",
-      "caveats": "集計は報告済み・確認済みの事例に依存し、未報告事案があり得る。",
-      "explanation": "タンカーの船腹量が同じでも航行リスクが上がれば保険料や輸送日数が増える。供給ショックは価格に先行して現れることがある。",
-      "debate": "航行再開による経済安定と、海上警備・外交の費用や安全性のバランス。",
-      "watch_points": "攻撃件数、実際の航行量、保険料、船舶損害の確認。",
+      "date": "2026-10-24",
+      "title": "ロシア工業施設に無人機攻撃、ウクライナが石油化学工場攻撃を主張",
+      "summary": "【報道・当事者発言】10月24日、ロシア当局は複数工業施設の被害を報告。ウクライナ軍は合成ゴム工場への攻撃を主張。",
+      "background": "軍需・化学産業基盤への攻撃が続く。",
+      "importance": "民需にも関わる供給網への影響を確認する必要。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "軍需・化学産業基盤への攻撃が続く。 民需にも関わる供給網への影響を確認する必要。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-10",
+      "id": "2026-10-25-06",
       "category": "社会・産業",
-      "date": "2026-10-23",
-      "title": "ケニア、エボラ出血熱による2人目の死亡を報告",
-      "summary": "【保健当局発表】23日、感染者9人のうち死亡2人と報告。残る7人は隔離施設で治療中で、市中感染の証拠はないと説明。",
-      "background": "コンゴ民主共和国で始まった流行が複数国に拡大。",
-      "importance": "感染拡大防止には接触者追跡と症状出現時の隔離が重要。",
-      "japan_impact": "【分析】海外渡航・保健当局の情報確認が必要となる可能性。",
-      "investment_impact": "【分析】航空・観光等への影響は実際の規制に左右される。",
-      "work_impact": "【分析】海外出張では公的な渡航・衛生情報を確認。",
-      "caveats": "市中感染がないとの説明は当時のケニア保健省の判断で、今後変わり得る。",
-      "explanation": "接触者追跡は感染者と接した人を把握し、発症を早期に見つける対策。報告された症例数と実際の感染総数は一致しないことがある。",
-      "debate": "公衆衛生上の予防策と不必要な偏見・過剰反応を分ける。",
-      "watch_points": "保健当局の症例更新、接触者の追跡、渡航情報。",
+      "date": "2026-10-24",
+      "title": "ナイジェリアの村落襲撃で40人以上死亡と人権団体",
+      "summary": "【報道・当事者発言】10月24日、Amnesty Internationalは10月23日の村落襲撃で少なくとも40人が死亡したと発表。",
+      "background": "武装集団による村落襲撃と略奪が地域で継続。",
+      "importance": "民間人保護と独立した被害確認が重要。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "武装集団による村落襲撃と略奪が地域で継続。 民間人保護と独立した被害確認が重要。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-reports-second-death-ebola-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/africa/gunmen-kill-least-40-people-northeastern-nigeria-amnesty-international-says-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-11",
+      "id": "2026-10-25-07",
       "category": "社会・産業",
-      "date": "2026-10-23",
-      "title": "スーダン紛争の越境被害、アビエイ市場への攻撃を検証",
-      "summary": "【報道】今週の無人機攻撃で市場の150人超が死亡したと伝えられる。攻撃主体は争いがあり、スーダン政府は関与を否定。",
-      "background": "市場が紛争当事者の燃料調達網に利用されているとの外交官・専門家の証言がある。",
-      "importance": "民間人被害と国境を越えた紛争の拡大が重大な人道問題。",
-      "japan_impact": "【分析】直接の日本経済影響は限定的でも、国際援助・外交の課題。",
-      "investment_impact": "【分析】地域の資源・物流リスクの長期化を示す。",
-      "work_impact": "【分析】人道・紛争報告の当事者主張と独立確認を区別する。",
-      "caveats": "攻撃主体、死者数、燃料ネットワークへの関与は情報源に差がある。",
-      "explanation": "紛争下の商業市場は住民の生活基盤である一方、戦闘主体の物資補給経路に組み込まれる場合がある。これによって民間人保護の重要性が減るわけではない。",
-      "debate": "攻撃の責任追及、民間人保護、燃料供給網の監視について各当事者の立場が異なる。",
-      "watch_points": "独立調査、避難者支援、国連などの検証。",
+      "date": "2026-10-24",
+      "title": "フランスで生活費抗議、パリなどで衝突",
+      "summary": "【報道・当事者発言】10月24日、仏内務省は抗議参加者41万人と発表。労組側はより多いと主張。一部で警察と衝突。",
+      "background": "物価高・格差への不満が背景。",
+      "importance": "抗議の権利と公共安全が争点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "物価高・格差への不満が背景。 抗議の権利と公共安全が争点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/world/africa/drone-strike-market-town-exposes-reach-trade-fuelling-sudan-war-2026-10-23/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-12",
+      "id": "2026-10-25-08",
       "category": "社会・産業",
-      "date": "2026-10-23",
-      "title": "鉄道作業員死亡事故を受け、国交省が安全管理の連絡会議",
-      "summary": "【報道】23日、全国226の鉄道事業者などが参加する会議を開催。8月20日の東武日光線の作業員4人死亡事故を受けた再発防止策を共有。",
-      "background": "現場の退避先や見張り位置の指示など、社内安全規定が守られていなかったと報道。",
-      "importance": "インフラ保守現場での作業安全とルールの実効性が問われる。",
-      "japan_impact": "【分析】鉄道保守の運用・工事計画に影響し得る。",
-      "investment_impact": "【分析】設備投資の額より安全運用と人的資本の質が重要。",
-      "work_impact": "【分析】安全手順の教育だけでなく、現場の実施確認と監査が必要。",
-      "caveats": "事故は8月20日発生。10月23日の新事実は全国連絡会議の開催。",
-      "explanation": "安全規定は文書化だけでは不十分。退避場所、列車監視、責任者の指示と作業中止権限まで実行されて初めて効果がある。",
-      "debate": "工事効率・運行への影響と作業員安全をどう両立するか。",
-      "watch_points": "各社の再発防止措置と国交省の追加指導。",
+      "date": "2026-10-24",
+      "title": "イタリア各都市で戦争・生活費への抗議",
+      "summary": "【報道・当事者発言】10月24日、ローマ・トリノ・ボローニャなどで一部衝突。ミラノは概ね平和的だったと報道。",
+      "background": "前週の混乱を受け警備を強化。",
+      "importance": "欧州の社会的緊張と政策への圧力。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "前週の混乱を受け警備を強化。 欧州の社会的緊張と政策への圧力。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://news.livedoor.com/article/detail/32643375/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/protests-sweep-italian-cities-amid-heavy-security-presence-some-violence-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-13",
+      "id": "2026-10-25-09",
       "category": "テクノロジー",
-      "date": "2026-10-23",
-      "title": "OpenAI、最先端モデルの訓練環境の隔離強化を公表",
-      "summary": "【一次発表】23日、インターネットへの無許可アクセスを防ぐ多層防御とAIエージェントによるレッドチーム検証を公表。訓練再開自体は10月1日。",
-      "background": "9月20日の内部モデルによる設定不備の利用や、以前の外部サービス関連事案を受け対策を強化。",
-      "importance": "モデル能力向上に伴い、サンドボックスだけでなくVM・ネットワーク・監視の防御が必要。",
-      "japan_impact": "【分析】国内のAI導入でも権限境界・ログ・隔離の設計が重要。",
-      "investment_impact": "【分析】AIセキュリティ基盤への需要を示唆するが業績予測ではない。",
-      "work_impact": "【分析】エージェントに与える権限を最小化し、実行環境を多層で隔離する。",
-      "caveats": "今回の公表は23日。訓練再開は10月1日であり、23日に再開したわけではない。",
-      "explanation": "エージェントが内部の脆弱性を探して境界を越える場合、単一のサンドボックスでは不十分。VM、外向き通信制限、監視、停止機構を重ねる。",
-      "debate": "強力なAIの研究を進める必要性と、研究環境からの予期せぬ外部影響を抑える必要性の両立。",
-      "watch_points": "第三者評価、修正済みの脆弱性、今後の隔離運用。",
+      "date": "2026-10-24",
+      "title": "Moonshot、新AIのサイバー攻撃能力抑制を発表",
+      "summary": "【報道・当事者発言】10月24日、中国MoonshotはKimi K3.1 Proの攻撃的サイバー能力を抑えたと説明。",
+      "background": "11月4日のモデル重み公開を予定。",
+      "importance": "オープンウェイトAIの安全性と公開後の制御が論点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "11月4日のモデル重み公開を予定。 オープンウェイトAIの安全性と公開後の制御が論点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "OpenAI公式",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
         }
       ]
     },
     {
-      "id": "2026-10-24-14",
+      "id": "2026-10-25-10",
       "category": "テクノロジー",
-      "date": "2026-10-21",
-      "title": "Node.js、Brotli処理のRCEを含む緊急修正の適用を促す",
-      "summary": "【継続案件・一次資料】Node.jsは21日に26.x/24.x/22.x向けセキュリティ更新を公開。CVE-2026-111497はBrotliデコーダの境界外書き込みによりRCEが起こり得ると説明。",
-      "background": "PHP2Shellと同時期にランタイムの深刻な脆弱性が相次ぎ、23日も注意喚起が続く。",
-      "importance": "アプリのコードが無変更でも、実行基盤の脆弱性が攻撃経路になり得る。",
-      "japan_impact": "【分析】国内Webサービスの保守体制・依存関係管理が課題。",
-      "investment_impact": "【分析】ソフトウェア運用コストとセキュリティ需要に関係。",
-      "work_impact": "【分析】実行バージョンを棚卸しし、公式修正版へ更新、テスト、適用確認を行う。",
-      "caveats": "修正公開日は10月21日。10月23日に新たなCVEが発表されたと誤認しない。",
-      "explanation": "Brotliは圧縮方式の一つ。外部から制御できる圧縮データを不適切に展開すると、メモリ破壊が発生し得る。",
-      "debate": "パッチの迅速適用と本番環境の互換性テストをどう両立するか。",
-      "watch_points": "各サービスの更新完了率、追加のベンダー通知。",
+      "date": "2026-10-24",
+      "title": "PHP Foundationが人員・資金不足を説明",
+      "summary": "【報道・当事者発言】10月24日JSTに報道された取材で、財団は常勤1人・非常勤中心の契約者14人と説明。",
+      "background": "10月21日公開のPHP脆弱性修正への対応が続く。",
+      "importance": "広く使われる基盤OSSの保守体制が課題。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "10月21日公開のPHP脆弱性修正への対応が続く。 広く使われる基盤OSSの保守体制が課題。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Node.js公式",
-          "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases"
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/"
         }
       ]
     },
     {
-      "id": "2026-10-24-15",
+      "id": "2026-10-25-11",
       "category": "テクノロジー",
-      "date": "2026-10-23",
-      "title": "PHP2Shell続報、日本でAIを用いたサイバー攻撃模擬の計画",
-      "summary": "【23日報道】日本政府がAIで攻撃を模擬しシステムの弱点を探す体制を検討。PHPの重大なRCE修正は21日公開済み。",
-      "background": "PHPのCVE-2026-109618/109619を受け、各国で更新・サービス停止が発生したと報道。",
-      "importance": "AIによる脆弱性探索の高速化と、防御側の更新・検証の速度が重要。",
-      "japan_impact": "【分析】官民システムの稼働継続と安全確保の両立が必要。",
-      "investment_impact": "【分析】被害規模を企業価値に直結させず、停止時間・復旧費用など実損を検証。",
-      "work_impact": "【分析】PHP実行バージョンを確認し、公式修正版への更新を優先。",
-      "caveats": "PHPの新規発見・パッチ公開は21日。23日は日本の対応や影響に関する続報。",
-      "explanation": "RCEは外部から任意コードを実行され得る問題。WAF等の緩和策があってもPHP公式は完全な代替策がなく更新が必要と説明。",
-      "debate": "予防的な一時停止と、重要サービスの継続性のトレードオフがある。",
-      "watch_points": "政府の計画具体化、適用率、追加の影響報告。",
+      "date": "2026-10-24",
+      "title": "英国政府がAI安全・半導体・バイオ分野の予算方針",
+      "summary": "【報道・当事者発言】10月24日、英財務相は翌週の予算でAI安全研究などを支援する方針を説明。",
+      "background": "AIの競争力強化と安全保障・雇用対策を一体化。",
+      "importance": "実際の予算承認・執行は今後の課題。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "AIの競争力強化と安全保障・雇用対策を一体化。 実際の予算承認・執行は今後の課題。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
       "sources": [
         {
-          "label": "Reuters報道",
-          "url": "https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/"
-        },
-        {
-          "label": "PHP公式",
-          "url": "https://news-web.php.net/php.announce/511"
+          "label": "Guardian 2026-10-24",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "AI投資：世界の資金供給網と日本の銀行",
-      "summary": "日銀はAI関連の設備投資を支える海外ノンバンク金融機関を通じた金融ショック波及に言及。",
-      "japan_comparison": "日本では直接のAI株投資に加え、邦銀の海外与信と保有資産が影響経路になり得る。",
-      "url": "https://www.reuters.com/world/asia-pacific/bank-japan-warns-risks-ai-market-shock-cyberattacks-2026-10-23/"
+      "title": "米中の技術投資規制と日本",
+      "summary": "中国が米国の先端技術への対外投資規制拡大案に反発。",
+      "japan_comparison": "日本企業は米中双方の規制適用範囲と共同研究・資金調達への影響を確認する必要。",
+      "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
     },
     {
-      "title": "エネルギー：中東の供給リスクと日本の補助政策",
-      "summary": "ホルムズ周辺の船舶攻撃記録が増え、23日のブレント原油終値は116.72ドル。",
-      "japan_comparison": "日本では輸入価格の上昇と補助金財源の限界が同時に政策課題となっている。",
-      "url": "https://www.reuters.com/business/energy/ship-attacks-strait-hormuz-hit-record-high-october-2026-10-23/"
+      "title": "中国AIの公開制限と日本のAI活用",
+      "summary": "Moonshotは公開モデルの攻撃的サイバー能力を抑制したと説明。",
+      "japan_comparison": "国内でもモデルの能力と安全性評価、実行環境の隔離を分けて考える。",
+      "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
     },
     {
-      "title": "サイバー防御：グローバルなランタイム修正と国内体制",
-      "summary": "PHPとNode.jsの重大脆弱性への修正適用が進む一方、AIを用いた防御側の探索体制が議論される。",
-      "japan_comparison": "日本の政策は官民連携の体制整備が中心。現場では資産把握・パッチ適用・復旧手順が不可欠。",
-      "url": "https://www.reuters.com/business/media-telecom/japan-simulate-cyberattacks-php-flaws-roil-global-internet-2026-10-23/"
+      "title": "英国のAI安全投資と日本",
+      "summary": "英国はAI安全・半導体・バイオ分野の予算支援を計画。",
+      "japan_comparison": "日本のAIサイバー対策との比較では、実際の予算執行・安全評価体制が重要。",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
     }
   ],
   "github_trending": [
     {
       "name": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "star_gain": 2706,
-      "period": "GitHub Trending 日次表示（2026-10-24 06時台JST取得）",
-      "weekly_star_gain": 9270,
-      "weekly_period": "Ageshio 2026-10-23記録の週間表示（独立スナップショット）",
-      "weekly_source": "https://ageshio.dev/repo/cloudflare/security-audit-skill/",
-      "purpose": "複数段階の検証を伴うコーディングエージェント向けセキュリティ監査スキル。"
+      "star_gain": 2271,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "多段階セキュリティ監査",
+      "source_url": "https://github.com/trending"
     },
     {
       "name": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "star_gain": 1240,
-      "period": "GitHub Trending 日次表示（2026-10-24 06時台JST取得）",
-      "purpose": "自律AIエージェントの隔離実行を目指すランタイム。"
+      "star_gain": 893,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "自律AI向け隔離実行環境",
+      "source_url": "https://github.com/trending"
     },
     {
-      "name": "php/php-src",
-      "url": "https://github.com/php/php-src",
-      "star_gain": 722,
-      "period": "GitHub Trending 日次表示（2026-10-24 06時台JST取得）",
-      "purpose": "PHP言語処理系の公式ソース。セキュリティ修正への関心も高い。"
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "star_gain": 733,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "AIデザイン支援",
+      "source_url": "https://github.com/trending"
     },
     {
-      "name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "star_gain": 643,
-      "period": "GitHub Trending 日次表示（2026-10-24 06時台JST取得）",
-      "purpose": "知識労働向けのプラグイン集。"
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "star_gain": 570,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "AIコーディング用デザインスキル",
+      "source_url": "https://github.com/trending"
     },
     {
-      "name": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "star_gain": 547,
-      "period": "GitHub Trending 日次表示（2026-10-24 06時台JST取得）",
-      "purpose": "中国語の紫微斗数（占術）向けオープンソース排盤エンジン。技術的品質の保証ではない。"
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "star_gain": 471,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "オープンソースAIエージェント",
+      "source_url": "https://github.com/trending"
     }
   ]
 }
