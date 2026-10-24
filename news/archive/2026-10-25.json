@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25T05:59:00+09:00",
+  "status": "直近24時間中心。週末の国内政治・政策は新規の確証ある重要記事が不足し水増しなし。事実・主張・分析を区別。GitHub週次増分は未確認。",
+  "summary": [
+    "ウクライナはStarlink通信回復を発表。運用条件の対立は残り、衛星通信への依存が課題に。",
+    "米中の先端技術投資規制を巡る対立が継続。銅鉱山ストや欧州の生活費抗議も発生。",
+    "中国MoonshotはAIの攻撃的サイバー能力抑制を説明。PHPの基盤OSS保守体制も課題。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-25-01",
+      "category": "経済・金融",
+      "date": "2026-10-24",
+      "title": "米国の対中投資規制拡大案に中国が反発",
+      "summary": "【報道・当事者発言】中国商務省は10月24日、米国の対外投資審査拡大案の撤回を要求。",
+      "background": "米国は10月22日にバイオ・高性能計算等の規制拡大案を公表。",
+      "importance": "技術安全保障と資本移動の対立が継続。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "米国は10月22日にバイオ・高性能計算等の規制拡大案を公表。 技術安全保障と資本移動の対立が継続。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-02",
+      "category": "経済・金融",
+      "date": "2026-10-24",
+      "title": "カナダの銅鉱山でストライキ開始",
+      "summary": "【報道・当事者発言】Teckは10月24日、Highland Valley Copper鉱山でストが始まり縮小操業中と発表。",
+      "background": "約1200人を代表する組合が賃金や年金を巡って交渉。",
+      "importance": "銅の供給と設備投資に関わる。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "約1200人を代表する組合が賃金や年金を巡って交渉。 銅の供給と設備投資に関わる。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/business/world-at-work/teck-says-strike-begins-highland-valley-copper-mine-british-columbia-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-03",
+      "category": "国際・地政学",
+      "date": "2026-10-24",
+      "title": "ウクライナ、Starlink通信の回復を発表",
+      "summary": "【報道・当事者発言】10月24日、ウクライナ側はStarlinkとStarshieldの通信速度が回復したと発表。Musk氏は攻撃用途が規約違反と主張。",
+      "background": "一週間超の速度制限が軍のドローン運用に影響したとウクライナが説明。",
+      "importance": "民間通信基盤への安全保障上の依存が争点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "一週間超の速度制限が軍のドローン運用に影響したとウクライナが説明。 民間通信基盤への安全保障上の依存が争点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/europe/ukraine-says-starlink-starshield-operating-400-kph-after-week-throttling-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-04",
+      "category": "国際・地政学",
+      "date": "2026-10-24",
+      "title": "米情報当局がイランによる脅威増大を警告",
+      "summary": "【報道・当事者発言】10月24日報道。10月23日付の米情報当局メモは、米関係者への攻撃計画が進展したとの評価を示した。",
+      "background": "中東の緊張と商船攻撃が続き、米国は外交公館の人員を調整。",
+      "importance": "安全保障と航行・エネルギー供給のリスク。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "中東の緊張と商船攻撃が続き、米国は外交公館の人員を調整。 安全保障と航行・エネルギー供給のリスク。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/middle-east/iran-has-ramped-up-efforts-target-us-personnel-intelligence-memo-warns-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-05",
+      "category": "国際・地政学",
+      "date": "2026-10-24",
+      "title": "ロシア工業施設に無人機攻撃、ウクライナが石油化学工場攻撃を主張",
+      "summary": "【報道・当事者発言】10月24日、ロシア当局は複数工業施設の被害を報告。ウクライナ軍は合成ゴム工場への攻撃を主張。",
+      "background": "軍需・化学産業基盤への攻撃が続く。",
+      "importance": "民需にも関わる供給網への影響を確認する必要。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "軍需・化学産業基盤への攻撃が続く。 民需にも関わる供給網への影響を確認する必要。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/business/aerospace-defense/russia-says-drone-attack-damages-togliatti-facilities-ukraine-says-petrochemical-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-06",
+      "category": "社会・産業",
+      "date": "2026-10-24",
+      "title": "ナイジェリアの村落襲撃で40人以上死亡と人権団体",
+      "summary": "【報道・当事者発言】10月24日、Amnesty Internationalは10月23日の村落襲撃で少なくとも40人が死亡したと発表。",
+      "background": "武装集団による村落襲撃と略奪が地域で継続。",
+      "importance": "民間人保護と独立した被害確認が重要。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "武装集団による村落襲撃と略奪が地域で継続。 民間人保護と独立した被害確認が重要。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/africa/gunmen-kill-least-40-people-northeastern-nigeria-amnesty-international-says-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-07",
+      "category": "社会・産業",
+      "date": "2026-10-24",
+      "title": "フランスで生活費抗議、パリなどで衝突",
+      "summary": "【報道・当事者発言】10月24日、仏内務省は抗議参加者41万人と発表。労組側はより多いと主張。一部で警察と衝突。",
+      "background": "物価高・格差への不満が背景。",
+      "importance": "抗議の権利と公共安全が争点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "物価高・格差への不満が背景。 抗議の権利と公共安全が争点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/europe/france-mounts-huge-security-operation-protesters-prepare-march-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-08",
+      "category": "社会・産業",
+      "date": "2026-10-24",
+      "title": "イタリア各都市で戦争・生活費への抗議",
+      "summary": "【報道・当事者発言】10月24日、ローマ・トリノ・ボローニャなどで一部衝突。ミラノは概ね平和的だったと報道。",
+      "background": "前週の混乱を受け警備を強化。",
+      "importance": "欧州の社会的緊張と政策への圧力。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "前週の混乱を受け警備を強化。 欧州の社会的緊張と政策への圧力。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/world/protests-sweep-italian-cities-amid-heavy-security-presence-some-violence-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-09",
+      "category": "テクノロジー",
+      "date": "2026-10-24",
+      "title": "Moonshot、新AIのサイバー攻撃能力抑制を発表",
+      "summary": "【報道・当事者発言】10月24日、中国MoonshotはKimi K3.1 Proの攻撃的サイバー能力を抑えたと説明。",
+      "background": "11月4日のモデル重み公開を予定。",
+      "importance": "オープンウェイトAIの安全性と公開後の制御が論点。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "11月4日のモデル重み公開を予定。 オープンウェイトAIの安全性と公開後の制御が論点。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-10",
+      "category": "テクノロジー",
+      "date": "2026-10-24",
+      "title": "PHP Foundationが人員・資金不足を説明",
+      "summary": "【報道・当事者発言】10月24日JSTに報道された取材で、財団は常勤1人・非常勤中心の契約者14人と説明。",
+      "background": "10月21日公開のPHP脆弱性修正への対応が続く。",
+      "importance": "広く使われる基盤OSSの保守体制が課題。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "10月21日公開のPHP脆弱性修正への対応が続く。 広く使われる基盤OSSの保守体制が課題。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Reuters 2026-10-24（PHP記事は10-23 UTC）",
+          "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-11",
+      "category": "テクノロジー",
+      "date": "2026-10-24",
+      "title": "英国政府がAI安全・半導体・バイオ分野の予算方針",
+      "summary": "【報道・当事者発言】10月24日、英財務相は翌週の予算でAI安全研究などを支援する方針を説明。",
+      "background": "AIの競争力強化と安全保障・雇用対策を一体化。",
+      "importance": "実際の予算承認・執行は今後の課題。",
+      "japan_impact": "【分析】日本への直接・間接影響は各分野の調達・政策・供給網次第。現時点で確定的な数量効果は不明。",
+      "investment_impact": "【分析】関連市場への影響は想定できるが、価格変動や企業価値の予測ではない。",
+      "work_impact": "【分析】関係する制度・供給網・安全対策は公式資料で確認する。",
+      "caveats": "当事者の主張・初期集計は独立確認と区別。今後の続報で修正され得る。",
+      "explanation": "AIの競争力強化と安全保障・雇用対策を一体化。 実際の予算承認・執行は今後の課題。",
+      "debate": "当事者の立場と第三者による検証を区別する。",
+      "watch_points": "正式発表、独立した検証、実際の制度変更・被害・経済影響。",
+      "sources": [
+        {
+          "label": "Guardian 2026-10-24",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米中の技術投資規制と日本",
+      "summary": "中国が米国の先端技術への対外投資規制拡大案に反発。",
+      "japan_comparison": "日本企業は米中双方の規制適用範囲と共同研究・資金調達への影響を確認する必要。",
+      "url": "https://www.reuters.com/world/china/china-urges-us-halt-proposed-expansion-outbound-investment-curbs-2026-10-24/"
+    },
+    {
+      "title": "中国AIの公開制限と日本のAI活用",
+      "summary": "Moonshotは公開モデルの攻撃的サイバー能力を抑制したと説明。",
+      "japan_comparison": "国内でもモデルの能力と安全性評価、実行環境の隔離を分けて考える。",
+      "url": "https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/"
+    },
+    {
+      "title": "英国のAI安全投資と日本",
+      "summary": "英国はAI安全・半導体・バイオ分野の予算支援を計画。",
+      "japan_comparison": "日本のAIサイバー対策との比較では、実際の予算執行・安全評価体制が重要。",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "star_gain": 2271,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "多段階セキュリティ監査",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "star_gain": 893,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "自律AI向け隔離実行環境",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "star_gain": 733,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "AIデザイン支援",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "star_gain": 570,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "AIコーディング用デザインスキル",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "star_gain": 471,
+      "weekly_star_gain": null,
+      "period": "2026-10-25朝 JST、GitHub Trendingの日次表示。週次増分は独立確認できず未掲載",
+      "purpose": "オープンソースAIエージェント",
+      "source_url": "https://github.com/trending"
+    }
+  ]
+}
