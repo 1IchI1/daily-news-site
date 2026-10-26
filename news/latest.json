@@ -1,356 +1,392 @@
 {
-  "date": "2026-10-26",
-  "updated_at": "2026-10-26T05:58:00+09:00",
-  "status": "10/25 06:00〜10/26 06:00 JST中心。国内政治は確認可能な新規重要情報不足のため採録なし。継続セキュリティ案件は旧日付明記。速報・当事者発言・編集分析を分離。GitHub増加数は10/25取得記録。",
+  "date": "2026-10-27",
+  "updated_at": "2026-10-27T05:56:49+09:00",
+  "status": "10/26 06:00〜10/27 05:56 JSTの公開情報中心。新規報道と過去の発生を区別。事実・当事者発言・分析を分離。",
   "summary": [
-    "セルビアで学生主導勢力の勝利をブチッチ氏が認める。ウクライナは米国の弾道ミサイル警戒情報の回復を説明。",
-    "SpaceXのGPU購入向け400億ドル借入完了発言、イスラエルの制裁・暗号資産論争、セネガル予算対立が焦点。",
-    "台風30号と前線による国内大雨に警戒。LiteLLM正規配布物侵害は10月21日発生の重要継続案件。"
+    "日本政府はサイバー緊急対策の策定を指示。GMOクラウド侵害は26日夜に第7報。",
+    "AnthropicがIPO申請しAI事業の財務・安全リスクを開示。Metaも最大950億ドルの株式調達計画。",
+    "ブラジル大統領選でルラ氏再選。ウクライナの都市攻撃が継続し、日本では元台風30号の大雨に警戒。"
   ],
   "articles": [
     {
-      "id": "2026-10-26-01",
+      "id": "2026-10-27-01",
+      "category": "国内政治・政策",
+      "date": "2026-10-26",
+      "title": "政府がサイバー対策関係閣僚会議、来週中の緊急パッケージを指示",
+      "summary": "【首相公式発言】26日、企業の大規模情報漏えいを受け、高市首相がIPA・警察の支援拡充、AIによる脆弱性検証、来週中の緊急対策策定を指示。",
+      "background": "情報漏えいの二次被害と官民の初動連携が課題。",
+      "importance": "企業の被害対応と中小企業向け支援の制度化に影響。",
+      "japan_impact": "【分析】企業の相談・復旧支援の改善が期待されるが予算は未決定。",
+      "investment_impact": "【分析】セキュリティ企業の受注増は予算・調達を待って検証。",
+      "work_impact": "【分析】権限管理と初動・復旧手順の整備が必要。",
+      "caveats": "指示段階であり緊急対策の施行は未確定。",
+      "explanation": "アクセス・無害化措置は法的要件に基づく対処で、企業の要望だけで実行できるものではない。",
+      "debate": "官民連携と権限統制をどう両立するか。",
+      "watch_points": "来週のパッケージ、財政措置、IPA支援。",
+      "sources": [
+        {
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-02",
+      "category": "国内政治・政策",
+      "date": "2026-10-22",
+      "title": "福田康夫元首相の死去を26日に公表",
+      "summary": "【報道・政府会見】元首相が90歳で死去したと26日に報道され、首相官邸も会見を実施。死去は22日と報じられた。",
+      "background": "2007～08年に首相を務め、対中外交を重視。",
+      "importance": "日本政治史・対アジア外交の重要人物。",
+      "japan_impact": "【分析】現行政策への直接影響は確認できない。",
+      "investment_impact": "【分析】短期の市場影響は推測しない。",
+      "work_impact": "【分析】死去日と公表日を分けて記録。",
+      "caveats": "死因・日付は報道に基づく。新政策の発表ではない。",
+      "explanation": "ねじれ国会下の政権運営と外交姿勢が特徴だった。",
+      "debate": "政権運営と外交の歴史的評価は分ける。",
+      "watch_points": "政府・政党の追悼対応。",
+      "sources": [
+        {
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/world/asia-pacific/yasuo-fukuda-japans-first-second-generation-prime-minister-dies-90-nikkei-2026-10-26/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-03",
       "category": "経済・金融",
-      "date": "2026-10-25",
-      "title": "SpaceX、GPU購入向け400億ドルの借入調達完了とマスク氏が表明",
-      "summary": "【当事者発言】マスク氏は10月25日、GPU購入用の400億ドルの借入調達を完了したとXで説明。GPUは2027年前半の納入を想定。",
-      "background": "10月6日には同規模の調達交渉が報道されていた。今回は調達完了との本人発言が新情報。",
-      "importance": "AI計算設備の拡張に巨額の借入を使う事例であり、収益性と資金調達力を分けて見る必要。",
-      "japan_impact": "【分析】日本の半導体装置・部材・電力設備には間接的な需要経路があるが、発注先は未確認。",
-      "investment_impact": "【分析】借入成立は資金調達能力を示すが、設備投資回収や利益率の証明ではない。",
-      "work_impact": "【分析】GPU投資の支払時期と稼働時期を分けて追う。",
-      "caveats": "400億ドルはマスク氏の説明。借入契約全文・条件の独立検証は未実施。",
-      "explanation": "GPUはAIモデルの学習・推論を加速する半導体。調達資金と実際の設備稼働・売上計上には時間差がある。",
-      "debate": "大型投資が競争優位を生む可能性と、金利負担・需要不足で採算を損なう可能性を併記する。",
-      "watch_points": "契約条件、GPU納入、設備稼働率、AI事業の収益開示",
+      "date": "2026-10-26",
+      "title": "日銀は金利1.25％据え置き予想、12月利上げ余地",
+      "summary": "【報道・見通し】26日報道では週末の会合で据え置きつつ、追加利上げ余地を示すとの観測。正式決定ではない。",
+      "background": "賃金・基調物価・燃料高と円相場が政策判断を左右。",
+      "importance": "金利は家計・国債・為替・企業資金調達に波及。",
+      "japan_impact": "【分析】住宅ローンや預金金利への影響は実際の決定次第。",
+      "investment_impact": "【分析】銀行と高負債企業では金利感応度が異なる。",
+      "work_impact": "【分析】複数の金利シナリオで資金調達を検討。",
+      "caveats": "市場予想であり日銀決定ではない。",
+      "explanation": "利上げは借入コストを押し上げる一方、物価・円相場の安定に寄与する可能性。",
+      "debate": "物価抑制と景気負担のバランス。",
+      "watch_points": "政策決定会合と総裁会見。",
       "sources": [
         {
-          "label": "Reuters・マスク氏発言 10/25",
-          "url": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/world/asia-pacific/bank-japans-hawkish-pause-leave-scope-december-hike-2026-10-26/"
         }
       ]
     },
     {
-      "id": "2026-10-26-02",
+      "id": "2026-10-27-04",
       "category": "経済・金融",
-      "date": "2026-10-25",
-      "title": "イスラエル首相の暗号資産による制裁回避論に中央銀行が反論",
-      "summary": "【当事者発言・報道】ネタニヤフ首相は制裁への対応で暗号資産に言及。イスラエル中央銀行は有効な回避策にならないと反論し、経済学者100人超も懸念を表明。",
-      "background": "欧州諸国などによるヨルダン川西岸入植地関連の制裁措置を背景に、対外金融取引の制約が争点。",
-      "importance": "制裁と国際決済網、金融市場への信認を理解する上で重要。",
-      "japan_impact": "【分析】中東の金融・貿易不安が強まれば企業の決済・輸送・調達に間接的影響。",
-      "investment_impact": "【分析】政治的発言と実施済みの金融措置を区別し、金融制裁の範囲と実効性を確認する。",
-      "work_impact": "【分析】制裁対象・金融機関のコンプライアンス対応を確認する。",
-      "caveats": "暗号資産による制裁回避が可能と確定したわけではない。",
-      "explanation": "暗号資産で送金できても、実物貿易や大規模な国際決済には銀行、取引先、法令遵守が必要で、単純な置き換えはできない。",
-      "debate": "首相は代替手段の可能性を示す一方、中央銀行は経済的孤立を避ける外交を重視。",
-      "watch_points": "制裁内容の具体化、中央銀行対応、10月27日の選挙",
+      "date": "2026-10-26",
+      "title": "日経平均が3日続落、TOPIXは小幅高",
+      "summary": "【市場実績】26日の日経平均は0.80％安の62,189.65円、TOPIXは0.18％高。半導体株安とエネルギー株高が対照的。",
+      "background": "AI投資の採算懸念と中東のエネルギー供給リスクが併存。",
+      "importance": "指数の動きと市場全体の動きが異なる例。",
+      "japan_impact": "【分析】半導体需要と輸入燃料負担を分けて評価。",
+      "investment_impact": "【分析】株価下落と本来価値の毀損を混同しない。",
+      "work_impact": "【分析】指数構成比と業種別寄与を確認。",
+      "caveats": "日次の価格変動であり売買推奨ではない。",
+      "explanation": "日経平均は値がさ株の寄与が大きくTOPIXと乖離することがある。",
+      "debate": "AI投資懸念が業績悪化か一時的な評価修正か。",
+      "watch_points": "決算、原油価格、米AI投資。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/business/finance/netanyahu-rebuked-plan-use-crypto-bypass-economic-sanctions-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/world/asia-pacific/japans-nikkei-edges-lower-tech-sector-weighs-energy-shares-rise-2026-10-26/"
         }
       ]
     },
     {
-      "id": "2026-10-26-03",
+      "id": "2026-10-27-05",
       "category": "経済・金融",
-      "date": "2026-10-25",
-      "title": "セネガル与党が改定予算案を拒否、債務再編に不透明感",
-      "summary": "【当事者発言・報道】国会多数派のPastef党が10月25日、政府の改定予算案を現状では可決しないと表明。",
-      "background": "IMFとの融資プログラム協議と債務再編が進行中。改定予算はエネルギー補助増などを反映。",
-      "importance": "財政支援と議会承認が債務再編の実行可能性を左右。",
-      "japan_impact": "【分析】直接影響は限定的とみられるが、新興国債務と資源・エネルギー補助のリスクを考える材料。",
-      "investment_impact": "【分析】国債の信用力には予算成立・IMF融資条件・財政収支の改善が重要。",
-      "work_impact": "【分析】公的支援と政治的合意の時点を分けて記録する。",
-      "caveats": "予算案は否決済みではなく、与党の可決拒否方針。",
-      "explanation": "IMFプログラムは融資だけでなく財政政策などの条件を伴う。予算が議会を通らないと合意の履行に支障が出る。",
-      "debate": "補助金による家計保護と財政赤字削減の両立が難しい。",
-      "watch_points": "修正予算の再協議、IMF理事会手続き、債務再編の進捗",
+      "date": "2026-10-26",
+      "title": "MetaがAI設備投資向け最大950億ドルの株式調達を計画",
+      "summary": "【発表・報道】26日、約350億ドルの株式発行と将来最大600億ドルの市場売却枠を示した。950億ドル全額の調達完了ではない。",
+      "background": "データセンター投資に巨額の資金が必要。",
+      "importance": "AI投資の資金調達と株主希薄化の問題が顕在化。",
+      "japan_impact": "【分析】国内半導体・電力設備への需要経路はあるが直接受注は未確認。",
+      "investment_impact": "【分析】調達能力と投資収益率、希薄化を別々に評価。",
+      "work_impact": "【分析】調達枠と実行額を区別する。",
+      "caveats": "将来の発行計画を実行済みと扱わない。",
+      "explanation": "新株発行は既存株主の持分比率を低下させ得る。",
+      "debate": "設備投資成長と資金負担の両立。",
+      "watch_points": "実際の発行条件と投資回収。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/world/africa/senegal-party-that-controls-parliament-comes-out-against-revised-budget-bill-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/"
         }
       ]
     },
     {
-      "id": "2026-10-26-04",
+      "id": "2026-10-27-06",
       "category": "国際・地政学",
       "date": "2026-10-25",
-      "title": "セルビアで学生主導勢力が選挙勝利、ブチッチ氏が敗北認める",
-      "summary": "【当事者発言】ブチッチ氏は10月25日の議会選について学生主導の候補者リストの勝利を認めた。議席数は本人の暫定推計で、最終確定前。",
-      "background": "2024年の駅屋根崩落事故で16人が死亡したことを契機に、汚職・統治への抗議運動が約2年続いた。",
-      "importance": "市民運動が政権交代につながる可能性を示す大きな政治変化。",
-      "japan_impact": "【分析】欧州の政治安定・対外関係への間接的影響を注視。",
-      "investment_impact": "【分析】対欧州事業・資本流入への影響は新政権の政策次第。",
-      "work_impact": "【分析】確定議席と暫定発言を分けて確認。",
-      "caveats": "選管の最終集計前。ブチッチ氏の議席推計を確定値としない。",
-      "explanation": "議会選の議席配分は政権構成と法改正の可能性を変えるが、投票結果の確定と連立交渉は別段階。",
-      "debate": "学生運動の反汚職要求が政策に反映されるか、選挙後の政治運営が焦点。",
-      "watch_points": "公式議席配分、政権発足、対EU政策",
+      "title": "ブラジル大統領選、ルラ氏再選を当局が確認",
+      "summary": "【選挙当局発表】25日決選投票でルラ氏51.77％、フラビオ・ボルソナロ氏48.23％。26日も敗者側の異議が焦点。",
+      "background": "前日号では開票停止までの経過を報じたが、今回は正式な結果が新情報。",
+      "importance": "中南米最大の経済国の政治・対外政策を左右。",
+      "japan_impact": "【分析】資源・農産物貿易への間接的影響。",
+      "investment_impact": "【分析】市場変動と政策実行力を分けて判断。",
+      "work_impact": "【分析】当局結果と政治的受容を区別。",
+      "caveats": "敗者側は結果を争う意向。",
+      "explanation": "決選投票は過半数獲得者を決める制度。",
+      "debate": "投票時間延長と手続きの正統性をめぐる対立。",
+      "watch_points": "異議申し立てと議会との関係。",
       "sources": [
         {
-          "label": "Reuters 10/25 20:43 UTC",
-          "url": "https://www.reuters.com/world/europe/serbias-vucic-concedes-defeat-student-led-movement-parliamentary-election-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.camara.leg.br/noticias/1313705-lula-e-reeleito-presidente-com-quase-52-dos-votos-validos-no-2o-turno"
         }
       ]
     },
     {
-      "id": "2026-10-26-05",
+      "id": "2026-10-27-07",
       "category": "国際・地政学",
-      "date": "2026-10-25",
-      "title": "ブラジル大統領選決選投票、投票延長で開票が一時停止",
-      "summary": "【報道】10月25日の大統領選決選投票で、最高裁判事が一部の投票時間延長を認め、選管が開票を一時停止した。",
-      "background": "公共交通機関の運行を巡る訴えがあり、ルラ氏とフラビオ・ボルソナロ氏が争う。",
-      "importance": "中南米最大級の経済国の選挙運営と結果の正統性に関わる。",
-      "japan_impact": "【分析】農産物・鉱物の国際供給と対外政策の変化を注視。",
-      "investment_impact": "【分析】開票初期の得票率を最終結果として扱わない。",
-      "work_impact": "【分析】投票手続と集計の公式更新を優先。",
-      "caveats": "記事中の0.25％開票時点の数字は結果予測に使用しない。",
-      "explanation": "投票延長は一部の有権者の投票機会を確保する措置。開票の一時停止は当選者確定を意味しない。",
-      "debate": "投票アクセスの公平性と選挙の迅速な集計を両立できるかが争点。",
-      "watch_points": "選挙管理当局の正式結果、異議申し立て",
+      "date": "2026-10-26",
+      "title": "ロシア軍のハルキウ・キーウ攻撃で死傷者・停電",
+      "summary": "【地元当局発表・現地取材】26日、ハルキウで少なくとも2人死亡、4人負傷と市長が発表。キーウでも爆発・停電をロイターが確認。",
+      "background": "局地停戦の模索と並行して都市攻撃が継続。",
+      "importance": "民間人・電力インフラへの影響が深刻。",
+      "japan_impact": "【分析】欧州のエネルギー・安全保障の不透明感が続く。",
+      "investment_impact": "【分析】停戦期待を即時終戦と同一視しない。",
+      "work_impact": "【分析】当局発表と独立確認を分ける。",
+      "caveats": "被害人数と範囲は暫定で変動し得る。",
+      "explanation": "電力網攻撃は生活と防空・復旧費用に継続負担を与える。",
+      "debate": "交渉継続と攻撃停止をどう結びつけるか。",
+      "watch_points": "停電復旧と外交協議。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/world/americas/brazil-heads-polls-runoff-between-leftist-lula-bolsonaro-jr-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/world/russian-missile-strikes-ukraines-kharkiv-kill-two-injure-four-mayor-says-2026-10-26/"
         }
       ]
     },
     {
-      "id": "2026-10-26-06",
+      "id": "2026-10-27-08",
       "category": "国際・地政学",
-      "date": "2026-10-25",
-      "title": "サウジ首都空港が一部再開、フーシ派は攻撃継続を警告",
-      "summary": "【当事者発表・報道】サウジ当局は10月25日にリヤドの空港2ターミナルの運用再開を発表。フーシ派は攻撃対象との主張を継続。",
-      "background": "空港は10月10日の攻撃以降、運用を停止していた。25日にもミサイル・無人機の迎撃が報告された。",
-      "importance": "民間航空・物流と中東の安全保障が直接交わる問題。",
-      "japan_impact": "【分析】航空輸送とエネルギー・海運のコスト変動が日本企業に波及する可能性。",
-      "investment_impact": "【分析】保険料、輸送経路、エネルギー供給への影響は実績で検証する。",
-      "work_impact": "【分析】現地航空便・安全情報は運航会社と当局の最新情報で確認。",
-      "caveats": "再開発表と実際の便数には差があり、攻撃と迎撃の当事者発表は独立確認が必要。",
-      "explanation": "空港の一部再開は施設の安全性が全面的に回復したことと同義ではない。運航の再開と利用者の安全判断は別。",
-      "debate": "運航再開の経済効果と、再攻撃による人的・設備リスクが並存。",
-      "watch_points": "運航実績、再攻撃の有無、保険・航空便への影響",
+      "date": "2026-10-26",
+      "title": "中東の仲介外交で原油が反落、供給不安は残る",
+      "summary": "【市場報道】26日、カタール仲介者のイラン訪問報道などを受け原油が反落。一方サウジ施設への攻撃懸念が続く。",
+      "background": "中東の紛争でエネルギー供給へのリスクプレミアムが高まっている。",
+      "importance": "輸入国の物価・物流コストに直結。",
+      "japan_impact": "【分析】日本の輸入燃料価格と家計負担に影響。",
+      "investment_impact": "【分析】短期の原油反落と供給リスク解消を混同しない。",
+      "work_impact": "【分析】調達・輸送コストの前提を更新。",
+      "caveats": "仲介報道は停戦合意を意味しない。",
+      "explanation": "供給懸念が原油価格に上乗せされることがある。",
+      "debate": "外交進展と実際の供給正常化の時間差。",
+      "watch_points": "協議結果、輸送・生産状況。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/world/asia-pacific/global-markets-pix-2026-10-26/"
         }
       ]
     },
     {
-      "id": "2026-10-26-07",
-      "category": "国際・地政学",
-      "date": "2026-10-25",
-      "title": "ウクライナ大統領、米国の弾道ミサイル警戒情報が全面回復と発言",
-      "summary": "【当事者発言】ゼレンスキー大統領は10月25日、米国からの弾道ミサイル攻撃警戒情報が完全に回復したと説明。11月の三者技術協議で軍備制限や強制中立は議論しない立場を表明。",
-      "background": "10月24日にはStarlink/Starshieldの通信速度回復を発表していた。25日は別の早期警戒情報についての続報。",
-      "importance": "防空のための情報共有と民間通信基盤の依存関係が明らかに。",
-      "japan_impact": "【分析】欧州の安全保障とエネルギー供給の安定が間接的に関わる。",
-      "investment_impact": "【分析】停戦見通しを断定せず、交渉条件と実際の軍事行動を追う。",
-      "work_impact": "【分析】安全保障情報の復旧発言と第三者確認を区別。",
-      "caveats": "回復はウクライナ大統領の説明。米側の独立確認は記事中で確認できない。",
-      "explanation": "弾道ミサイルの早期警戒情報は、攻撃を検知して迎撃準備をする時間を増やす。通信速度の回復とは異なる。",
-      "debate": "軍備制限・中立・領土を巡る交渉条件は当事国で大きく異なる。",
-      "watch_points": "米側発表、11月の技術協議、実際の防空運用",
-      "sources": [
-        {
-          "label": "Reuters 10/25 20:40 UTC",
-          "url": "https://www.reuters.com/business/media-telecom/zelenskiy-says-us-warnings-ballistic-strikes-have-fully-resumed-2026-10-25/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-26-08",
+      "id": "2026-10-27-09",
       "category": "社会・産業",
-      "date": "2026-10-25",
-      "title": "台風30号と秋雨前線で山陰・九州など大雨警戒",
-      "summary": "【気象情報・報道】10月25日18時の山陰地方の報道で、48時間雨量が浜田96ミリ、松江87.5ミリなど。26日も大雨・土砂災害に注意が必要と気象台が呼びかけた。",
-      "background": "台風由来の湿った空気で秋雨前線の活動が活発化。26日にかけて風雨が強まる予想。",
-      "importance": "生命・交通・物流に直結する国内の重要情報。",
-      "japan_impact": "【分析】西日本の鉄道・道路・航空・配送の遅延リスク。",
-      "investment_impact": "【分析】局所的な物流影響はあり得るが、広域経済損失は現時点で算定しない。",
-      "work_impact": "【分析】自治体・気象庁・交通事業者の最新情報で当日判断する。",
-      "caveats": "予報は変化する。記載数値は10月25日の時点情報で、現時点の警報ではない。",
-      "explanation": "前線は広い範囲で雨を降らせ、台風の湿った空気が流入すると雨量が増える。台風が弱まっても大雨が終わるとは限らない。",
-      "debate": "気象予測の幅を踏まえ、警報の有無だけでなく既往雨量や地形に注意する。",
-      "watch_points": "気象庁の最新警報、河川水位、運休情報",
+      "date": "2026-10-26",
+      "title": "GMOクラウド侵害、26日夜に第7報と顧客保護対応",
+      "summary": "【企業公式続報】26日23:10時点、顧客端末の回収・解析開始を公表。攻撃者とみられる側は27日正午の情報公開等を予告したと説明。",
+      "background": "侵害は20日に確認され21日初報。金融口座認証情報の不正利用疑いが継続。",
+      "importance": "クラウドと金融口座の認証情報が連鎖する重大事案。",
+      "japan_impact": "【分析】国内利用者の口座・端末の安全確認が急務。",
+      "investment_impact": "【分析】補償費用・被害総額は未確定。",
+      "work_impact": "【分析】対象利用者は公式案内に従い別端末から認証情報変更、MFA、履歴確認。",
+      "caveats": "27日正午は攻撃者の予告であり実際の公開ではない。",
+      "explanation": "クラウド上の認証情報窃取はサービス停止後も別口座に影響し得る。",
+      "debate": "被害者保護と企業説明責任。",
+      "watch_points": "27日以降の実害、解析、補償。",
       "sources": [
         {
-          "label": "TSKさんいん中央テレビ 10/25 18:00",
-          "url": "https://www.fnn.jp/articles/-/1139567"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://internet.gmo/en/news/article/253/"
         }
       ]
     },
     {
-      "id": "2026-10-26-09",
+      "id": "2026-10-27-10",
       "category": "社会・産業",
-      "date": "2026-10-25",
-      "title": "シドニー西部の新国際空港が旅客運用開始",
-      "summary": "【公式発表・報道】豪州のWestern Sydney International Airportが10月25日に旅客便の運用を開始。政府は約56億豪ドルの事業と説明。",
-      "background": "従来のシドニー空港には深夜・早朝の離着陸制限があり、新空港は24時間運用を予定。",
-      "importance": "航空ネットワーク・都市開発・物流に長期的な影響。",
-      "japan_impact": "【分析】豪州便の路線再編や観光・物流の選択肢に間接的な影響があり得る。",
-      "investment_impact": "【分析】空港の稼働率・路線数・運航コストの実績を確認する。",
-      "work_impact": "【分析】新空港のアクセスと路線運航は公式時刻表で確認。",
-      "caveats": "年間旅客処理能力は空港側の公称値であり、初年度利用実績ではない。",
-      "explanation": "空港の新設は滑走路容量だけでなく、空港までのアクセス、乗り継ぎ、航空会社の便配置が価値を左右する。",
-      "debate": "地域経済の成長期待と建設費・公共投資の回収は別に評価する。",
-      "watch_points": "新規路線、旅客実績、地上アクセス",
+      "date": "2026-10-26",
+      "title": "元台風30号と前線で大雨、関東も27日まで警戒",
+      "summary": "【気象・現地報道】26日、九州北部で10月の雨量記録を更新した地点があり、関東では27日にかけ警報級の大雨の恐れ。",
+      "background": "台風30号は温帯低気圧化したが前線が活発化。",
+      "importance": "人命・交通・物流に直結。",
+      "japan_impact": "【分析】東西の交通・配送遅延の可能性。",
+      "investment_impact": "【分析】一時的な物流影響を恒久的業績変化と混同しない。",
+      "work_impact": "【分析】最新の気象庁・交通事業者情報で判断。",
+      "caveats": "26日夕方の予報であり27日朝の警報を保証しない。",
+      "explanation": "温帯低気圧化しても大雨の危険は残り得る。",
+      "debate": "地域ごとの危険度が異なる。",
+      "watch_points": "警報、河川水位、運休。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/world/asia-pacific/sydneys-new-international-airport-opens-passengers-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.fnn.jp/articles/-/1140072"
         }
       ]
     },
     {
-      "id": "2026-10-26-10",
+      "id": "2026-10-27-11",
       "category": "社会・産業",
-      "date": "2026-10-25",
-      "title": "フランスで生活費抗議の継続要求、政府が労組などと協議",
-      "summary": "【報道・当事者発言】10月25日、抗議団体は追加集会を要求。仏政府は労組・学生側との協議を開始。内務省は前日の逮捕者1314人と発表。",
-      "background": "物価高や政治への不満を背景に各地で抗議。前日24日のデモからの重要続報。",
-      "importance": "社会的不満、財政制約、政策実行力の関係を示す。",
-      "japan_impact": "【分析】欧州の消費・物流・企業活動への影響は長期化の有無次第。",
-      "investment_impact": "【分析】短期の市場反応と政策変更の実現可能性を区別。",
-      "work_impact": "【分析】出張・物流等は現地の安全情報を確認する。",
-      "caveats": "逮捕者数は仏内務省発表。参加者の要求と政府対応の評価は異なる。",
-      "explanation": "生活費対策には補助金や減税が考えられるが、財政余地が乏しいと政府が応じられる範囲は狭まる。",
-      "debate": "デモの権利、治安維持、財政持続性の三者の緊張。",
-      "watch_points": "政府と労組の交渉結果、追加デモ、政策措置",
+      "date": "2026-10-26",
+      "title": "米EQTとRangeが天然ガス企業統合を発表",
+      "summary": "【企業公式発表】26日、EQTがRangeを株式交換で買収する最終合意。統合後の企業価値は負債込み500億ドル超を見込む。",
+      "background": "LNG・AIデータセンター電力などの需要増を企業側が想定。",
+      "importance": "米国のガス供給構造に影響する大型M&A。",
+      "japan_impact": "【分析】日本のLNG調達への間接影響は契約次第。",
+      "investment_impact": "【分析】シナジー見通しは企業予測であり確定利益ではない。",
+      "work_impact": "【分析】買収対価と統合企業価値を区別。",
+      "caveats": "規制・株主承認が必要。2027年第1四半期完了予定。",
+      "explanation": "全株式買収は買収側の株式を交付する方式。",
+      "debate": "規模の経済と統合コスト。",
+      "watch_points": "承認とガス価格。",
       "sources": [
         {
-          "label": "Reuters 10/25",
-          "url": "https://www.reuters.com/world/europe/french-protest-groups-demand-more-rallies-macron-faces-tough-choices-2026-10-25/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2026/EQT-Announces-Strategic-Acquisition-of-Range-Resources-Creating-Americas-Undisputed-Natural-Gas-Champion/default.aspx"
         }
       ]
     },
     {
-      "id": "2026-10-26-11",
+      "id": "2026-10-27-12",
       "category": "テクノロジー",
-      "date": "2026-10-23",
-      "title": "【重要継続】LiteLLMの正規配布物にマルウェア、調査更新を確認",
-      "summary": "【開発元・調査会社発表】10月21日、LiteLLM 1.107.0の正規PyPI wheelとコンテナが侵害された。10月23日には開発元が初期説明の一部訂正を案内。10月25日朝時点で重要継続案件として扱う。",
-      "background": "攻撃者がリリース工程に介入し、ソースのGitタグと配布済みバイナリに差異が生じた。マルウェアは認証情報を窃取し追加コードを実行できる。",
-      "importance": "AI開発の共通基盤に対するサプライチェーン攻撃。PHP2Shell級の重大案件として継続監視が必要。",
-      "japan_impact": "【分析】国内で当該パッケージを利用する企業・開発環境の資格情報に影響し得る。",
-      "investment_impact": "【分析】被害規模・復旧コストは未確定。特定企業の株価への影響は断定しない。",
-      "work_impact": "【分析】該当版の導入履歴確認、隔離、認証情報ローテーション、依存関係と配布物の検証が必要。",
-      "caveats": "10月25日に新たな侵害が発生したとの意味ではない。攻撃経路の一部は調査中。",
-      "explanation": "Pythonの起動時に読み込まれる設定ファイルを悪用し、LiteLLMを明示的にimportしなくても悪意ある処理が動く。ソースコードだけのレビューでは配布wheelの改ざんを見落とし得る。",
-      "debate": "公開ソースの安全性と実際にインストールする成果物の安全性は別。署名・ハッシュ・ビルド権限の検証が重要。",
-      "watch_points": "開発元の確定版調査、被害範囲、再発防止策、関連アドバイザリ",
+      "date": "2026-10-26",
+      "title": "AnthropicがIPO申請、財務とAI安全リスクを開示",
+      "summary": "【米SEC一次資料】26日、S-1を提出。2026年上期売上約163億ドル、純損失約807億ドル。純損失には転換証券の非現金評価の影響が大きい。",
+      "background": "AI企業の急成長と巨額計算資源負担が可視化。",
+      "importance": "AI産業の資本コスト・ガバナンスを検討する重要資料。",
+      "japan_impact": "【分析】国内AI導入企業の調達先・価格競争に波及し得る。",
+      "investment_impact": "【分析】売上成長と現金支出・会計損益を分離。",
+      "work_impact": "【分析】外部AIの契約義務と情報管理を点検。",
+      "caveats": "IPO申請は上場成立ではない。価格未定。",
+      "explanation": "S-1は上場前の企業開示書類。会計上の純損失は現金流出と一致しない。",
+      "debate": "高成長と資金負担、創業者支配と株主保護。",
+      "watch_points": "上場条件、現金収支、リスク開示。",
       "sources": [
         {
-          "label": "LiteLLM公式インシデント報告（10/21、10/23訂正）",
-          "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026"
-        },
-        {
-          "label": "JFrog調査 10/21・10/22更新",
-          "url": "https://research.jfrog.com/post/litellm-hijacked-again/"
-        },
-        {
-          "label": "Microsoft調査 10/23",
-          "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
         }
       ]
     },
     {
-      "id": "2026-10-26-12",
+      "id": "2026-10-27-13",
       "category": "テクノロジー",
-      "date": "2026-10-25",
-      "title": "AIエージェントの隔離・セキュリティ監査OSSがGitHubで注目",
-      "summary": "【公開データ】10月25日06:56 UTC取得のGitHub Trending記録ではsecurity-audit-skillが日次+2264、NVIDIA/OpenShellが+896スター。新製品発表ではなく注目度の観測。",
-      "background": "AIエージェントがコード実行や外部アクセスを行う機会が増え、実行環境の権限分離と監査の仕組みが注目されている。",
-      "importance": "AIの自動実行を安全に業務導入するための技術選択肢を把握できる。",
-      "japan_impact": "【分析】国内の企業内AIワークフローでも権限設計・ログ・秘密情報管理が重要。",
-      "investment_impact": "【分析】スター数は採用率や安全性、売上の証明ではない。",
-      "work_impact": "【分析】OSS採用前にライセンス・保守・脆弱性・権限設定を確認。",
-      "caveats": "数字はGitHub Trendingを保存した第三者アーカイブの10月25日取得値。現在値ではない。",
-      "explanation": "エージェントが自律的にコマンドを実行する場合、モデルへの指示だけでなくOS・ネットワーク側の制約で被害範囲を限定する必要がある。",
-      "debate": "セキュリティ機能を持つOSS自体も安全性の審査対象であり、人気が品質保証になるわけではない。",
-      "watch_points": "導入事例、脆弱性報告、実際の更新・保守状況",
+      "date": "2026-10-26",
+      "title": "CathedralのAIエージェントがAnthropicの業務系システムへアクセス",
+      "summary": "【取材報道・会社確認】26日報道で、研究者が12時間未満でAnthropicの一部営業・人事・IT系システムにアクセス。Anthropicは限定的なアクセスを確認。",
+      "background": "第三者業務ソフトの脆弱性が経路。検証プログラム内で実施されたが開示手続きに見解相違。",
+      "importance": "モデル本体でなく周辺SaaSが攻撃面になる。",
+      "japan_impact": "【分析】国内企業も業務SaaSの連携権限を点検すべき。",
+      "investment_impact": "【分析】被害額・影響範囲は断定できない。",
+      "work_impact": "【分析】OAuth権限、外部委託、監査ログ、最小権限を確認。",
+      "caveats": "Anthropicは顧客会話・モデル重み・コードへのアクセスなしと説明。",
+      "explanation": "AIエージェントは既存のソフト脆弱性の悪用を自動化し得る。",
+      "debate": "研究者の開示手続きと企業の防御責任。",
+      "watch_points": "修正・独立検証・権限監査。",
       "sources": [
         {
-          "label": "GitHub Trending保存記録 10/25",
-          "url": "https://githubtrending.today/archive/2026-10-25/"
-        },
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-27-14",
+      "category": "テクノロジー",
+      "date": "2026-10-26",
+      "title": "Cadenceが半導体設計向けAIモデル群Maestroを発表",
+      "summary": "【発表の報道】26日、CadenceがNVIDIA技術を一部利用する半導体設計AIモデル群を発表。企業内データセンター運用にも対応する方針。",
+      "background": "半導体設計は機密IPが多く、クラウド利用制約がある。",
+      "importance": "業務特化モデルとオンプレAIの競争が進展。",
+      "japan_impact": "【分析】日本の設計・EDA企業のAI活用に波及し得る。",
+      "investment_impact": "【分析】企業側の性能値は検証条件次第。",
+      "work_impact": "【分析】機密データ管理と実作業の品質測定を重視。",
+      "caveats": "性能改善値は企業主張で独立比較ではない。",
+      "explanation": "EDAは半導体回路・配置設計を支援するソフトウェア。",
+      "debate": "機密性と運用容易性の両立。",
+      "watch_points": "限定提供と独立ベンチマーク。",
+      "sources": [
         {
-          "label": "GitHub週間一覧 10/25",
-          "url": "https://githubtrending.today/weekly/"
+          "label": "出典（2026-10-26公開・確認）",
+          "url": "https://www.reuters.com/business/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house-2026-10-26/"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "AI設備投資の借入拡大と日本の供給網",
-      "summary": "SpaceXはGPU購入向け借入完了を説明。調達と採算は別問題。",
-      "japan_comparison": "日本の装置・材料・電力企業への波及は具体的な受注・納入情報で判断する。",
-      "url": "https://www.reuters.com/business/media-telecom/musk-says-spacex-raised-40-billion-debt-gpus-2026-10-25/"
+      "title": "AI投資と資本市場：米Metaの資金調達と日本の供給網",
+      "summary": "米Metaは最大950億ドルの株式調達計画を公表。資金調達と採算は別問題。",
+      "japan_comparison": "日本の半導体装置・電力設備への波及は実際の受注と投資回収で評価。",
+      "url": "https://www.reuters.com/legal/transactional/meta-launches-35-billion-stock-offering-fund-ai-expansion-2026-10-26/"
     },
     {
-      "title": "欧州の抗議と日本の物価・財政対応",
-      "summary": "フランスでは生活費抗議が続き、財政余地の制約が政策選択に影響。",
-      "japan_comparison": "日本でも補助・減税の家計効果と財源・持続可能性を分けて検証する。",
-      "url": "https://www.reuters.com/world/europe/french-protest-groups-demand-more-rallies-macron-faces-tough-choices-2026-10-25/"
+      "title": "AIサイバー防御：米Anthropicの侵入検証と日本政府の対策",
+      "summary": "米企業の業務システム侵入検証と日本のサイバー緊急対策方針が同日に注目された。",
+      "japan_comparison": "国内でもSaaS連携権限の監査と官民の初動支援を組み合わせる。",
+      "url": "https://www.kantei.go.jp/jp/105/actions/202610/26kaigi_cyber.html"
     },
     {
-      "title": "AIエージェントの安全な実行とOSSサプライチェーン",
-      "summary": "LiteLLM配布物侵害とエージェント隔離OSSの注目が同時進行。",
-      "japan_comparison": "国内業務AIではモデルの安全性だけでなく、配布物検証・認証情報・実行権限の管理が必要。",
-      "url": "https://research.jfrog.com/post/litellm-hijacked-again/"
+      "title": "エネルギー安全保障：米ガス企業統合と日本の輸入依存",
+      "summary": "米天然ガス企業統合と中東の供給不安が同時進行。",
+      "japan_comparison": "日本では調達先分散・輸送経路・契約条件の確認が重要。",
+      "url": "https://ir.eqt.com/newsroom/news-releases/news-release-details/2026/EQT-Announces-Strategic-Acquisition-of-Range-Resources-Creating-Americas-Undisputed-Natural-Gas-Champion/default.aspx"
     }
   ],
   "github_trending": [
     {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "star_gain": 2264,
-      "weekly_star_gain": 12680,
-      "period": "2026-10-25 06:56 UTC、日次・直近7日（保存時点）",
-      "purpose": "AIエージェント向け段階的セキュリティ監査",
-      "source_url": "https://githubtrending.today/archive/2026-10-25/",
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "star_gain": 2235,
+      "weekly_star_gain": null,
+      "purpose": "AIコーディング用UIデザイン改善",
+      "period": "日次: GitHub公式2026-10-26閲覧時点／週間: 2026-10-26 06:58 UTC取得スナップショット",
+      "source_url": "https://github.com/trending",
       "weekly_source_url": "https://githubtrending.today/weekly/"
     },
     {
-      "name": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "star_gain": 896,
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "star_gain": 2292,
       "weekly_star_gain": null,
-      "period": "2026-10-25 06:56 UTC 日次。週間値は未確認",
-      "purpose": "AIエージェントの権限制御・隔離実行環境",
-      "source_url": "https://githubtrending.today/archive/2026-10-25/"
+      "purpose": "ローカル音声合成・編集",
+      "period": "日次: GitHub公式2026-10-26閲覧時点／週間: 2026-10-26 06:58 UTC取得スナップショット",
+      "source_url": "https://github.com/trending",
+      "weekly_source_url": "https://githubtrending.today/weekly/"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "star_gain": 619,
+      "star_gain": 1551,
       "weekly_star_gain": null,
-      "period": "2026-10-25 06:56 UTC 日次。週間値は未確認",
-      "purpose": "AI生成フロントエンドのデザイン改善",
-      "source_url": "https://githubtrending.today/archive/2026-10-25/"
+      "purpose": "AIエージェント向けデザイン言語",
+      "period": "日次: GitHub公式2026-10-26閲覧時点／週間: 2026-10-26 06:58 UTC取得スナップショット",
+      "source_url": "https://github.com/trending",
+      "weekly_source_url": "https://githubtrending.today/weekly/"
     },
     {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "star_gain": 455,
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "star_gain": 1268,
       "weekly_star_gain": null,
-      "period": "2026-10-25 06:56 UTC 日次。週間値は未確認",
-      "purpose": "AIコーディング向けデザイン監査スキル",
-      "source_url": "https://githubtrending.today/archive/2026-10-25/"
+      "purpose": "ローカルAIエージェント",
+      "period": "日次: GitHub公式2026-10-26閲覧時点／週間: 2026-10-26 06:58 UTC取得スナップショット",
+      "source_url": "https://github.com/trending",
+      "weekly_source_url": "https://githubtrending.today/weekly/"
     },
     {
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "star_gain": null,
-      "weekly_star_gain": 78562,
-      "period": "2026-10-25 06:56 UTC 週間。日次値は未確認",
-      "purpose": "エージェントを用いたリバースエンジニアリング",
-      "source_url": "https://githubtrending.today/weekly/"
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "star_gain": 2878,
+      "weekly_star_gain": 15072,
+      "purpose": "AIエージェント向け段階的セキュリティ監査",
+      "period": "日次: GitHub公式2026-10-26閲覧時点／週間: 2026-10-26 06:58 UTC取得スナップショット",
+      "source_url": "https://github.com/trending",
+      "weekly_source_url": "https://githubtrending.today/weekly/"
     }
   ]
 }
