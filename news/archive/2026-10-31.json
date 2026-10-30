@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T06:02:10+09:00",
+  "status": "2026-10-30 06:00〜2026-10-31 06:00 JSTを中心に確認。一次発表と報道、分析を区別。国内政治の独立した重要新発表は確認不足につき水増しせず。Trendingは10/30 06:58 UTC取得スナップショット。",
+  "summary": [
+    "日銀は政策金利1.25％を据え置き、追加利上げ余地を維持。米国ではIntelの見通し悪化とAI投資採算懸念でハイテク株が急落。",
+    "Binanceから約63億ドルの暗号資産流出。北朝鮮系攻撃者関与説は民間調査会社の分析段階。",
+    "ホルムズ海峡のタンカー被害報告が相次ぎ、FoxconnはOpenAIとの新協業を協議。"
+  ],
+  "articles": [
+    {
+      "id": "2026-10-31-01",
+      "category": "経済・金融",
+      "date": "2026-10-30",
+      "title": "日銀、政策金利1.25％を据え置き、物価見通しを上方修正",
+      "summary": "日銀は10月30日、政策金利を1.25％で維持（8対1）。基調的な物価上昇への警戒を示し、追加利上げの余地を残した。",
+      "background": "物価上昇と景気の弱さが併存する中、金融正常化を慎重に進める。",
+      "importance": "住宅ローン・企業借入・円相場に直結する重要な政策判断。",
+      "japan_impact": "金利上昇は家計・中小企業の資金調達コストを高め得る。",
+      "investment_impact": "【分析】銀行の利ざや改善と借入企業の資金調達負担を分けて評価。",
+      "work_impact": "【分析】社内予算・資金繰りの金利感応度を点検。",
+      "caveats": "据え置きは決定済みだが、次回の利上げは未決定。",
+      "sources": [
+        {
+          "label": "日銀 10/30政策決定",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-02",
+      "category": "経済・金融",
+      "date": "2026-10-30",
+      "title": "Intelの業績見通し悪化で半導体株が世界的に急落",
+      "summary": "10月30日、Intelは需要とキャッシュフローの厳しい見通しを受けて株価が大幅下落。半導体関連にも売りが広がった。",
+      "background": "AI設備投資が増える一方、PC需要とメモリー価格、製造投資の資金負担が重なる。",
+      "importance": "半導体業界内で需要の強弱と設備投資採算の差が顕在化。",
+      "japan_impact": "日本の半導体装置・素材企業にも需要見通しを通じて影響し得る。",
+      "investment_impact": "【分析】一斉下落と各社の本源的な収益悪化を分ける必要。",
+      "work_impact": "【分析】顧客別の設備投資計画と在庫を確認。",
+      "caveats": "取引時間中の下落率と終値は異なる。企業ごとに業績構造が違う。",
+      "sources": [
+        {
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-03",
+      "category": "経済・金融",
+      "date": "2026-10-30",
+      "title": "米国株、AI投資の回収懸念で大幅下落",
+      "summary": "10月30日の米株式市場ではS&P500が約1.8％、Nasdaqが約2.9％下落。大型テックの巨額AI投資と現金創出力が焦点。",
+      "background": "AIインフラ投資の拡大と利益・現金回収の時間差への懸念。",
+      "importance": "AI投資ブームが企業価値を押し上げる条件を再評価する局面。",
+      "japan_impact": "日本の輸出・半導体関連株にも市場心理を通じて波及し得る。",
+      "investment_impact": "【分析】株価下落率だけでは割安性は判定できない。",
+      "work_impact": "【分析】売上成長、設備投資、フリーキャッシュフローを分離して追う。",
+      "caveats": "市場全体の下落原因を単一要因と断定しない。",
+      "sources": [
+        {
+          "label": "AP 10/30",
+          "url": "https://apnews.com/article/16c266731fdf64178f38070af2b42497"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-04",
+      "category": "国際・地政学",
+      "date": "2026-10-30",
+      "title": "ホルムズ海峡のタンカー被害、イラン側主張と海事当局報告に相違",
+      "summary": "10月30日、イラン革命防衛隊はタンカー4隻の火災を主張。英国海事当局は船舶への飛翔体被弾などを報告したが、同一事案かは未確認。",
+      "background": "中東情勢の緊張と海上交通の危険増大。",
+      "importance": "原油・海運の供給リスクが日本経済に直結。",
+      "japan_impact": "原油調達費や海上保険料の上昇につながる可能性。",
+      "investment_impact": "【分析】石油・海運関連の価格変動は実際の供給途絶規模次第。",
+      "work_impact": "【分析】物流経路・保険条件・代替調達を点検。",
+      "caveats": "イラン側発表の被害規模は独立確認されていない。",
+      "sources": [
+        {
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-05",
+      "category": "国際・地政学",
+      "date": "2026-10-30",
+      "title": "ウクライナのロシア製油所攻撃停止を米紙報道、独立確認は未了",
+      "summary": "10月30日、WSJは米国の働きかけでウクライナがロシア製油所への攻撃を一時停止したと報道。Reutersは独立に確認できていないと明記。",
+      "background": "エネルギー価格と米国の停戦外交が交錯。",
+      "importance": "交渉状況を示す可能性はあるが確定した停戦合意ではない。",
+      "japan_impact": "燃料価格と欧州安全保障に間接的な影響。",
+      "investment_impact": "【分析】報道段階で原油供給改善を確定視しない。",
+      "work_impact": "【分析】停戦対象と期間を明示して追跡。",
+      "caveats": "匿名情報源に基づく二次報道であり、当事者の正式合意は未確認。",
+      "sources": [
+        {
+          "label": "Reuters 10/30 WSJ引用",
+          "url": "https://www.reuters.com/business/energy/ukraine-pauses-strikes-russian-refineries-after-pressure-trump-wsj-reports-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-06",
+      "category": "社会・産業",
+      "date": "2026-10-30",
+      "title": "Binanceから約63億ドル相当の暗号資産流出、補償準備を発表",
+      "summary": "10月30日、Binanceは約63億ドル規模の流出を受け、顧客損失を補うため約63.4億ドルの資金を確保したと説明。約30億ドル相当の凍結も報告。",
+      "background": "暗号資産取引所の署名・送金承認基盤が集中リスクとなる。",
+      "importance": "金額が極めて大きく、金融システムの信頼とセキュリティ管理に波及。",
+      "japan_impact": "国内事業者にも鍵管理・承認権限・委託先管理の点検を促す。",
+      "investment_impact": "【分析】補償表明と実際の全額回収・返還は別。",
+      "work_impact": "【分析】多要素承認、署名環境の分離、異常送金検知を再点検。",
+      "caveats": "侵入経路・被害総額は調査で修正され得る。",
+      "sources": [
+        {
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-07",
+      "category": "テクノロジー",
+      "date": "2026-10-30",
+      "title": "Binance侵害で北朝鮮系TraderTraitor関与説、調査会社が高確度と評価",
+      "summary": "10月30日、TRM Labsはオンチェーン・オフチェーン分析を根拠にTraderTraitorの関与を高い確信度で指摘。捜査当局の確定認定とは異なる。",
+      "background": "認証情報窃取や送金署名基盤への攻撃が疑われている。",
+      "importance": "高度な攻撃者が金融インフラを標的にする脅威を示す。",
+      "japan_impact": "日本企業でも開発者端末や署名・決済系の権限管理が重要。",
+      "investment_impact": "【分析】被害額と企業価値の関係は補償・顧客流出・規制次第。",
+      "work_impact": "【分析】開発者端末の隔離、最小権限、承認フローの多重化。",
+      "caveats": "犯行主体の特定は民間分析会社の評価で、公式捜査結果ではない。",
+      "sources": [
+        {
+          "label": "Reuters/TRM 10/30",
+          "url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-08",
+      "category": "テクノロジー",
+      "date": "2026-10-30",
+      "title": "Foxconn、OpenAIとの新協業を協議、AIサーバー生産拡大",
+      "summary": "10月30日、Foxconn会長はOpenAIとの新たな協業を進めていると説明。詳細・正式発表は今後とした。",
+      "background": "既存のAIデータセンター機器設計・製造協力を拡大する動き。",
+      "importance": "AIの計算資源需要が製造業の設備投資と雇用に波及。",
+      "japan_impact": "電子部品・製造装置・電力設備などのサプライチェーンに影響し得る。",
+      "investment_impact": "【分析】協議段階の案件を確定受注・利益として計上しない。",
+      "work_impact": "【分析】正式契約、納入規模、量産時期を追う。",
+      "caveats": "会長の見通しは企業の主張であり、AIバブルがないことの証明ではない。",
+      "sources": [
+        {
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31-09",
+      "category": "テクノロジー",
+      "date": "2026-10-30",
+      "title": "GitHub、AI生成コード急増に伴う基盤負荷を報告",
+      "summary": "10月30日報道によれば、GitHubはAIエージェントによるコード投稿の急増を受け、計算・ストレージ・ネットワーク資源の大幅な増強を説明。",
+      "background": "AIコーディングでPR・CI実行回数が増加。",
+      "importance": "開発プラットフォームのコスト構造と品質管理が変化。",
+      "japan_impact": "国内開発組織でもCI費用とレビュー負荷が増える可能性。",
+      "investment_impact": "【分析】インフラ需要増は収益増と同義ではない。",
+      "work_impact": "【分析】自動テスト・レビュー・CI予算の上限を設計。",
+      "caveats": "報道に記載された数値は原技術報告の集計定義との照合が必要。",
+      "sources": [
+        {
+          "label": "Tom's Hardware 10/30",
+          "url": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "日米の金融環境：日銀の正常化と米国ハイテク株調整",
+      "summary": "日銀は金利据え置きながら追加利上げ余地を示し、米国ではAI設備投資の回収懸念からハイテク株が下落。",
+      "japan_comparison": "日本では金利負担・為替と半導体需要の両経路を分けて評価。",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/"
+    },
+    {
+      "title": "暗号資産インフラの巨大侵害と日本の権限管理",
+      "summary": "Binanceの巨額流出で署名・送金基盤の集中リスクが浮上。",
+      "japan_comparison": "国内金融・クラウドでも特権端末、鍵管理、多重承認の運用が重要。",
+      "url": "https://www.reuters.com/legal/government/gone-20-minutes-how-biggest-heist-crypto-history-unfolded-2026-10-30/"
+    },
+    {
+      "title": "AI計算資源の拡大と実際の資金回収",
+      "summary": "FoxconnのAIサーバー拡大構想とIntelの資金繰り懸念が対照的。",
+      "japan_comparison": "日本の装置・素材企業は発注額だけでなく顧客のFCF・生産計画を確認。",
+      "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "star_gain": 1930,
+      "purpose": "AI個別学習支援",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "star_gain": 2870,
+      "purpose": "AIコーディングのUIデザイン支援",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "star_gain": 1117,
+      "purpose": "軽量AI支援IDE",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "star_gain": 709,
+      "purpose": "ローカル中心のAIチーム作業環境",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "star_gain": 1034,
+      "purpose": "エージェント開発方法論",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    }
+  ]
+}
