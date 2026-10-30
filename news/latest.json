@@ -1,438 +1,245 @@
 {
-  "date": "2026-10-30",
-  "updated_at": "2026-10-30T06:00:58+09:00",
-  "status": "2026-10-29 06:00〜2026-10-30 06:00 JSTの公表・続報を調査。発表事実・当事者主張・分析を区別。GitHub Trendingは10/29 06:59 UTC取得スナップショット。",
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T06:02:10+09:00",
+  "status": "2026-10-30 06:00〜2026-10-31 06:00 JSTを中心に確認。一次発表と報道、分析を区別。国内政治の独立した重要新発表は確認不足につき水増しせず。Trendingは10/30 06:58 UTC取得スナップショット。",
   "summary": [
-    "政府は冬の電気・ガス支援と燃料補助の段階的見直し方針を発表。衆院比例31議席削減で3党合意、北朝鮮はミサイル発射。",
-    "米GDPは年率3.4％増、ECBは金利据え置き。AmazonのAWSは39％成長したがAI設備投資によるFCF悪化が焦点。",
-    "GMO侵害の情報提供は321件に。OpenAIがModel Specを改定、Google Cloudは重大脆弱性向け報奨枠を拡充。"
+    "日銀は政策金利1.25％を据え置き、追加利上げ余地を維持。米国ではIntelの見通し悪化とAI投資採算懸念でハイテク株が急落。",
+    "Binanceから約63億ドルの暗号資産流出。北朝鮮系攻撃者関与説は民間調査会社の分析段階。",
+    "ホルムズ海峡のタンカー被害報告が相次ぎ、FoxconnはOpenAIとの新協業を協議。"
   ],
   "articles": [
     {
-      "id": "2026-10-30-01",
-      "category": "国内政治・政策",
-      "date": "2026-10-29",
-      "title": "政府、冬の電気・ガス料金支援とガソリン補助の段階的見直し方針を表明",
-      "summary": "【首相会見・29日】電気料金は12月1円/kWh、1～2月4.5円/kWhを支援。標準家庭の電気・ガス負担を3か月で約7,000円軽減するとの政府試算。ガソリン補助の基準価格は12月以降、原則毎月5円ずつ引き上げる方針。",
-      "background": "中東情勢による燃料価格高騰と補助金の財政負担が続く。",
-      "importance": "家計負担の緩和と財政持続性を同時に調整する政策転換。",
-      "japan_impact": "【分析】冬季光熱費の一部が抑制される一方、燃料油の実勢価格は原油相場次第で変わる。",
-      "investment_impact": "【分析】電力・燃料コストを使う業種では補助縮小の価格転嫁力が焦点。",
-      "work_impact": "【分析】12月以降の補助単価、請求反映時期、事業者向け制度を確認。",
-      "caveats": "政府の発表した方針・試算。ガソリン店頭価格が毎月必ず5円上がるという意味ではなく、食料品消費税引下げも成立前の審議事項。",
-      "explanation": "基準価格を引き上げると、同じ原油価格でも政府が負担する補助額が減り得る。電気料金支援は使用量に応じて計算される。",
-      "debate": "短期的な生活支援と税負担・補助の出口設計。",
-      "watch_points": "制度詳細、原油価格、12月の電気料金請求への反映。",
-      "sources": [
-        {
-          "label": "首相官邸 10/29会見",
-          "url": "https://www.kantei.go.jp/jp/105/statement/2026/1029kaiken.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-02",
-      "category": "国内政治・政策",
-      "date": "2026-10-29",
-      "title": "自民・維新・国民の3党、衆院比例31議席削減案で合意",
-      "summary": "【29日報道】3党幹事長が比例代表定数を31削減し、修正サンラグ式と統一名簿を盛り込む案に合意。",
-      "background": "与党側の45議席削減案と国民民主の19議席案を調整。",
-      "importance": "議席配分の制度設計が政党間の代表性を変え得る。",
-      "japan_impact": "【分析】議員定数だけでなく議席配分方式によって投票結果の反映が変化する。",
-      "investment_impact": "【分析】経済政策の可決可能性に間接的な影響はあるが、直接の株価材料とは限らない。",
-      "work_impact": "【分析】合意と法案成立を区別して今後の国会審議を追う。",
-      "caveats": "3党の合意であり法律の成立・施行は未確認。",
-      "explanation": "比例代表は政党票を議席に変換する仕組みで、計算式の変更により小党への配分が変わり得る。",
-      "debate": "定数削減による効率化と民意の多様性の確保。",
-      "watch_points": "法案提出、修正案の条文、国会採決。",
-      "sources": [
-        {
-          "label": "FNN 10/29 12:18",
-          "url": "https://www.fnn.jp/articles/-/1142128"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-03",
-      "category": "国内政治・政策",
-      "date": "2026-10-29",
-      "title": "防衛相、ASEAN関連会合で日豪協力と国内AMRAAM組立合意を説明",
-      "summary": "【防衛省一次資料・29日】防衛相はADMMプラス参加と日豪防衛相会談の成果を説明し、米国との調整でAMRAAMの日本国内最終組立・検査施設設置に合意したと発表。",
-      "background": "インド太平洋の安全保障環境変化と防衛装備の供給能力強化。",
-      "importance": "調達・整備・供給網の国内能力を高める可能性がある。",
-      "japan_impact": "【分析】安全保障産業の生産設備・人材・品質保証の整備が論点。",
-      "investment_impact": "【分析】個別企業の受注・収益は正式契約と配分が出るまで未確定。",
-      "work_impact": "【分析】共同開発、最終組立、ライセンス生産は異なるため範囲を確認。",
-      "caveats": "防衛相の説明。施設の稼働日や発注規模は公表内容だけでは確定しない。",
-      "explanation": "AMRAAMは空対空ミサイル。国内で最終組立・検査を担うことと部材をすべて国内生産することは別。",
-      "debate": "抑止力の強化と財政・透明性・輸出管理。",
-      "watch_points": "正式合意文書、設置場所、稼働時期、調達予算。",
-      "sources": [
-        {
-          "label": "防衛省 10/29臨時会見",
-          "url": "https://www.mod.go.jp/j/press/kisha/2026/1029a_r.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-04",
+      "id": "2026-10-31-01",
       "category": "経済・金融",
-      "date": "2026-10-29",
-      "title": "米国7〜9月期GDP速報値、年率3.4％増",
-      "summary": "【米BEA一次資料・29日】米実質GDPは前期比年率3.4％増、前期の2.2％から加速。投資、個人消費、政府支出が寄与。",
-      "background": "AI関連設備投資と個人消費の強さ、輸入増の影響が併存。",
-      "importance": "米景気の底堅さは金利・ドル・世界需要の判断材料。",
-      "japan_impact": "【分析】米金利と為替を通じて日本の輸入価格や輸出企業の採算に波及し得る。",
-      "investment_impact": "【分析】強い成長でもインフレ・金利上昇が株価に逆風となる場合がある。",
-      "work_impact": "【分析】設備投資の伸びと実際の生産性・投資回収を分けて確認。",
-      "caveats": "速報推計であり改定の可能性がある。年率換算と前年同期比は異なる。",
-      "explanation": "前期比年率3.4％は四半期の伸びを1年間続いた場合の換算値。実際に年3.4％成長した確定実績ではない。",
-      "debate": "成長の持続性と物価高・所得格差。",
-      "watch_points": "11月25日の改定値、雇用・物価統計。",
+      "date": "2026-10-30",
+      "title": "日銀、政策金利1.25％を据え置き、物価見通しを上方修正",
+      "summary": "日銀は10月30日、政策金利を1.25％で維持（8対1）。基調的な物価上昇への警戒を示し、追加利上げの余地を残した。",
+      "background": "物価上昇と景気の弱さが併存する中、金融正常化を慎重に進める。",
+      "importance": "住宅ローン・企業借入・円相場に直結する重要な政策判断。",
+      "japan_impact": "金利上昇は家計・中小企業の資金調達コストを高め得る。",
+      "investment_impact": "【分析】銀行の利ざや改善と借入企業の資金調達負担を分けて評価。",
+      "work_impact": "【分析】社内予算・資金繰りの金利感応度を点検。",
+      "caveats": "据え置きは決定済みだが、次回の利上げは未決定。",
       "sources": [
         {
-          "label": "米商務省BEA 10/29",
-          "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+          "label": "日銀 10/30政策決定",
+          "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/"
         }
       ]
     },
     {
-      "id": "2026-10-30-05",
+      "id": "2026-10-31-02",
       "category": "経済・金融",
-      "date": "2026-10-29",
-      "title": "ECB、政策金利を据え置き、エネルギー高のインフレリスクを警戒",
-      "summary": "【ECB一次資料・29日】欧州中央銀行は主要3金利を維持。エネルギー価格上昇が物価上振れと成長下振れの両リスクをもたらすと説明。",
-      "background": "中東情勢に伴うエネルギー供給の不確実性。",
-      "importance": "インフレと景気後退圧力が同時に起こり得る。",
-      "japan_impact": "【分析】欧州需要、ユーロ相場、世界の金利動向を通じて日本企業にも波及。",
-      "investment_impact": "【分析】将来の利上げを断定せず、債券利回りと企業の資本コストを監視。",
-      "work_impact": "【分析】欧州向け売上・調達コストの複数シナリオを設定。",
-      "caveats": "29日時点では据え置き決定のみ。12月利上げは正式決定していない。",
-      "explanation": "エネルギー高は生産費と家計支出を圧迫し、金利引上げは物価を抑える一方で需要を弱める。",
-      "debate": "インフレ抑制と成長維持のトレードオフ。",
-      "watch_points": "12月会合、賃金・物価統計、債券利回り。",
+      "date": "2026-10-30",
+      "title": "Intelの業績見通し悪化で半導体株が世界的に急落",
+      "summary": "10月30日、Intelは需要とキャッシュフローの厳しい見通しを受けて株価が大幅下落。半導体関連にも売りが広がった。",
+      "background": "AI設備投資が増える一方、PC需要とメモリー価格、製造投資の資金負担が重なる。",
+      "importance": "半導体業界内で需要の強弱と設備投資採算の差が顕在化。",
+      "japan_impact": "日本の半導体装置・素材企業にも需要見通しを通じて影響し得る。",
+      "investment_impact": "【分析】一斉下落と各社の本源的な収益悪化を分ける必要。",
+      "work_impact": "【分析】顧客別の設備投資計画と在庫を確認。",
+      "caveats": "取引時間中の下落率と終値は異なる。企業ごとに業績構造が違う。",
       "sources": [
         {
-          "label": "ECB 10/29決定",
-          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html"
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-06",
+      "id": "2026-10-31-03",
       "category": "経済・金融",
-      "date": "2026-10-29",
-      "title": "日経平均29日は705円高、半導体関連の指数寄与が集中",
-      "summary": "【29日大引け】日経平均は64,659.47円、前日比705.28円高。一方、東証プライムは値下がり778銘柄が値上がり732銘柄を上回った。",
-      "background": "アドバンテストなど値がさ半導体関連株が指数を押し上げた。",
-      "importance": "指数の上昇と市場全体の広がりを区別する必要がある。",
-      "japan_impact": "【分析】日本の半導体供給網への期待が指数に強く反映されている可能性。",
-      "investment_impact": "【分析】一日の指数上昇を企業価値の一律上昇とみなさない。",
-      "work_impact": "【分析】指数寄与度、騰落銘柄数、業種別動向を併記する。",
-      "caveats": "市場終値は確認できるが上昇理由は複数あり、単一要因への帰属は推測。",
-      "explanation": "日経平均は株価平均型で値がさ株の値動きに左右されやすい。",
-      "debate": "大型株主導の上昇と市場全体の強さの違い。",
-      "watch_points": "日銀10/30決定、半導体企業決算、TOPIXとの比較。",
+      "date": "2026-10-30",
+      "title": "米国株、AI投資の回収懸念で大幅下落",
+      "summary": "10月30日の米株式市場ではS&P500が約1.8％、Nasdaqが約2.9％下落。大型テックの巨額AI投資と現金創出力が焦点。",
+      "background": "AIインフラ投資の拡大と利益・現金回収の時間差への懸念。",
+      "importance": "AI投資ブームが企業価値を押し上げる条件を再評価する局面。",
+      "japan_impact": "日本の輸出・半導体関連株にも市場心理を通じて波及し得る。",
+      "investment_impact": "【分析】株価下落率だけでは割安性は判定できない。",
+      "work_impact": "【分析】売上成長、設備投資、フリーキャッシュフローを分離して追う。",
+      "caveats": "市場全体の下落原因を単一要因と断定しない。",
       "sources": [
         {
-          "label": "松井証券/株探 10/29大引け",
-          "url": "https://finance.matsui.co.jp/news/632406/index"
+          "label": "AP 10/30",
+          "url": "https://apnews.com/article/16c266731fdf64178f38070af2b42497"
         }
       ]
     },
     {
-      "id": "2026-10-30-07",
+      "id": "2026-10-31-04",
       "category": "国際・地政学",
-      "date": "2026-10-29",
-      "title": "北朝鮮、29日に弾道ミサイルとみられるものを発射",
-      "summary": "【防衛省一次資料・29日】12時36分頃に発射。朝鮮半島東岸付近に落下したと推定され、日本領域・EEZへの飛来と航空機・船舶被害の報告は確認されていない。韓国軍は約10発と説明。",
-      "background": "朝鮮半島の軍事的緊張が継続。",
-      "importance": "日米韓の情報共有と警戒監視に直結する。",
-      "japan_impact": "【分析】地域の安全保障・交通の警戒態勢に影響し得る。",
-      "investment_impact": "【分析】単発の発射だけで中長期の経済影響は確定しない。",
-      "work_impact": "【分析】政府発表と韓国軍発表の発数・飛距離の違いを区別。",
-      "caveats": "日本政府は『弾道ミサイルの可能性があるもの』と表現。詳細分析中。",
-      "explanation": "EEZは領海とは異なる海域。落下推定地点と実測地点の確認も区別が必要。",
-      "debate": "軍事的抑止と外交的緊張緩和。",
-      "watch_points": "日米韓の追加分析、北朝鮮側の発表。",
+      "date": "2026-10-30",
+      "title": "ホルムズ海峡のタンカー被害、イラン側主張と海事当局報告に相違",
+      "summary": "10月30日、イラン革命防衛隊はタンカー4隻の火災を主張。英国海事当局は船舶への飛翔体被弾などを報告したが、同一事案かは未確認。",
+      "background": "中東情勢の緊張と海上交通の危険増大。",
+      "importance": "原油・海運の供給リスクが日本経済に直結。",
+      "japan_impact": "原油調達費や海上保険料の上昇につながる可能性。",
+      "investment_impact": "【分析】石油・海運関連の価格変動は実際の供給途絶規模次第。",
+      "work_impact": "【分析】物流経路・保険条件・代替調達を点検。",
+      "caveats": "イラン側発表の被害規模は独立確認されていない。",
       "sources": [
         {
-          "label": "防衛省・内閣官房 10/29",
-          "url": "https://www.mod.go.jp/j/press/news/2026/10/29d.html"
-        },
-        {
-          "label": "Reuters 10/29 韓国軍情報",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says-2026-10-29/"
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/world/middle-east/irans-irgc-navy-says-two-tankers-stopped-south-hormuz-after-incidents-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-08",
+      "id": "2026-10-31-05",
       "category": "国際・地政学",
-      "date": "2026-10-29",
-      "title": "ウクライナ各地で29日に攻撃、ドニプロ駅で少なくとも14人死亡",
-      "summary": "【Reuters・29日】ウクライナ当局によるとドニプロ駅ホームへのドローン攻撃で少なくとも14人が死亡。別の都市でも死者が出た。一方、南部ヘルソン地域の限定的な停戦は続いていると報じられた。",
-      "background": "南部の人道目的の局地停戦と他地域の戦闘が同時進行。",
-      "importance": "局地停戦を全国的な停戦と誤認しないことが重要。",
-      "japan_impact": "【分析】欧州の安全保障、物流、エネルギー市場の不確実性。",
-      "investment_impact": "【分析】戦況や被害の短期報道を直接的な売買根拠にしない。",
-      "work_impact": "【分析】人道回廊の対象地域・期間・履行状況を分けて確認。",
-      "caveats": "死傷者数は当局報告に基づき更新され得る。ロシア側は民間標的への攻撃を否定。",
-      "explanation": "停戦合意の効力は対象地域・対象行為・期間で限定される場合がある。",
-      "debate": "局地的な人道措置と広域停戦交渉の関係。",
-      "watch_points": "追加の被害確認、停戦履行、三者協議。",
+      "date": "2026-10-30",
+      "title": "ウクライナのロシア製油所攻撃停止を米紙報道、独立確認は未了",
+      "summary": "10月30日、WSJは米国の働きかけでウクライナがロシア製油所への攻撃を一時停止したと報道。Reutersは独立に確認できていないと明記。",
+      "background": "エネルギー価格と米国の停戦外交が交錯。",
+      "importance": "交渉状況を示す可能性はあるが確定した停戦合意ではない。",
+      "japan_impact": "燃料価格と欧州安全保障に間接的な影響。",
+      "investment_impact": "【分析】報道段階で原油供給改善を確定視しない。",
+      "work_impact": "【分析】停戦対象と期間を明示して追跡。",
+      "caveats": "匿名情報源に基づく二次報道であり、当事者の正式合意は未確認。",
       "sources": [
         {
-          "label": "Reuters 10/29",
-          "url": "https://www.reuters.com/world/europe/russian-drone-attack-train-station-kills-13-ukraines-dnipro-2026-10-29/"
+          "label": "Reuters 10/30 WSJ引用",
+          "url": "https://www.reuters.com/business/energy/ukraine-pauses-strikes-russian-refineries-after-pressure-trump-wsj-reports-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-09",
-      "category": "国際・地政学",
-      "date": "2026-10-29",
-      "title": "イスラエル選挙、開票約99％でも両陣営過半数に届かず",
-      "summary": "【Reuters・29日】ネタニヤフ陣営53議席、アイゼンコット陣営48議席、アラブ系政党19議席の見通し。ネタニヤフ首相は不正疑惑を主張したが証拠を公表せず、選挙当局は体系的な不正の根拠はないと説明。",
-      "background": "27日の選挙で過半数61議席を得る陣営がなかった。",
-      "importance": "連立交渉の構図と選挙への信頼が政権形成に影響。",
-      "japan_impact": "【分析】中東外交とエネルギー供給の見通しに間接的に関わる。",
-      "investment_impact": "【分析】連立交渉の予測を確定政策として織り込まない。",
-      "work_impact": "【分析】開票途中・選挙当局の説明・政治家の主張を分離する。",
-      "caveats": "29日時点の約99％集計で確定議席ではない。不正疑惑は未立証。",
-      "explanation": "120議席の国会で通常61議席の支持が政権形成に必要。",
-      "debate": "不正疑惑の検証と少数派の政治参加。",
-      "watch_points": "確定議席、連立協議、選挙当局の調査。",
-      "sources": [
-        {
-          "label": "Reuters 10/29",
-          "url": "https://www.reuters.com/world/middle-east/netanyahu-risk-losing-power-steps-up-attacks-israels-arab-parties-2026-10-29/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-10",
-      "category": "国際・地政学",
-      "date": "2026-10-29",
-      "title": "Reuters調査、イラン軍需調達に5,000超の関連組織網と報道",
-      "summary": "【Reuters独自調査・29日】イラン国防省に関連するとされる5,000超の組織網を文書・輸入記録から分析し、2025年以降の軍民両用品等の調達を追跡した。",
-      "background": "制裁・海上封鎖下でも輸入・資金決済を継続する仕組みが焦点。",
-      "importance": "制裁執行と軍民両用品の最終用途確認の難しさを示す。",
-      "japan_impact": "【分析】日本企業の輸出管理・取引先確認にも示唆。",
-      "investment_impact": "【分析】国際物流や供給制約の波及は今後の制裁措置次第。",
-      "work_impact": "【分析】間接取引先、最終需要者、輸出規制対象を再確認。",
-      "caveats": "調査報道の認定と司法上の確定認定は別。企業・当局の反論や無回答を区別。",
-      "explanation": "複数の名義・仲介者を通じた調達は形式上の売買先と最終需要者を分離する。",
-      "debate": "制裁の実効性と合法な民生貿易の確保。",
-      "watch_points": "各国当局の追加指定、企業の説明、独立検証。",
-      "sources": [
-        {
-          "label": "Reuters 10/29独自調査",
-          "url": "https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-11",
+      "id": "2026-10-31-06",
       "category": "社会・産業",
-      "date": "2026-10-29",
-      "title": "GMO不正アクセス続報、情報提供が累計321件に",
-      "summary": "【企業一次資料・29日20:50】GMOは報奨金窓口への情報提供が18時時点で321件（前日113件）と発表。ホワイトハッカーチームが犯人特定につながると考える情報を得たとも説明。",
-      "background": "お名前.comデスクトップクラウドへの侵害をめぐる調査・被害拡大防止。",
-      "importance": "被害者保護と捜査情報の適切な取り扱いが重要。",
-      "japan_impact": "【分析】クラウドサービスの委託先管理・事故対応の点検材料。",
-      "investment_impact": "【分析】補償・業績への影響は公表資料だけでは確定しない。",
-      "work_impact": "【分析】利用者は公式案内に従い、不審な情報拡散・犯人への接触を避ける。",
-      "caveats": "321件は情報提供件数であり、有力証拠の件数や犯人逮捕を意味しない。",
-      "explanation": "報奨金窓口は外部情報を集める手段。寄せられた情報の検証と刑事捜査は別工程。",
-      "debate": "公開情報の活用と二次被害・誤情報の防止。",
-      "watch_points": "捜査当局の発表、サービス復旧、被害範囲の確定。",
+      "date": "2026-10-30",
+      "title": "Binanceから約63億ドル相当の暗号資産流出、補償準備を発表",
+      "summary": "10月30日、Binanceは約63億ドル規模の流出を受け、顧客損失を補うため約63.4億ドルの資金を確保したと説明。約30億ドル相当の凍結も報告。",
+      "background": "暗号資産取引所の署名・送金承認基盤が集中リスクとなる。",
+      "importance": "金額が極めて大きく、金融システムの信頼とセキュリティ管理に波及。",
+      "japan_impact": "国内事業者にも鍵管理・承認権限・委託先管理の点検を促す。",
+      "investment_impact": "【分析】補償表明と実際の全額回収・返還は別。",
+      "work_impact": "【分析】多要素承認、署名環境の分離、異常送金検知を再点検。",
+      "caveats": "侵入経路・被害総額は調査で修正され得る。",
       "sources": [
         {
-          "label": "GMO第16報 10/29",
-          "url": "https://internet.gmo/news/article/262/"
-        },
-        {
-          "label": "GMO第15報 10/29",
-          "url": "https://internet.gmo/news/article/261/"
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/legal/transactional/binance-sets-aside-over-634-billion-cover-losses-attack-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-12",
-      "category": "社会・産業",
-      "date": "2026-10-29",
-      "title": "台風31号、小笠原近海で高波のおそれ",
-      "summary": "【気象庁29日21:45発表の報道】台風31号インファは南鳥島近海を西進。31日に小笠原近海へ進む見込みで、強風・高波が長引く可能性がある。",
-      "background": "28日から進路・強度予測が更新されている。",
-      "importance": "離島の交通・物流・生活インフラの備えが必要。",
-      "japan_impact": "【分析】小笠原方面の航路・航空便への影響を最新運航情報で確認。",
-      "investment_impact": "【分析】予測段階のため確定被害として扱わない。",
-      "work_impact": "【分析】気象庁の最新警報・航路情報を優先。",
-      "caveats": "予測進路と強度は今後変わる。29日21時時点の情報。",
-      "explanation": "進路予報円は台風中心の位置の不確実性を示すもので、暴風域そのものではない。",
-      "debate": "早期警戒と過度な断定の回避。",
-      "watch_points": "気象庁の30日以降の更新と運航会社の案内。",
-      "sources": [
-        {
-          "label": "FNN 10/29 22:42 気象庁情報引用",
-          "url": "https://www.fnn.jp/articles/-/1142689"
-        },
-        {
-          "label": "気象庁台風情報",
-          "url": "https://www.jma.go.jp/bosai/map.html#contents=typhoon"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-13",
+      "id": "2026-10-31-07",
       "category": "テクノロジー",
-      "date": "2026-10-29",
-      "title": "Amazon、AWS売上39％増でもAI設備投資で年間FCFがマイナス",
-      "summary": "【Amazon一次決算・29日米国時間】2026年7〜9月売上は2,019億ドル、AWSは前年同期比39.3％増。過去12か月のフリーキャッシュフローはマイナス424億ドル。",
-      "background": "AIデータセンター投資拡大とクラウド需要の増加が同時進行。",
-      "importance": "売上成長と投資回収・現金創出力を分けて評価する必要。",
-      "japan_impact": "【分析】日本のデータセンター・電力・半導体関連の需要に波及し得るが契約次第。",
-      "investment_impact": "【分析】クラウド成長率だけで投資採算を断定できない。",
-      "work_impact": "【分析】受注・設備投資・償却・キャッシュフローを別々に追う。",
-      "caveats": "会社発表の実績と2027〜28年の成長見通しは区別。FCFは過去12か月の数値。",
-      "explanation": "FCFは事業が生む現金から設備投資等を差し引く指標。成長企業でも先行投資で赤字になる。",
-      "debate": "AI需要の持続性と巨額投資の回収時期。",
-      "watch_points": "次四半期AWS売上、設備投資、FCF、顧客契約。",
+      "date": "2026-10-30",
+      "title": "Binance侵害で北朝鮮系TraderTraitor関与説、調査会社が高確度と評価",
+      "summary": "10月30日、TRM Labsはオンチェーン・オフチェーン分析を根拠にTraderTraitorの関与を高い確信度で指摘。捜査当局の確定認定とは異なる。",
+      "background": "認証情報窃取や送金署名基盤への攻撃が疑われている。",
+      "importance": "高度な攻撃者が金融インフラを標的にする脅威を示す。",
+      "japan_impact": "日本企業でも開発者端末や署名・決済系の権限管理が重要。",
+      "investment_impact": "【分析】被害額と企業価値の関係は補償・顧客流出・規制次第。",
+      "work_impact": "【分析】開発者端末の隔離、最小権限、承認フローの多重化。",
+      "caveats": "犯行主体の特定は民間分析会社の評価で、公式捜査結果ではない。",
       "sources": [
         {
-          "label": "Amazon 2026Q3決算 10/29",
-          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
+          "label": "Reuters/TRM 10/30",
+          "url": "https://www.reuters.com/legal/government/blockchain-analysis-firm-trm-says-north-korea-behind-binance-crypto-theft-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-14",
+      "id": "2026-10-31-08",
       "category": "テクノロジー",
-      "date": "2026-10-29",
-      "title": "Alphabet、TPU外販拡大でGoogle Cloud成長も運転資金負担が増大",
-      "summary": "【Reuters・29日】GoogleのTPUシステム販売がクラウド成長を押し上げる一方、機器在庫やデータセンター投資でキャッシュフローを圧迫していると報道。",
-      "background": "自社AI半導体を社内利用から外部顧客向けに広げている。",
-      "importance": "AI半導体の売上増と利益率・現金回収は別の論点。",
-      "japan_impact": "【分析】日本の半導体装置・ネットワーク・クラウド競争に影響し得る。",
-      "investment_impact": "【分析】TPU事業の収益性は非開示で推計には不確実性。",
-      "work_impact": "【分析】クラウドの売上・在庫・設備投資・顧客の支払い条件を分けて確認。",
-      "caveats": "TPUの売上額・利益率は非開示。株価反応と長期企業価値は別。",
-      "explanation": "GPU/TPUのシステム販売はハードウェア調達・在庫を必要とし、ソフトウェア課金とは現金回収の構造が異なる。",
-      "debate": "GPU依存低減と大規模ハード投資の採算。",
-      "watch_points": "TPU出荷量、クラウド利益率、FCF、顧客契約。",
+      "date": "2026-10-30",
+      "title": "Foxconn、OpenAIとの新協業を協議、AIサーバー生産拡大",
+      "summary": "10月30日、Foxconn会長はOpenAIとの新たな協業を進めていると説明。詳細・正式発表は今後とした。",
+      "background": "既存のAIデータセンター機器設計・製造協力を拡大する動き。",
+      "importance": "AIの計算資源需要が製造業の設備投資と雇用に波及。",
+      "japan_impact": "電子部品・製造装置・電力設備などのサプライチェーンに影響し得る。",
+      "investment_impact": "【分析】協議段階の案件を確定受注・利益として計上しない。",
+      "work_impact": "【分析】正式契約、納入規模、量産時期を追う。",
+      "caveats": "会長の見通しは企業の主張であり、AIバブルがないことの証明ではない。",
       "sources": [
         {
-          "label": "Reuters 10/29",
-          "url": "https://www.reuters.com/business/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow-2026-10-29/"
+          "label": "Reuters 10/30",
+          "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/"
         }
       ]
     },
     {
-      "id": "2026-10-30-15",
+      "id": "2026-10-31-09",
       "category": "テクノロジー",
-      "date": "2026-10-29",
-      "title": "OpenAI、Model Specを5つの基本価値中心に改定",
-      "summary": "【OpenAI一次発表・29日】モデルの行動指針を意図への忠実性、危害最小化、誠実性・透明性、人間の主体性、ケアの5価値で再構成。文脈・監督・主体性の記述も更新。",
-      "background": "高度化したAIが明示指示のない状況でも判断する機会が増えている。",
-      "importance": "AIエージェントの設計・評価における説明責任の枠組み。",
-      "japan_impact": "【分析】国内AI導入でも人間の監督と権限設計の検討材料。",
-      "investment_impact": "【分析】発表だけで製品性能や企業収益の変化を断定できない。",
-      "work_impact": "【分析】AI利用ポリシー、権限委譲、検証ログ、レビュー基準を点検。",
-      "caveats": "公開された指針の更新であり、すべてのモデルの動作が即日一律に変わると示すものではない。",
-      "explanation": "Model Specはモデルに期待する行動原則の公開文書。実装・評価・運用との整合は別途検証する。",
-      "debate": "利用者意図の尊重と安全上の制約・監督の両立。",
-      "watch_points": "新旧差分、開発者向け実装ガイダンス、評価結果。",
+      "date": "2026-10-30",
+      "title": "GitHub、AI生成コード急増に伴う基盤負荷を報告",
+      "summary": "10月30日報道によれば、GitHubはAIエージェントによるコード投稿の急増を受け、計算・ストレージ・ネットワーク資源の大幅な増強を説明。",
+      "background": "AIコーディングでPR・CI実行回数が増加。",
+      "importance": "開発プラットフォームのコスト構造と品質管理が変化。",
+      "japan_impact": "国内開発組織でもCI費用とレビュー負荷が増える可能性。",
+      "investment_impact": "【分析】インフラ需要増は収益増と同義ではない。",
+      "work_impact": "【分析】自動テスト・レビュー・CI予算の上限を設計。",
+      "caveats": "報道に記載された数値は原技術報告の集計定義との照合が必要。",
       "sources": [
         {
-          "label": "OpenAI公式 10/29",
-          "url": "https://openai.com/index/updated-model-spec/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-30-16",
-      "category": "テクノロジー",
-      "date": "2026-10-29",
-      "title": "Google Cloud、重大なクラウド脆弱性向け報奨金上限25万ドル枠を新設",
-      "summary": "【Google Cloud一次発表・29日】VRPでテナント分離回避や複雑なサービス横断の欠陥など、高度なアーキテクチャ研究に対し最大25万ドルの新報奨枠を追加。",
-      "background": "自動化された脆弱性探索の普及と高度な人手による検証の必要性。",
-      "importance": "クラウドのテナント分離と横断的な権限境界の重要性。",
-      "japan_impact": "【分析】日本のクラウド利用組織でも権限境界・責任共有モデルの点検材料。",
-      "investment_impact": "【分析】報奨枠の新設は実際の脆弱性発見や事故を意味しない。",
-      "work_impact": "【分析】脆弱性報告窓口と責任ある開示、重大度評価の運用を確認。",
-      "caveats": "報奨金は条件を満たした発見に対する制度上の上限。すべての報告が対象ではない。",
-      "explanation": "マルチテナントクラウドでは顧客間の隔離とサービス間認可が安全性の基礎。",
-      "debate": "自動探索と人間による深い安全性研究の役割分担。",
-      "watch_points": "VRP規約、対象範囲、今後の研究成果。",
-      "sources": [
-        {
-          "label": "Google Cloud公式 10/29",
-          "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-introducing-new-tier-for-google-cloud-vrp"
+          "label": "Tom's Hardware 10/30",
+          "url": "https://www.tomshardware.com/software/github-report-highlights-massive-influx-of-ai-generated-code-sixfold-increase-in-activity-over-one-year-required-extra-4-million-cpu-cores-and-160pb-of-storage"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米国AI投資の成長と資金回収、日本の供給網への波及",
-      "summary": "AmazonのAWS売上は39％増だがFCFは大幅マイナス。GoogleのTPU外販でも在庫・設備投資負担が拡大。",
-      "japan_comparison": "日本の半導体装置・電力・建設企業は顧客の設備投資拡大だけでなく支払い能力と投資回収を確認。",
-      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx"
+      "title": "日米の金融環境：日銀の正常化と米国ハイテク株調整",
+      "summary": "日銀は金利据え置きながら追加利上げ余地を示し、米国ではAI設備投資の回収懸念からハイテク株が下落。",
+      "japan_comparison": "日本では金利負担・為替と半導体需要の両経路を分けて評価。",
+      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/state_2026/"
     },
     {
-      "title": "エネルギー高への対応：日本の補助政策と欧州の金利政策",
-      "summary": "日本は冬の光熱費支援を決め、燃料補助は段階的見直しへ。ECBは据え置きつつエネルギー由来のインフレを警戒。",
-      "japan_comparison": "日本は補助による価格緩和、欧州は金融引締めの判断という異なる政策経路。制度の効果と財政負担は分けて評価。",
-      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html"
+      "title": "暗号資産インフラの巨大侵害と日本の権限管理",
+      "summary": "Binanceの巨額流出で署名・送金基盤の集中リスクが浮上。",
+      "japan_comparison": "国内金融・クラウドでも特権端末、鍵管理、多重承認の運用が重要。",
+      "url": "https://www.reuters.com/legal/government/gone-20-minutes-how-biggest-heist-crypto-history-unfolded-2026-10-30/"
     },
     {
-      "title": "国際安全保障と供給網：イラン調達網と日本の輸出管理",
-      "summary": "Reutersがイランの軍需調達に関わるとされる広範な関連組織網を調査。",
-      "japan_comparison": "日本企業でも表面的な契約先だけでなく最終需要者・軍民両用性の確認が重要。",
-      "url": "https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/"
+      "title": "AI計算資源の拡大と実際の資金回収",
+      "summary": "FoxconnのAIサーバー拡大構想とIntelの資金繰り懸念が対照的。",
+      "japan_comparison": "日本の装置・素材企業は発注額だけでなく顧客のFCF・生産計画を確認。",
+      "url": "https://www.reuters.com/world/china/foxconn-working-new-tie-up-with-openai-says-there-is-no-ai-bubble-2026-10-30/"
     }
   ],
   "github_trending": [
     {
-      "name": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "star_gain": 1068,
-      "period": "日次（10/29 06:59 UTC）",
-      "purpose": "AI支援コーディング向け軽量IDE",
-      "source_url": "https://githubtrending.today/archive/2026-10-29/"
-    },
-    {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "star_gain": 2371,
-      "period": "日次（10/29 06:59 UTC）",
-      "purpose": "パーソナライズされたAI学習支援",
-      "source_url": "https://githubtrending.today/archive/2026-10-29/"
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "star_gain": 2110,
-      "period": "日次（10/29 06:59 UTC）",
-      "purpose": "AIコーディングでのデザイン品質向上スキル",
-      "source_url": "https://githubtrending.today/archive/2026-10-29/"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "star_gain": 16002,
-      "period": "週間（10/29 06:59 UTC）",
-      "purpose": "コーディングエージェント向け多段階セキュリティ監査",
-      "source_url": "https://githubtrending.today/weekly/"
+      "star_gain": 1930,
+      "purpose": "AI個別学習支援",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
     },
     {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "star_gain": 7283,
-      "period": "週間（10/29 06:59 UTC）",
-      "purpose": "コーディングエージェント向けUIデザイン語彙・レビュー",
-      "source_url": "https://githubtrending.today/weekly/"
+      "star_gain": 2870,
+      "purpose": "AIコーディングのUIデザイン支援",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "star_gain": 1117,
+      "purpose": "軽量AI支援IDE",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "star_gain": 709,
+      "purpose": "ローカル中心のAIチーム作業環境",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "star_gain": 1034,
+      "purpose": "エージェント開発方法論",
+      "period": "日次（2026-10-30 06:58 UTC）",
+      "source_url": "https://githubtrending.today/archive/2026-10-30/"
     }
   ]
 }
