@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T06:00:00+09:00",
+  "status": "2026-11-01 06:00〜2026-11-02 06:00 JST中心。確認できた新規報道3本。国内政治・社会・新規重大脆弱性の確実な該当報道は未確認につき水増しなし。GitHubは11/1 UTCスナップショット。",
+  "summary": [
+    "韓国の10月輸出が前年比93.7%増、AI半導体需要が牽引。",
+    "OPEC+主要国は12月生産目標を据え置き。",
+    "イラン停戦協議は継続、ホルムズ海峡再開は未合意。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-02-01",
+      "category": "経済・金融",
+      "date": "2026-11-01",
+      "title": "韓国10月輸出が前年比93.7%増、AI半導体需要が牽引",
+      "summary": "韓国の10月輸出は1152.8億ドル、半導体輸出は564.4億ドルとReutersが11月1日に報道。",
+      "background": "AIサーバー投資と前年の祝日配置による稼働日数差が影響。",
+      "importance": "半導体需要と輸出の強さを測る材料。",
+      "japan_impact": "日本の半導体装置・部材需要にも波及し得る。",
+      "investment_impact": "【分析】前年比は営業日差を含むため持続成長率と混同しない。",
+      "work_impact": "【分析】AI設備投資の実需を受注で確認。",
+      "caveats": "韓国政府発表を引用した報道。前年の営業日差に注意。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-01",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-02",
+      "category": "経済・金融",
+      "date": "2026-11-01",
+      "title": "OPEC+主要7カ国、12月の石油生産目標を据え置き",
+      "summary": "11月1日の会合で12月生産目標を据え置いたとReutersが報道。",
+      "background": "中東紛争で輸送・実生産に制約が残る。",
+      "importance": "原油供給と物価への影響が大きい。",
+      "japan_impact": "輸入原油・燃料価格に関係。",
+      "investment_impact": "【分析】生産目標と実供給の乖離に注目。",
+      "work_impact": "【分析】エネルギーコスト変動に備える。",
+      "caveats": "2027年の生産枠組みは未決定。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-01",
+          "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-targets-steady-sources-say-2026-11-01/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02-03",
+      "category": "国際・地政学",
+      "date": "2026-11-01",
+      "title": "イランとカタール仲介者、停戦協議を3日連続で継続",
+      "summary": "11月1日、ドーハで協議が継続。イラン外相は協議進展に言及したが合意は未成立。",
+      "background": "ホルムズ海峡の輸送停止と米イラン対立が背景。",
+      "importance": "停戦の成否は国際エネルギー物流に影響。",
+      "japan_impact": "原油調達と海上輸送に影響し得る。",
+      "investment_impact": "【分析】合意観測だけで原油供給回復を織り込まない。",
+      "work_impact": "【分析】海峡の実際の航行再開を確認。",
+      "caveats": "海峡の早期再開案は報道段階であり合意ではない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-01",
+          "url": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "韓国10月輸出が前年比93.7%増、AI半導体需要が牽引",
+      "summary": "韓国の10月輸出は1152.8億ドル、半導体輸出は564.4億ドルとReutersが11月1日に報道。",
+      "japan_comparison": "日本の半導体装置・部材需要にも波及し得る。",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-nearly-double-october-strongest-growth-since-1974-2026-11-01/"
+    },
+    {
+      "title": "OPEC+主要7カ国、12月の石油生産目標を据え置き",
+      "summary": "11月1日の会合で12月生産目標を据え置いたとReutersが報道。",
+      "japan_comparison": "輸入原油・燃料価格に関係。",
+      "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-targets-steady-sources-say-2026-11-01/"
+    },
+    {
+      "title": "イランとカタール仲介者、停戦協議を3日連続で継続",
+      "summary": "11月1日、ドーハで協議が継続。イラン外相は協議進展に言及したが合意は未成立。",
+      "japan_comparison": "原油調達と海上輸送に影響し得る。",
+      "url": "https://www.reuters.com/world/middle-east/iranian-negotiators-doha-continue-talks-end-us-iran-war-official-says-2026-11-01/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "star_gain": 1723,
+      "purpose": "AIエージェントの永続記憶",
+      "period": "日次（2026-11-01 06:58 UTC記録）",
+      "source_url": "https://githubtrending.today/archive/2026-11-01/"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "star_gain": 883,
+      "purpose": "AIエージェント向けスキル集",
+      "period": "日次（2026-11-01 06:58 UTC記録）",
+      "source_url": "https://githubtrending.today/archive/2026-11-01/"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "star_gain": 742,
+      "purpose": "ゲーム開発用AIエージェント",
+      "period": "日次（2026-11-01 06:58 UTC記録）",
+      "source_url": "https://githubtrending.today/archive/2026-11-01/"
+    },
+    {
+      "name": "bregman-arie/devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "star_gain": 342,
+      "purpose": "DevOps学習問題集",
+      "period": "日次（2026-11-01 06:58 UTC記録）",
+      "source_url": "https://githubtrending.today/archive/2026-11-01/"
+    },
+    {
+      "name": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "star_gain": 501,
+      "purpose": "macOSユーティリティ",
+      "period": "日次（2026-11-01 06:58 UTC記録）",
+      "source_url": "https://githubtrending.today/archive/2026-11-01/"
+    }
+  ]
+}
