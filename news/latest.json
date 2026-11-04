@@ -1,264 +1,283 @@
 {
-  "date": "2026-11-04",
-  "updated_at": "2026-11-04T05:58:00+09:00",
-  "status": "2026-11-03〜11-04朝 JSTの直近24時間中心。国内政治の確認できた重要新規情報はなし。Reuters報道中心、一次資料独立照合は未完了。GitHubは11月3日UTC記録。",
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T06:00:10+09:00",
+  "status": "2026-11-04の報道中心。一次資料独立照合未完了。GitHub Trendingは11月4日UTCの記録。",
   "summary": [
-    "ロシアのウクライナ電力網攻撃が激化、米大統領はイスラエル援助終了方針を表明。",
-    "Appleのメモリー費用高騰とAI投資の資金負担が市場の焦点。",
-    "韓国は政府横断サイバー防御を提唱、欧州では主権型AIクラウド構築が進展。"
+    "米中間選挙で民主党が上下両院の多数派を獲得し、米大型テック株が急伸。",
+    "日本政府の脆弱性情報共有構想と、国内半導体材料産業の大型再編観測が焦点。",
+    "Tencentの防御型AI、EUの半導体投資、金融機関向けAIサイバー警告に注目。"
   ],
   "articles": [
     {
-      "id": "2026-11-04-01",
-      "category": "国際・地政学",
-      "date": "2026-11-03",
-      "title": "ロシアがウクライナ電力網を大規模攻撃",
-      "summary": "ウクライナ大統領はドローン289機、弾道ミサイル17発、巡航ミサイル59発の攻撃を報告。電力会社DTEKは火力発電所5か所のうち3か所が停止したと説明。",
-      "background": "2026年11月3日の報道。",
-      "importance": "冬季の電力供給と停戦協議に影響。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-04",
+      "title": "日本政府、未公開のソフトウェア脆弱性情報を海外AI企業に求める方針と報道",
+      "summary": "日経新聞を引用したReuters報道によると、政府は米国AI企業などに未公開脆弱性情報の事前共有を求める方向。緊急対策は週内にも提示される見通し。",
+      "background": "2026年11月4日の報道。正式決定ではなく報道段階。PHP重大脆弱性への対応が背景。",
+      "importance": "正式決定ではなく報道段階。PHP重大脆弱性への対応が背景。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。正式決定ではなく報道段階。PHP重大脆弱性への対応が背景。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/energy/russian-strikes-knock-out-power-swathes-ukraine-kyiv-hits-russian-refinery-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/legal/litigation/japan-seek-software-vulnerability-data-us-ai-firms-amid-cyberattack-surge-nikkei-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-02",
-      "category": "国際・地政学",
-      "date": "2026-11-03",
-      "title": "米大統領がイスラエルへの年間40億ドル支援終了方針を表明",
-      "summary": "トランプ大統領は2026年末以降の援助終了でイスラエル首相と合意したと発言。現行の覚書は2028年まで続き、議会手続きも必要。",
-      "background": "2026年11月3日の報道。",
-      "importance": "実施条件が不透明な外交・財政政策。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-02",
+      "category": "経済・金融",
+      "date": "2026-11-04",
+      "title": "米中間選挙で民主党が上下両院の多数派を獲得",
+      "summary": "Reutersは11月4日、民主党が上下両院の過半数を獲得したと報道。今後の経済政策で政権と議会の対立が焦点となる。",
+      "background": "2026年11月4日の報道。議会構成の変化は予算・税制・規制に影響する可能性。",
+      "importance": "議会構成の変化は予算・税制・規制に影響する可能性。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。議会構成の変化は予算・税制・規制に影響する可能性。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/business/analysts-react-us-midterm-election-results-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-03",
-      "category": "国際・地政学",
-      "date": "2026-11-03",
-      "title": "シリア当局が製油所攻撃計画を阻止と発表",
-      "summary": "シリア国営通信はヒズボラ関係者とされる集団を摘発したと報道。ヒズボラ側は関与を否定。",
-      "background": "2026年11月3日の報道。",
-      "importance": "当局主張と否定を分離して扱う必要。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-03",
+      "category": "経済・金融",
+      "date": "2026-11-04",
+      "title": "米大型テック株、選挙結果を受け急伸",
+      "summary": "Reutersによると米大型テック5社の時価総額は合計7500億ドル超増える勢い。データセンター投資抑制への思惑が背景。",
+      "background": "2026年11月4日の報道。株価の理由は市場参加者の解釈であり確定した因果関係ではない。",
+      "importance": "株価の理由は市場参加者の解釈であり確定した因果関係ではない。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。株価の理由は市場参加者の解釈であり確定した因果関係ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/world/middle-east/syria-says-it-foiled-hezbollah-plot-attack-homs-oil-refinery-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/business/retail-consumer/democrats-midterm-sweep-fuels-750-billion-big-tech-rally-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-04",
+      "id": "2026-11-05-04",
       "category": "社会・産業",
-      "date": "2026-11-03",
-      "title": "韓国大統領が政府横断のサイバー対策組織を提唱",
-      "summary": "李在明大統領は事後対応中心の限界を指摘し、予防を重視した政府横断組織を求めた。",
-      "background": "2026年11月3日の報道。",
-      "importance": "公共インフラのサイバー防御体制に注目。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "date": "2026-11-04",
+      "title": "官民ファンドJIC、JSRを三井化学へ売却検討と報道",
+      "summary": "Reutersは関係者情報として、半導体材料大手JSRの売却額が1.3兆円を超える可能性を報道。三井化学は検討中で決定していないと説明。",
+      "background": "2026年11月4日の報道。正式合意ではない。国内半導体材料産業の再編につながり得る。",
+      "importance": "正式合意ではない。国内半導体材料産業の再編につながり得る。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。正式合意ではない。国内半導体材料産業の再編につながり得る。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-calls-powerful-government-wide-cybersecurity-body-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-fund-jic-plans-sell-jsr-mitsui-chemicals-sources-say-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-05",
-      "category": "経済・金融",
-      "date": "2026-11-03",
-      "title": "Apple株下落、AI需要に伴うメモリー価格高騰が利益率圧迫",
-      "summary": "ReutersによるとApple株は約4％下落。会社側はメモリー調達費の上昇を説明し、次四半期の粗利益率を45～46％と予想。",
-      "background": "2026年11月3日の報道。",
-      "importance": "AI設備投資の影響が消費者向け機器に波及。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-05",
+      "category": "国際・地政学",
+      "date": "2026-11-04",
+      "title": "ニュージーランド総選挙、与野党が接戦",
+      "summary": "Reutersは11月7日の総選挙を前に与党国民党と野党労働党の接戦を報道。小政党が政権形成の鍵になる可能性。",
+      "background": "2026年11月4日の報道。投票前の情勢で結果ではない。",
+      "importance": "投票前の情勢で結果ではない。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。投票前の情勢で結果ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/retail-consumer/apple-shares-slide-higher-memory-costs-fuel-margin-concerns-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/world/asia-pacific/main-parties-vying-form-new-zealands-next-government-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-06",
-      "category": "経済・金融",
-      "date": "2026-11-03",
-      "title": "金融大手幹部がAI投資資金需要と調整リスクを議論",
-      "summary": "香港での会合でBlackstoneや金融機関幹部が資金調達需要と高い期待に伴う市場調整リスクに言及。",
-      "background": "2026年11月3日の報道。",
-      "importance": "AI投資の収益性・資金コストを区別して評価。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-06",
+      "category": "国際・地政学",
+      "date": "2026-11-04",
+      "title": "南アフリカで地方選、公共サービスへの不満が争点",
+      "summary": "11月4日の地方選で汚職や治安、公共サービスの低下が争点。ANCの支持低下が予測されている。",
+      "background": "2026年11月4日の報道。予測と開票結果を区別。",
+      "importance": "予測と開票結果を区別。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。予測と開票結果を区別。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/finance/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-with-ai-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/world/africa/south-africa-votes-local-polls-expected-further-weaken-anc-grip-2026-11-03/"
         }
       ]
     },
     {
-      "id": "2026-11-04-07",
-      "category": "経済・金融",
-      "date": "2026-11-03",
-      "title": "中国金融監督当局幹部がAI投資の集中を警戒",
-      "summary": "中国金融監督当局の幹部はAI向け資本集中が伝統産業の調達費を押し上げるとの見解を示した。",
-      "background": "2026年11月3日の報道。",
-      "importance": "規制当局者の見解であり実証済みの因果関係とは区別。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
-      "sources": [
-        {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/finance/ai-investment-is-becoming-overly-concentrated-chinese-official-says-2026-11-03/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-04-08",
+      "id": "2026-11-05-07",
       "category": "テクノロジー",
-      "date": "2026-11-03",
-      "title": "欧州企業が域内管轄のAI計算基盤で提携",
-      "summary": "Schwarz DigitsとBullが欧州管轄内で稼働するAIクラウド基盤の共同開発に予備合意。",
-      "background": "2026年11月3日の報道。",
-      "importance": "データ主権・クラウド調達の選択肢拡大。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "date": "2026-11-04",
+      "title": "Tencent、防御用途を重視したAIモデルHy4を発表",
+      "summary": "Tencentはサイバー攻撃に利用される訓練データを制限したと説明し、社内試験で攻撃能力の増加を確認しなかったと主張。",
+      "background": "2026年11月4日の報道。安全性の主張は企業による試験結果であり独立検証ではない。",
+      "importance": "安全性の主張は企業による試験結果であり独立検証ではない。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。安全性の主張は企業による試験結果であり独立検証ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/retail-consumer/schwarz-digits-bull-partner-up-build-european-ai-computing-services-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/legal/litigation/tencent-rolls-out-ai-model-trained-with-limited-cybersecurity-data-amid-hacking-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-09",
-      "category": "社会・産業",
-      "date": "2026-11-03",
-      "title": "Thomson Reuters増収もAI投資費用懸念で株価下落",
-      "summary": "同社の第3四半期売上高は10％増の18.3億ドル。AI投資に伴う利益率への懸念で株価は下落。",
-      "background": "2026年11月3日の報道。",
-      "importance": "業務用AIの売上成長と利益率の両立が焦点。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-08",
+      "category": "テクノロジー",
+      "date": "2026-11-04",
+      "title": "EU、半導体スタートアップに5億2500万ユーロ投資へ",
+      "summary": "EUは設計支援基盤と開発助成に投資すると発表。域内半導体設計能力の強化を狙う。",
+      "background": "2026年11月4日の報道。予算表明と実際の支出・成果は別。",
+      "importance": "予算表明と実際の支出・成果は別。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。予算表明と実際の支出・成果は別。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/business/thomson-reuters-reports-higher-third-quarter-revenue-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04/"
         }
       ]
     },
     {
-      "id": "2026-11-04-10",
-      "category": "社会・産業",
-      "date": "2026-11-03",
-      "title": "スペイン警察がマドリード住宅抗議キャンプを撤去",
-      "summary": "警察は残る334人を退去させた。参加者は暴力的対応を訴え、政府は否定した。",
-      "background": "2026年11月3日の報道。",
-      "importance": "住宅費高騰を巡る社会対立の継続。",
-      "japan_impact": "【分析】日本の政策・産業・調達判断への間接的な波及を注視。",
-      "investment_impact": "【分析】市場への影響は企業の収益と資金調達費を分けて検証する必要がある。",
-      "work_impact": "【分析】関連する調達・運用リスクの確認材料。",
-      "caveats": "Reuters報道を確認。一次資料の独立照合は未完了。当事者発言と確定事実を区別。",
+      "id": "2026-11-05-09",
+      "category": "テクノロジー",
+      "date": "2026-11-04",
+      "title": "インド当局、AIを利用した金融サイバー攻撃を警告",
+      "summary": "I4Cは金融機関に対しAIエージェントによる高速な侵入・送金操作への備えを勧告。送金上限や受取人確認を推奨。",
+      "background": "2026年11月4日の報道。警告はリスク評価であり、全金融機関への侵害を意味しない。",
+      "importance": "警告はリスク評価であり、全金融機関への侵害を意味しない。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。警告はリスク評価であり、全金融機関への侵害を意味しない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-03",
-          "url": "https://www.reuters.com/world/spanish-police-clear-remaining-housing-protesters-madrid-encampment-2026-11-03/"
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/legal/government/india-cybercrime-agency-warns-financial-firms-ai-attacks-2026-11-04/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-10",
+      "category": "経済・金融",
+      "date": "2026-11-04",
+      "title": "AMD、AI需要を背景にデータセンター事業が拡大",
+      "summary": "ReutersによるとAMDの第3四半期データセンター売上高は前年同期比97%増の85.5億ドル。経営陣は成長継続を見込む。",
+      "background": "2026年11月4日の報道。会社見通しと確定業績を区別。",
+      "importance": "会社見通しと確定業績を区別。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。会社見通しと確定業績を区別。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/business/amd-shares-jump-ai-driven-data-center-strength-fuels-growth-outlook-2026-11-04/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05-11",
+      "category": "社会・産業",
+      "date": "2026-11-04",
+      "title": "AI半導体需要が他の半導体市場の供給を圧迫とメーカー幹部",
+      "summary": "SiltronicのCEOはデータセンター向け需要がスマートフォンやPC向け供給を圧迫していると説明。",
+      "background": "2026年11月4日の報道。供給配分についての経営者見解。",
+      "importance": "供給配分についての経営者見解。",
+      "japan_impact": "【分析】国内政策・調達・供給網への波及を継続確認。",
+      "investment_impact": "【分析】企業収益・資金調達・市場期待の変化を分けて評価。",
+      "work_impact": "【分析】関連する業務・技術運用への影響を必要に応じて確認。",
+      "caveats": "Reutersの報道を確認。一次資料による独立照合は未完了。供給配分についての経営者見解。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-04",
+          "url": "https://www.reuters.com/business/ai-boom-draws-chip-supply-other-end-markets-siltronic-ceo-says-2026-11-04/"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "ロシアがウクライナ電力網を大規模攻撃",
-      "summary": "ウクライナ大統領はドローン289機、弾道ミサイル17発、巡航ミサイル59発の攻撃を報告。電力会社DTEKは火力発電所5か所のうち3か所が停止したと説明。",
-      "japan_comparison": "冬季の電力供給と停戦協議に影響。",
-      "url": "https://www.reuters.com/business/energy/russian-strikes-knock-out-power-swathes-ukraine-kyiv-hits-russian-refinery-2026-11-03/"
+      "title": "米中間選挙で民主党が上下両院の多数派を獲得",
+      "summary": "Reutersは11月4日、民主党が上下両院の過半数を獲得したと報道。今後の経済政策で政権と議会の対立が焦点となる。",
+      "japan_comparison": "日本の対米政策・市場との比較対象。",
+      "url": "https://www.reuters.com/business/analysts-react-us-midterm-election-results-2026-11-04/"
     },
     {
-      "title": "Apple株下落、AI需要に伴うメモリー価格高騰が利益率圧迫",
-      "summary": "ReutersによるとApple株は約4％下落。会社側はメモリー調達費の上昇を説明し、次四半期の粗利益率を45～46％と予想。",
-      "japan_comparison": "AI設備投資の影響が消費者向け機器に波及。",
-      "url": "https://www.reuters.com/business/retail-consumer/apple-shares-slide-higher-memory-costs-fuel-margin-concerns-2026-11-03/"
+      "title": "EU、半導体スタートアップに5億2500万ユーロ投資へ",
+      "summary": "EUは設計支援基盤と開発助成に投資すると発表。域内半導体設計能力の強化を狙う。",
+      "japan_comparison": "日本の半導体政策・設計基盤と比較。",
+      "url": "https://www.reuters.com/world/china/europe-invest-525-million-chip-startups-catch-up-with-us-china-2026-11-04/"
     },
     {
-      "title": "欧州企業が域内管轄のAI計算基盤で提携",
-      "summary": "Schwarz DigitsとBullが欧州管轄内で稼働するAIクラウド基盤の共同開発に予備合意。",
-      "japan_comparison": "データ主権・クラウド調達の選択肢拡大。",
-      "url": "https://www.reuters.com/business/retail-consumer/schwarz-digits-bull-partner-up-build-european-ai-computing-services-2026-11-03/"
+      "title": "インド当局、AIを利用した金融サイバー攻撃を警告",
+      "summary": "I4Cは金融機関に対しAIエージェントによる高速な侵入・送金操作への備えを勧告。送金上限や受取人確認を推奨。",
+      "japan_comparison": "日本の金融セキュリティ対策と比較。",
+      "url": "https://www.reuters.com/legal/government/india-cybercrime-agency-warns-financial-firms-ai-attacks-2026-11-04/"
     }
   ],
   "github_trending": [
     {
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "star_gain": 3229,
-      "purpose": "AIコーディング",
-      "period": "日次（2026-11-03 06:59 UTC収集）",
-      "source_url": "https://githubtrending.today/archive/2026-11-03/"
-    },
-    {
       "name": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
-      "star_gain": 2275,
-      "purpose": "AIエージェントのPC操作CLI",
-      "period": "日次（2026-11-03 06:59 UTC収集）",
-      "source_url": "https://githubtrending.today/archive/2026-11-03/"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "star_gain": 1803,
-      "purpose": "エージェントの継続記憶",
-      "period": "日次（2026-11-03 06:59 UTC収集）",
-      "source_url": "https://githubtrending.today/archive/2026-11-03/"
-    },
-    {
-      "name": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "star_gain": 1379,
-      "purpose": "ゲーム制作向けエージェント群",
-      "period": "日次（2026-11-03 06:59 UTC収集）",
-      "source_url": "https://githubtrending.today/archive/2026-11-03/"
+      "star_gain": 3791,
+      "purpose": "AIエージェント向けPC操作CLI",
+      "period": "日次（2026-11-04 07:01 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-04/"
     },
     {
       "name": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "star_gain": 706,
+      "star_gain": 1658,
       "purpose": "Webスクレイピング",
-      "period": "日次（2026-11-03 06:59 UTC収集）",
-      "source_url": "https://githubtrending.today/archive/2026-11-03/"
+      "period": "日次（2026-11-04 07:01 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-04/"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "star_gain": 1182,
+      "purpose": "ゲーム制作向けAIエージェント",
+      "period": "日次（2026-11-04 07:01 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-04/"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "star_gain": 1164,
+      "purpose": "エンジニア向けエージェントスキル",
+      "period": "日次（2026-11-04 07:01 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-04/"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "star_gain": 1139,
+      "purpose": "エージェントの永続記憶",
+      "period": "日次（2026-11-04 07:01 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-04/"
     }
   ]
 }
