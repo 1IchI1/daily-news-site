@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07T06:00:49+09:00",
+  "status": "2026年11月6日発表・報道中心。Reuters/AP報道確認。政府・統計の一次資料独立照合は一部未完了。GitHub Trendingは11月6日UTC記録。",
+  "summary": [
+    "日本政府が緊急サイバー対策を発表し、日銀ETF売却収益の活用方針が焦点。",
+    "米雇用は16.5万人増、AI関連株の乱高下と安全資産への資金流入が続く。",
+    "IMFがAI成長減速リスクを警告、先端半導体パッケージング競争が注目。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-07-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-06",
+      "title": "政府、サイバー攻撃相次ぎ100億円規模の緊急対策",
+      "summary": "政府は官民連携、被害企業の初動支援、AIを活用した防御体制の強化を発表。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "サイバー防御の政策対応",
+      "japan_impact": "【分析】国内企業のインシデント対応力",
+      "investment_impact": "【分析】サイバー防御投資の需要に影響し得る",
+      "work_impact": "【分析】官民情報共有や初動支援の体制を確認",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "AP 11月6日報道",
+          "url": "https://apnews.com/article/8ba038fde849e7ea9c49126ecd770972"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-02",
+      "category": "国内政治・政策",
+      "date": "2026-11-06",
+      "title": "首相、日銀ETF売却収益の戦略投資への活用方針を示す",
+      "summary": "高市首相は日銀のETF売却収益を経済安全保障や成長分野の投資に充てる考えを表明。制度上の詳細は確認が必要。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "金融政策と財政投資の接点",
+      "japan_impact": "【分析】成長分野への政策資金配分",
+      "investment_impact": "【分析】具体的配分が確定するまで企業業績への影響は未確定",
+      "work_impact": "【分析】政策詳細と日銀の独立性に留意",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-vigilant-market-moves-will-focus-boosting-economy-pm-takaichi-says-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-03",
+      "category": "経済・金融",
+      "date": "2026-11-06",
+      "title": "米10月雇用者数16.5万人増、失業率4.1％",
+      "summary": "米雇用統計は非農業部門雇用者数が前月比16.5万人増、失業率が4.1％へ低下。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "米金融政策の重要判断材料",
+      "japan_impact": "【分析】米金利・為替経由で日本にも影響",
+      "investment_impact": "【分析】利上げ観測やドル金利に波及し得る",
+      "work_impact": "【分析】米国需要と金利見通しを注視",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-04",
+      "category": "経済・金融",
+      "date": "2026-11-06",
+      "title": "米ハイテク株が反発、AI投資採算懸念は継続",
+      "summary": "11月6日の米市場では半導体株が反発した一方、ナスダックは週間で4週連続下落の見通しと報道。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "AI設備投資の持続性が争点",
+      "japan_impact": "【分析】日本の半導体関連企業に波及し得る",
+      "investment_impact": "【分析】短期反発と収益見通し改善は別",
+      "work_impact": "【分析】半導体需給と投資回収を確認",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-05",
+      "category": "経済・金融",
+      "date": "2026-11-06",
+      "title": "米マネーマーケットファンドに約1180億ドル流入",
+      "summary": "11月4日までの週の米MMF純流入は約1179.7億ドルで約半年ぶりの規模。AI投資負担への懸念も背景と報道。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "資金の安全資産志向を示す",
+      "japan_impact": "【分析】世界的なリスク選好を通じ影響",
+      "investment_impact": "【分析】株式資金フローと同一視できない",
+      "work_impact": "【分析】資金調達環境を観察",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/business/caution-over-midterms-ai-cash-burn-drives-surge-us-money-market-fund-inflows-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-06",
+      "category": "国際・地政学",
+      "date": "2026-11-06",
+      "title": "IMF専務理事、AI主導成長の減速リスクに警鐘",
+      "summary": "ゲオルギエワ専務理事はAI主導成長が減速する可能性を中銀が政策判断に織り込む必要があると発言。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "AI投資と金融安定の国際的論点",
+      "japan_impact": "【分析】日銀を含む政策判断に示唆",
+      "investment_impact": "【分析】AI投資の割引率や期待成長率に関係",
+      "work_impact": "【分析】AI導入効果の実測が重要",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/jp/economy/bank-of-japan/WKNHF2TMCZJSVNLDMFRIU6RK5A-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-07",
+      "category": "社会・産業",
+      "date": "2026-11-06",
+      "title": "日銀総裁、労働力不足の日本はAI活用の恩恵を受け得ると発言",
+      "summary": "植田総裁はAIの需要押し上げと供給面の効果を説明し、金融機関のサイバーリスクにも警鐘。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "人口減少と生産性の課題",
+      "japan_impact": "【分析】人手不足対策としてのAI導入",
+      "investment_impact": "【分析】生産性効果は企業ごとに異なる",
+      "work_impact": "【分析】AI利用とサイバー統制の両立",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/world/asia-pacific/bojs-ueda-says-japan-could-do-well-with-ai-replacing-labor-given-existing-2026-11-06/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07-08",
+      "category": "テクノロジー",
+      "date": "2026-11-06",
+      "title": "AI半導体の先端パッケージングが競争焦点に",
+      "summary": "AI需要拡大でチップの先端パッケージング能力が供給網の重要な競争領域になっているとReutersが特集。",
+      "background": "2026年11月6日の発言・発表・報道。記事記載の出来事と報道日を区別。",
+      "importance": "演算性能だけでなく実装技術が重要",
+      "japan_impact": "【分析】日本の半導体材料・装置産業に関連",
+      "investment_impact": "【分析】需要増と各社の利益増は別",
+      "work_impact": "【分析】実装・材料・歩留まりの技術動向",
+      "caveats": "報道で確認した内容。当事者の発言・政策方針は実現済みの結果ではない。分析は編集者の条件付き見解。",
+      "sources": [
+        {
+          "label": "Reuters 11月6日",
+          "url": "https://www.reuters.com/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米国：雇用の強さと利上げ観測",
+      "summary": "10月雇用者数16.5万人増、失業率4.1％。",
+      "japan_comparison": "日本は米金利・為替を通じて影響を受ける。",
+      "url": "https://www.reuters.com/business/us-job-growth-beats-expectations-october-unemployment-rate-falls-41-2026-11-06/"
+    },
+    {
+      "title": "世界：AI成長減速リスク",
+      "summary": "IMF専務理事が中央銀行に注意を促した。",
+      "japan_comparison": "日本では人手不足を補うAIの供給面の効果も焦点。",
+      "url": "https://www.reuters.com/jp/economy/bank-of-japan/WKNHF2TMCZJSVNLDMFRIU6RK5A-2026-11-06/"
+    },
+    {
+      "title": "米国：AI関連株と安全資産志向",
+      "summary": "米MMFへの大幅流入と半導体株の反発が併存。",
+      "japan_comparison": "日本の半導体関連株への波及は一律でない。",
+      "url": "https://www.reuters.com/business/caution-over-midterms-ai-cash-burn-drives-surge-us-money-market-fund-inflows-2026-11-06/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "star_gain": 2679,
+      "purpose": "データの意味構造・推論",
+      "period": "日次（2026-11-06 06:58 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-06/"
+    },
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "star_gain": 2173,
+      "purpose": "AIエージェントのPC操作CLI",
+      "period": "日次（2026-11-06 06:58 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-06/"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "star_gain": 2071,
+      "purpose": "開発者向けエージェントスキル",
+      "period": "日次（2026-11-06 06:58 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-06/"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "star_gain": 1655,
+      "purpose": "Webスクレイピング",
+      "period": "日次（2026-11-06 06:58 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-06/"
+    },
+    {
+      "name": "floci-io/floci",
+      "url": "https://github.com/floci-io/floci",
+      "star_gain": 779,
+      "purpose": "AWSローカルエミュレータ",
+      "period": "日次（2026-11-06 06:58 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-06/"
+    }
+  ]
+}
