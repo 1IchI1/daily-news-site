@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-08",
+  "updated_at": "2026-11-08T06:02:00+09:00",
+  "status": "2026年11月7日報道を中心に収録。日本国内・社会産業・新規重大脆弱性の独立確認は不十分で水増しなし。GitHubは11月7日UTC記録。",
+  "summary": [
+    "ロシアがキーウの電力・交通インフラを攻撃し、生活基盤に支障。",
+    "米仲介の和平協議へロシア高官が参加予定、合意は未成立。",
+    "米中間選挙後の政策期待がAI・防衛・医療株の評価に波及。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-08-01",
+      "category": "国際・地政学",
+      "date": "2026-11-07",
+      "title": "ロシア軍がキーウ周辺の電力設備と橋を攻撃",
+      "summary": "11月7日の攻撃で電力・水・暖房に支障。ウクライナ側は弾道ミサイル36発のうち迎撃4発と説明。",
+      "background": "ロシアは軍需・エネルギー・輸送関連施設を標的にしたと主張。双方の被害・標的説明は区別する。",
+      "importance": "冬季の民生インフラ被害と交渉環境",
+      "japan_impact": "エネルギー供給不安の国際波及可能性",
+      "investment_impact": "【分析】欧州のエネルギー・防衛関連リスクに影響し得る",
+      "work_impact": "【分析】事業継続・サプライチェーンへの影響に注意",
+      "caveats": "報道事実と当事者の主張を分離。影響欄は編集者の条件付き分析。一次資料の独立照合は未完了。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-07",
+          "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-02",
+      "category": "国際・地政学",
+      "date": "2026-11-07",
+      "title": "米仲介のウクライナ和平協議にロシア高官が参加予定",
+      "summary": "11月7日、ロシア政府はアブダビで予定される米露ウクライナ協議への外交・軍高官の参加を説明。",
+      "background": "ロシア側の参加者発表であり、停戦合意を意味しない。",
+      "importance": "戦争終結を巡る外交日程",
+      "japan_impact": "【分析】資源価格や国際情勢への影響は交渉成果次第",
+      "investment_impact": "【分析】停戦期待と実際の合意を区別",
+      "work_impact": "【分析】地政学リスクのシナリオを更新",
+      "caveats": "報道事実と当事者の主張を分離。影響欄は編集者の条件付き分析。一次資料の独立照合は未完了。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-07",
+          "url": "https://www.reuters.com/world/europe/russian-aide-military-intelligence-chief-attend-talks-with-us-ukraine-kremlin-2026-11-07/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-03",
+      "category": "経済・金融",
+      "date": "2026-11-07",
+      "title": "米中間選挙結果を受け市場でAI・防衛・医療株の評価が変動",
+      "summary": "APは11月7日、民主党の中間選挙勝利後、AIデータセンター投資や関税・医療政策を巡る市場の見方を整理。",
+      "background": "政策変更は投資家の期待であり、法律・予算の成立ではない。",
+      "importance": "政治変化の産業別波及",
+      "japan_impact": "【分析】日本の半導体・輸出企業にも連想波及し得る",
+      "investment_impact": "【分析】政策実現前の株価変動は業績確定を意味しない",
+      "work_impact": "【分析】規制・電力コスト・需要を分けて確認",
+      "caveats": "報道事実と当事者の主張を分離。影響欄は編集者の条件付き分析。一次資料の独立照合は未完了。",
+      "sources": [
+        {
+          "label": "AP 2026-11-07",
+          "url": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08-04",
+      "category": "国際・地政学",
+      "date": "2026-11-07",
+      "title": "米共和党で中間選挙敗北後の党内路線を巡る議論",
+      "summary": "11月7日のAP報道は共和党内でトランプ氏の影響力や再建方針への見方が分かれていると伝えた。",
+      "background": "米国内政治の報道。日本国内の新たな政策発表は同期間に十分確認できず、区分上は国際政治の参考記事。",
+      "importance": "米国の政策予見可能性",
+      "japan_impact": "【分析】通商・安全保障政策の不確実性",
+      "investment_impact": "【分析】市場の政治シナリオ変化に注意",
+      "work_impact": "【分析】制度変更は成立後に再評価",
+      "caveats": "報道事実と当事者の主張を分離。影響欄は編集者の条件付き分析。一次資料の独立照合は未完了。",
+      "sources": [
+        {
+          "label": "AP 2026-11-07",
+          "url": "https://apnews.com/article/fd3114355fa1a4fc479e5a3ae17d1445"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "欧州：ウクライナの電力インフラ",
+      "summary": "冬を前に攻撃被害と停電が発生。",
+      "japan_comparison": "日本は直接の当事国でないが資源価格・供給網の波及を注視。",
+      "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/"
+    },
+    {
+      "title": "米国：選挙後の産業政策期待",
+      "summary": "AIデータセンター・関税・医療制度への政策予想が市場を動かす。",
+      "japan_comparison": "日本の関連産業も期待と実際の政策変更を区別する必要。",
+      "url": "https://apnews.com/article/4ac9a6a3c35aeec37374fc8083bf9395"
+    },
+    {
+      "title": "中東・外交：アブダビ協議",
+      "summary": "米仲介の三者協議を予定。",
+      "japan_comparison": "日本の資源・外交環境への影響は交渉成果次第。",
+      "url": "https://www.reuters.com/world/europe/russian-aide-military-intelligence-chief-attend-talks-with-us-ukraine-kremlin-2026-11-07/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "star_gain": 2548,
+      "purpose": "AIコーディング向けセキュリティ監査",
+      "period": "日次（2026-11-07 06:56 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-07/"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "star_gain": 2070,
+      "purpose": "開発者向けエージェントスキル",
+      "period": "日次（2026-11-07 06:56 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-07/"
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "star_gain": 2015,
+      "purpose": "データ意味構造と推論",
+      "period": "日次（2026-11-07 06:56 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-07/"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "star_gain": 534,
+      "purpose": "Google技術のエージェントスキル",
+      "period": "日次（2026-11-07 06:56 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-07/"
+    },
+    {
+      "name": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "star_gain": 306,
+      "purpose": "高速コードエディタ",
+      "period": "日次（2026-11-07 06:56 UTC収集）",
+      "source_url": "https://githubtrending.today/archive/2026-11-07/"
+    }
+  ]
+}
