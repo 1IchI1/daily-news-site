@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T06:02:49+09:00",
+  "status": "11月9日公表・報道を中心に選定。一次資料の直接照合は限定的。国内政策の重要新規発表は確認不足のため水増しせず。重大な新規サイバー侵害は確認できず。GitHub週次増加数は未取得。",
+  "summary": [
+    "三井化学によるJSR大型買収と財務省の過去最大の円買い介入内訳が判明。",
+    "Googleが新型TPUを発表。AI電力需要は中古タービン市場にも波及。",
+    "G7はウクライナ・イランを協議し、和平交渉はなお不透明。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-10-01",
+      "category": "経済・金融",
+      "date": "2026-11-09",
+      "title": "財務省、7月30日の円買い介入が単日過去最大7.98兆円と公表",
+      "summary": "財務省が過去の為替介入の詳細を開示。7月30日の円買い規模は7.98兆円。",
+      "background": "7月の介入実施自体は既報。11月9日の新情報は日別内訳。",
+      "importance": "為替市場の政策対応規模を検証できる。",
+      "japan_impact": "円安局面の市場安定化策を評価する材料。",
+      "investment_impact": "【分析】介入規模と持続的な為替効果は別に判断。",
+      "work_impact": "【分析】外貨建て調達・契約の為替感応度を再確認。",
+      "caveats": "7月の出来事を11月の新規介入と混同しない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/world/asia-pacific/japans-july-yen-buying-intervention-sets-fresh-daily-record-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-02",
+      "category": "社会・産業",
+      "date": "2026-11-09",
+      "title": "三井化学、JSRを1.84兆円で取得する計画",
+      "summary": "三井化学がJSR買収を公表。日本政策投資銀行が優先株2000億円を引き受ける計画。",
+      "background": "半導体材料の国内産業再編と事業ポートフォリオ転換。",
+      "importance": "日本の半導体材料産業における大型再編。",
+      "japan_impact": "材料供給網の国内基盤に影響。",
+      "investment_impact": "【分析】借入負担と統合効果の実現性が企業価値を左右。",
+      "work_impact": "【分析】素材・半導体関連の取引先再編に注目。",
+      "caveats": "シナジーによる増益は企業計画であり実績ではない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-03",
+      "category": "テクノロジー",
+      "date": "2026-11-09",
+      "title": "Google、AI向け独自TPUの新型2種類を発表",
+      "summary": "GoogleはTPU 8txと8i Maxを発表。8txは規制産業向けの暗号化を特徴とする。",
+      "background": "AI計算需要の拡大とNvidia依存を下げる競争。",
+      "importance": "クラウドAIインフラの選択肢と競争構造を変える可能性。",
+      "japan_impact": "国内企業のクラウドAI調達にも選択肢が増える。",
+      "investment_impact": "【分析】チップ性能の公称値と総保有コストを分けて比較。",
+      "work_impact": "【分析】機密データ処理の要件適合性を確認。",
+      "caveats": "性能向上値はGoogleの説明。第三者ベンチマークは未確認。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/business/google-to-introduce-two-variants-its-in-house-chips-bloomberg-news-reports-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-04",
+      "category": "テクノロジー",
+      "date": "2026-11-09",
+      "title": "AI向け電源不足、使用済みタービン・航空機エンジンに需要",
+      "summary": "ReutersはAIデータセンター向けガスタービンの納期長期化を報道。中古設備の再利用が広がる。",
+      "background": "データセンターの電力供給が計算設備導入の制約。",
+      "importance": "AI投資の実現速度はGPU以外の供給網にも依存。",
+      "japan_impact": "日本の電力・重電機器・データセンター投資にも参考。",
+      "investment_impact": "【分析】電源設備の逼迫が設備投資費用を押し上げる可能性。",
+      "work_impact": "【分析】電源、系統接続、保守を一体で計画する必要。",
+      "caveats": "需給見通しと納期は取材先推計で変動する。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-05",
+      "category": "国際・地政学",
+      "date": "2026-11-09",
+      "title": "G7外相、ウクライナとイランを協議",
+      "summary": "11月9日にパリでG7外相協議が始まり、ウクライナ戦争、イラン紛争、サイバー攻撃を議題とした。",
+      "background": "米中間選挙後の外交政策と欧州の安全保障懸念。",
+      "importance": "制裁・エネルギー・サイバー協力に関係する。",
+      "japan_impact": "日本もG7の一員として外交・供給網への影響を受ける。",
+      "investment_impact": "【分析】地政学リスクによるエネルギー価格変動を注視。",
+      "work_impact": "【分析】重要インフラ防護と脅威情報共有を検討。",
+      "caveats": "会合の最終合意はこの時点で未確認。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-06",
+      "category": "国際・地政学",
+      "date": "2026-11-09",
+      "title": "イラン、米国との和平協議を2日以内に再開する提案を擁護",
+      "summary": "イラン外務省報道官は制裁と海上封鎖の解除を要求。米側は条件に反発。",
+      "background": "ホルムズ海峡の物流と米イラン対立。",
+      "importance": "交渉進展が原油・海運リスクに影響。",
+      "japan_impact": "日本のエネルギー輸入価格に関係。",
+      "investment_impact": "【分析】和平期待による原油下落と実際の供給回復を区別。",
+      "work_impact": "【分析】エネルギー調達と輸送継続計画に関連。",
+      "caveats": "当事者の主張であり和平合意ではない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-07",
+      "category": "国際・地政学",
+      "date": "2026-11-09",
+      "title": "米大統領、AI規制の安全措置に一定の理解を表明",
+      "summary": "トランプ大統領はCBSの取材でAIの安全措置を容認し得ると述べた。",
+      "background": "米国ではAIの国際競争と安全規制の両立が争点。",
+      "importance": "AI政策の方向性に関する発言。",
+      "japan_impact": "日本のAI制度・米国企業のサービス利用にも間接影響。",
+      "investment_impact": "【分析】規制強化の確定政策として織り込まない。",
+      "work_impact": "【分析】海外AIサービス利用時の制度変更を追跡。",
+      "caveats": "米国政治のニュース。日本国内政策の発表ではないため分類上は参考扱い。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10-08",
+      "category": "テクノロジー",
+      "date": "2026-11-09",
+      "title": "AI搭載の深海採鉱ロボット、4000m超で試験成功と企業発表",
+      "summary": "Impossible Metalsは深海で約450gの多金属団塊を採取したと発表。",
+      "background": "重要鉱物の供給確保と海洋環境への懸念。",
+      "importance": "自律ロボットによる採掘技術の初期実証。",
+      "japan_impact": "重要鉱物供給網の選択肢として長期的に関連。",
+      "investment_impact": "【分析】商業化には採算と許認可の検証が必要。",
+      "work_impact": "【分析】自律機械の環境影響評価の事例。",
+      "caveats": "企業発表に基づく。環境優位性と商業性は独立検証未了。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-09",
+          "url": "https://www.reuters.com/technology/impossible-metals-says-it-has-successfully-tested-ai-seabed-mining-robot-2026-11-09/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米国：AI安全措置と競争政策",
+      "summary": "大統領が安全措置への一定の柔軟性を示した。",
+      "japan_comparison": "日本のAI事業者ガイドラインと制度設計を比較。",
+      "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"
+    },
+    {
+      "title": "欧州：G7外交とサイバー安全保障",
+      "summary": "ウクライナ、イラン、サイバー攻撃を協議。",
+      "japan_comparison": "日本の重要インフラ保護とG7協力を比較。",
+      "url": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/"
+    },
+    {
+      "title": "米国：AI電源供給の逼迫",
+      "summary": "中古タービン再利用がデータセンター開発の選択肢に。",
+      "japan_comparison": "日本の系統接続・電源確保と比較。",
+      "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "star_gain": 1052,
+      "purpose": "AIエージェント向けスキル集",
+      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "star_gain": 324,
+      "purpose": "エージェント対応デザインシステム",
+      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "star_gain": 294,
+      "purpose": "SNSアカウント検索",
+      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "star_gain": 914,
+      "purpose": "AIエージェント向けブラウザ操作CLI",
+      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "star_gain": 589,
+      "purpose": "仮想マシンを使うBot",
+      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "source_url": "https://github.com/trending"
+    }
+  ]
+}
