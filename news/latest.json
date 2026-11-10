@@ -1,225 +1,187 @@
 {
-  "date": "2026-11-10",
-  "updated_at": "2026-11-10T06:02:49+09:00",
-  "status": "11月9日公表・報道を中心に選定。一次資料の直接照合は限定的。国内政策の重要新規発表は確認不足のため水増しせず。重大な新規サイバー侵害は確認できず。GitHub週次増加数は未取得。",
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11T06:01:36+09:00",
+  "status": "11月10日の公表・報道を中心に選定。国内政治・社会産業の独立した新規重要案件は十分な裏付けが得られず水増しせず。重大な新規サイバー侵害は確認不足。一次資料の直接照合は限定的。GitHub週次増加数は未取得。",
   "summary": [
-    "三井化学によるJSR大型買収と財務省の過去最大の円買い介入内訳が判明。",
-    "Googleが新型TPUを発表。AI電力需要は中古タービン市場にも波及。",
-    "G7はウクライナ・イランを協議し、和平交渉はなお不透明。"
+    "日銀の利上げ議論と日本の対外債券投資動向が明らかに。",
+    "TSMCがOpenAI・Anthropicへの出資を承認、AI半導体の資本関係に動き。",
+    "G7では対イラン経済圧力継続が焦点。"
   ],
   "articles": [
     {
-      "id": "2026-11-10-01",
+      "id": "2026-11-11-01",
       "category": "経済・金融",
-      "date": "2026-11-09",
-      "title": "財務省、7月30日の円買い介入が単日過去最大7.98兆円と公表",
-      "summary": "財務省が過去の為替介入の詳細を開示。7月30日の円買い規模は7.98兆円。",
-      "background": "7月の介入実施自体は既報。11月9日の新情報は日別内訳。",
-      "importance": "為替市場の政策対応規模を検証できる。",
-      "japan_impact": "円安局面の市場安定化策を評価する材料。",
-      "investment_impact": "【分析】介入規模と持続的な為替効果は別に判断。",
-      "work_impact": "【分析】外貨建て調達・契約の為替感応度を再確認。",
-      "caveats": "7月の出来事を11月の新規介入と混同しない。",
+      "date": "2026-11-10",
+      "title": "日銀10月会合の意見要旨、利上げ速度を巡り見解分かれる",
+      "summary": "日銀の10月29～30日会合の意見要旨で、一部委員は早期利上げを支持。他方で消費や過去の利上げ効果を慎重に見極める意見もあった。",
+      "background": "10月会合の政策金利据え置きは既報。新情報は11月10日公表の議論の内訳。",
+      "importance": "12月以降の金利見通しに影響。",
+      "japan_impact": "住宅ローン・企業資金調達に影響。",
+      "investment_impact": "【分析】金利感応度の高い企業を注視。",
+      "work_impact": "【分析】資金調達条件の変化を確認。",
+      "caveats": "12月利上げは決定事項ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/world/asia-pacific/japans-july-yen-buying-intervention-sets-fresh-daily-record-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/world/asia-pacific/some-boj-called-faster-rate-hikes-october-summary-shows-2026-11-10/"
         }
       ]
     },
     {
-      "id": "2026-11-10-02",
-      "category": "社会・産業",
-      "date": "2026-11-09",
-      "title": "三井化学、JSRを1.84兆円で取得する計画",
-      "summary": "三井化学がJSR買収を公表。日本政策投資銀行が優先株2000億円を引き受ける計画。",
-      "background": "半導体材料の国内産業再編と事業ポートフォリオ転換。",
-      "importance": "日本の半導体材料産業における大型再編。",
-      "japan_impact": "材料供給網の国内基盤に影響。",
-      "investment_impact": "【分析】借入負担と統合効果の実現性が企業価値を左右。",
-      "work_impact": "【分析】素材・半導体関連の取引先再編に注目。",
-      "caveats": "シナジーによる増益は企業計画であり実績ではない。",
+      "id": "2026-11-11-02",
+      "category": "経済・金融",
+      "date": "2026-11-10",
+      "title": "日本の投資家、10月は3か月ぶりに外国債券を買い越し",
+      "summary": "財務省統計に基づく報道で、10月の外国債券買越額は4939億円。外国株式も1兆4600億円の買越し。",
+      "background": "10月の投資動向が11月10日に報道された。",
+      "importance": "資本移動と米国債需要を読む材料。",
+      "japan_impact": "円相場・対外証券投資に関連。",
+      "investment_impact": "【分析】リスク回避と利回り選好の両面を検討。",
+      "work_impact": "【分析】海外資産の為替リスク管理に参考。",
+      "caveats": "買越し理由は市場関係者の分析であり単一の原因と断定できない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/world/asia-pacific/mitsui-chemicals-dbj-buy-jsr-116-billion-filing-shows-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/business/finance/japanese-investors-become-net-buyers-foreign-bonds-first-time-three-months-2026-11-10/"
         }
       ]
     },
     {
-      "id": "2026-11-10-03",
+      "id": "2026-11-11-03",
       "category": "テクノロジー",
-      "date": "2026-11-09",
-      "title": "Google、AI向け独自TPUの新型2種類を発表",
-      "summary": "GoogleはTPU 8txと8i Maxを発表。8txは規制産業向けの暗号化を特徴とする。",
-      "background": "AI計算需要の拡大とNvidia依存を下げる競争。",
-      "importance": "クラウドAIインフラの選択肢と競争構造を変える可能性。",
-      "japan_impact": "国内企業のクラウドAI調達にも選択肢が増える。",
-      "investment_impact": "【分析】チップ性能の公称値と総保有コストを分けて比較。",
-      "work_impact": "【分析】機密データ処理の要件適合性を確認。",
-      "caveats": "性能向上値はGoogleの説明。第三者ベンチマークは未確認。",
+      "date": "2026-11-10",
+      "title": "TSMC、OpenAIとAnthropicへの最大計10億ドルの出資を承認",
+      "summary": "TSMC取締役会は両社に最大各5億ドルの投資を承認したと報じられた。",
+      "background": "AI半導体供給者が主要AI開発企業の資本にも関与する動き。",
+      "importance": "AI産業の供給・資本関係の変化。",
+      "japan_impact": "国内半導体関連サプライチェーンに間接的な影響。",
+      "investment_impact": "【分析】顧客集中・設備投資回収の両面に注目。",
+      "work_impact": "【分析】AIベンダー選定で事業継続性を確認。",
+      "caveats": "出資承認と投資実行は区別する。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/business/google-to-introduce-two-variants-its-in-house-chips-bloomberg-news-reports-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
         }
       ]
     },
     {
-      "id": "2026-11-10-04",
-      "category": "テクノロジー",
-      "date": "2026-11-09",
-      "title": "AI向け電源不足、使用済みタービン・航空機エンジンに需要",
-      "summary": "ReutersはAIデータセンター向けガスタービンの納期長期化を報道。中古設備の再利用が広がる。",
-      "background": "データセンターの電力供給が計算設備導入の制約。",
-      "importance": "AI投資の実現速度はGPU以外の供給網にも依存。",
-      "japan_impact": "日本の電力・重電機器・データセンター投資にも参考。",
-      "investment_impact": "【分析】電源設備の逼迫が設備投資費用を押し上げる可能性。",
-      "work_impact": "【分析】電源、系統接続、保守を一体で計画する必要。",
-      "caveats": "需給見通しと納期は取材先推計で変動する。",
-      "sources": [
-        {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-10-05",
+      "id": "2026-11-11-04",
       "category": "国際・地政学",
-      "date": "2026-11-09",
-      "title": "G7外相、ウクライナとイランを協議",
-      "summary": "11月9日にパリでG7外相協議が始まり、ウクライナ戦争、イラン紛争、サイバー攻撃を議題とした。",
-      "background": "米中間選挙後の外交政策と欧州の安全保障懸念。",
-      "importance": "制裁・エネルギー・サイバー協力に関係する。",
-      "japan_impact": "日本もG7の一員として外交・供給網への影響を受ける。",
-      "investment_impact": "【分析】地政学リスクによるエネルギー価格変動を注視。",
-      "work_impact": "【分析】重要インフラ防護と脅威情報共有を検討。",
-      "caveats": "会合の最終合意はこの時点で未確認。",
+      "date": "2026-11-10",
+      "title": "G7協議で米国がイランへの経済圧力継続を表明",
+      "summary": "パリでのG7外相協議に関し、外交官らによるとルビオ米国務長官がイランへの経済圧力継続方針を示した。",
+      "background": "ホルムズ海峡を巡る封鎖と停戦交渉が継続。",
+      "importance": "エネルギー・海運と地域安全保障に影響。",
+      "japan_impact": "原油輸入と物流に関係。",
+      "investment_impact": "【分析】原油価格と輸送費の変動リスク。",
+      "work_impact": "【分析】調達継続計画への影響を点検。",
+      "caveats": "発言内容の一部は匿名外交官の証言。合意成立ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/world/middle-east/qatari-pm-makes-unscheduled-stop-g7-brief-europeans-post-trump-talks-2026-11-10/"
         }
       ]
     },
     {
-      "id": "2026-11-10-06",
+      "id": "2026-11-11-05",
       "category": "国際・地政学",
-      "date": "2026-11-09",
-      "title": "イラン、米国との和平協議を2日以内に再開する提案を擁護",
-      "summary": "イラン外務省報道官は制裁と海上封鎖の解除を要求。米側は条件に反発。",
-      "background": "ホルムズ海峡の物流と米イラン対立。",
-      "importance": "交渉進展が原油・海運リスクに影響。",
-      "japan_impact": "日本のエネルギー輸入価格に関係。",
-      "investment_impact": "【分析】和平期待による原油下落と実際の供給回復を区別。",
-      "work_impact": "【分析】エネルギー調達と輸送継続計画に関連。",
-      "caveats": "当事者の主張であり和平合意ではない。",
+      "date": "2026-11-10",
+      "title": "米国務長官、イランへの大規模軍事作戦は不要との見解",
+      "summary": "ルビオ国務長官は、制裁と海上封鎖が効果を上げているとして大規模軍事作戦の必要性を否定した。",
+      "background": "軍事行動の一時見送りと外交交渉の継続。",
+      "importance": "中東情勢の短期的な政策方向を示す。",
+      "japan_impact": "エネルギー輸入と国際輸送に関連。",
+      "investment_impact": "【分析】発言だけで紛争終結を織り込まない。",
+      "work_impact": "【分析】供給網リスクの継続監視。",
+      "caveats": "米政府側の主張であり、制裁効果の独立検証ではない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/world/rubio-says-no-need-major-combat-operations-iran-given-us-economic-campaign-2026-11-10/"
         }
       ]
     },
     {
-      "id": "2026-11-10-07",
-      "category": "国際・地政学",
-      "date": "2026-11-09",
-      "title": "米大統領、AI規制の安全措置に一定の理解を表明",
-      "summary": "トランプ大統領はCBSの取材でAIの安全措置を容認し得ると述べた。",
-      "background": "米国ではAIの国際競争と安全規制の両立が争点。",
-      "importance": "AI政策の方向性に関する発言。",
-      "japan_impact": "日本のAI制度・米国企業のサービス利用にも間接影響。",
-      "investment_impact": "【分析】規制強化の確定政策として織り込まない。",
-      "work_impact": "【分析】海外AIサービス利用時の制度変更を追跡。",
-      "caveats": "米国政治のニュース。日本国内政策の発表ではないため分類上は参考扱い。",
+      "id": "2026-11-11-06",
+      "category": "経済・金融",
+      "date": "2026-11-10",
+      "title": "米金融機関、AIインフラ関連株の見通しを引き上げ",
+      "summary": "Wells Fargoは半導体関連株の大幅下落を受け、米AIインフラ企業への見通しをネガティブからニュートラルに変更した。",
+      "background": "AI投資減速懸念による株価調整を背景とする評価変更。",
+      "importance": "市場評価と企業業績の乖離を考える材料。",
+      "japan_impact": "日本の半導体関連企業の市場心理にも波及し得る。",
+      "investment_impact": "【分析】株価下落と利益見通しを別々に検証。",
+      "work_impact": "【分析】AI設備投資計画の変化を注視。",
+      "caveats": "証券会社の見解であり将来の価格を保証しない。",
       "sources": [
         {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-10-08",
-      "category": "テクノロジー",
-      "date": "2026-11-09",
-      "title": "AI搭載の深海採鉱ロボット、4000m超で試験成功と企業発表",
-      "summary": "Impossible Metalsは深海で約450gの多金属団塊を採取したと発表。",
-      "background": "重要鉱物の供給確保と海洋環境への懸念。",
-      "importance": "自律ロボットによる採掘技術の初期実証。",
-      "japan_impact": "重要鉱物供給網の選択肢として長期的に関連。",
-      "investment_impact": "【分析】商業化には採算と許認可の検証が必要。",
-      "work_impact": "【分析】自律機械の環境影響評価の事例。",
-      "caveats": "企業発表に基づく。環境優位性と商業性は独立検証未了。",
-      "sources": [
-        {
-          "label": "Reuters 2026-11-09",
-          "url": "https://www.reuters.com/technology/impossible-metals-says-it-has-successfully-tested-ai-seabed-mining-robot-2026-11-09/"
+          "label": "Reuters 2026-11-10",
+          "url": "https://www.reuters.com/business/wells-fargo-upgrades-us-ai-infrastructure-view-after-chip-selloff-2026-11-10/"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米国：AI安全措置と競争政策",
-      "summary": "大統領が安全措置への一定の柔軟性を示した。",
-      "japan_comparison": "日本のAI事業者ガイドラインと制度設計を比較。",
-      "url": "https://www.reuters.com/world/trump-says-ai-risks-can-be-managed-signals-openness-guardrails-2026-11-09/"
+      "title": "米国：AI半導体の市場評価",
+      "summary": "半導体株下落を受けた投資判断の見直し",
+      "japan_comparison": "日本の半導体製造装置・材料企業との連動を比較",
+      "url": "https://www.reuters.com/business/wells-fargo-upgrades-us-ai-infrastructure-view-after-chip-selloff-2026-11-10/"
     },
     {
-      "title": "欧州：G7外交とサイバー安全保障",
-      "summary": "ウクライナ、イラン、サイバー攻撃を協議。",
-      "japan_comparison": "日本の重要インフラ保護とG7協力を比較。",
-      "url": "https://www.reuters.com/world/americas/g7-allies-assess-impact-trumps-midterm-setback-paris-talks-2026-11-09/"
+      "title": "台湾：AI供給者による開発企業への出資",
+      "summary": "TSMCがOpenAIとAnthropicへの出資を承認",
+      "japan_comparison": "日本の半導体産業政策と民間資本関係を比較",
+      "url": "https://www.reuters.com/world/china/tsmc-invest-up-1-billion-anthropic-openai-2026-11-10/"
     },
     {
-      "title": "米国：AI電源供給の逼迫",
-      "summary": "中古タービン再利用がデータセンター開発の選択肢に。",
-      "japan_comparison": "日本の系統接続・電源確保と比較。",
-      "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/"
+      "title": "欧米・中東：制裁と外交の併用",
+      "summary": "G7協議で対イラン経済圧力が議題",
+      "japan_comparison": "日本のエネルギー輸入依存と外交上の立場を比較",
+      "url": "https://www.reuters.com/world/middle-east/qatari-pm-makes-unscheduled-stop-g7-brief-europeans-post-trump-talks-2026-11-10/"
     }
   ],
   "github_trending": [
     {
-      "name": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "star_gain": 1052,
-      "purpose": "AIエージェント向けスキル集",
-      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
-      "source_url": "https://github.com/trending"
-    },
-    {
       "name": "meta/astryx",
       "url": "https://github.com/meta/astryx",
-      "star_gain": 324,
+      "star_gain": 3111,
       "purpose": "エージェント対応デザインシステム",
-      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "period": "日次（2026-11-11閲覧時点。週次増加数未取得）",
       "source_url": "https://github.com/trending"
     },
     {
-      "name": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "star_gain": 294,
-      "purpose": "SNSアカウント検索",
-      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "star_gain": 1676,
+      "purpose": "AIエージェント用スキル集",
+      "period": "日次（2026-11-11閲覧時点。週次増加数未取得）",
       "source_url": "https://github.com/trending"
     },
     {
       "name": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
-      "star_gain": 914,
-      "purpose": "AIエージェント向けブラウザ操作CLI",
-      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "star_gain": 775,
+      "purpose": "エージェント用ブラウザCLI",
+      "period": "日次（2026-11-11閲覧時点。週次増加数未取得）",
       "source_url": "https://github.com/trending"
     },
     {
-      "name": "milind-soni/OpenMausBot",
-      "url": "https://github.com/milind-soni/OpenMausBot",
-      "star_gain": 589,
-      "purpose": "仮想マシンを使うBot",
-      "period": "日次（2026-11-10閲覧時点。週次値は取得未了）",
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "star_gain": 792,
+      "purpose": "Home Assistant連携MCP",
+      "period": "日次（2026-11-11閲覧時点。週次増加数未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "star_gain": 530,
+      "purpose": "Claude APIの実装例",
+      "period": "日次（2026-11-11閲覧時点。週次増加数未取得）",
       "source_url": "https://github.com/trending"
     }
   ]
