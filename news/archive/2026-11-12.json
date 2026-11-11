@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T05:58:00+09:00",
+  "status": "11月11日発表・報道中心。国内政治の独立した新規案件は裏付け不足のため未掲載。一次資料の直接照合は限定的。重大サイバー案件は調査会社主張として留保。GitHub週次スター増加数未取得。",
+  "summary": [
+    "国内個人向け国債注文が急増、円安と米金利観測が焦点。",
+    "CoreWeaveの見通しを受けAI関連株が反発、英国推論半導体にも資金流入。",
+    "イランのガス供給不安とAIエージェントによる政府文書窃取疑惑。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-12-01",
+      "category": "経済・金融",
+      "date": "2026-11-11",
+      "title": "個人向け国債の購入急増、11月の注文額は2.03兆円",
+      "summary": "FTによると個人向け国債の11月注文額が前月比倍増し2.03兆円。3・5年物利回りが2%超となった。",
+      "background": "金利上昇により預金から債券への資金移動が注目される。",
+      "importance": "家計金融資産と国債の保有構造に関係。",
+      "japan_impact": "家計の運用選択肢や銀行預金競争に影響。",
+      "investment_impact": "【分析】預金金利と債券利回りの差に注目。",
+      "work_impact": "【分析】資金調達金利の変化を把握。",
+      "caveats": "注文額であり最終的な保有残高ではない。",
+      "sources": [
+        {
+          "label": "FT 11月11日",
+          "url": "https://www.ft.com/content/d17e5179-59e2-4b8e-9a65-e985b99645df"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-02",
+      "category": "経済・金融",
+      "date": "2026-11-11",
+      "title": "CoreWeaveの見通し改善を受けAI関連株が反発",
+      "summary": "ReutersによるとCoreWeaveの成長見通しを好感しAIインフラ関連株が上昇。資金調達と債務返済能力への懸念は残る。",
+      "background": "AIデータセンター投資の持続性への疑問から株価変動が続く。",
+      "importance": "AI投資の資本コストを測る重要材料。",
+      "japan_impact": "国内半導体・電力設備関連の市場心理に波及し得る。",
+      "investment_impact": "【分析】受注成長と負債・キャッシュフローを別々に検証。",
+      "work_impact": "【分析】クラウド利用料の中長期的な変化を注視。",
+      "caveats": "株価反発は設備投資回収の保証ではない。",
+      "sources": [
+        {
+          "label": "Reuters 11月11日",
+          "url": "https://www.reuters.com/world/china/coreweave-sparks-ai-cloud-stock-rally-lifts-nvidia-results-ease-bubble-fears-2026-11-11/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-03",
+      "category": "経済・金融",
+      "date": "2026-11-11",
+      "title": "円相場が159円台へ下落、米金融政策観測が影響",
+      "summary": "WSJによると11日、円は一時1ドル159.07円。米インフレ指標とFRB関係者発言を背景にドルが買われた。",
+      "background": "日米金利差と利上げ観測が為替変動を左右する。",
+      "importance": "輸入物価と金融市場への影響が大きい。",
+      "japan_impact": "輸入コスト上昇要因。",
+      "investment_impact": "【分析】金利見通し変化と為替を分けて確認。",
+      "work_impact": "【分析】外貨建て契約の為替影響を確認。",
+      "caveats": "12月の米利上げは未決定。",
+      "sources": [
+        {
+          "label": "WSJ 11月11日",
+          "url": "https://www.wsj.com/economy/central-banking/yen-slumps-to-over-one-month-low-on-fed-hike-bets-fc05bf61"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-04",
+      "category": "国際・地政学",
+      "date": "2026-11-11",
+      "title": "イラン政府、冬季の国内ガス不足を警告",
+      "summary": "イラン政府報道官は戦争被害によるガス処理能力低下を理由に今冬の不足を警告。",
+      "background": "処理施設の損傷と制裁・港湾封鎖が供給制約に重なる。",
+      "importance": "中東のエネルギー安全保障に直結。",
+      "japan_impact": "輸入エネルギー価格への間接的リスク。",
+      "investment_impact": "【分析】天然ガス・原油の供給不安を監視。",
+      "work_impact": "【分析】国際調達と物流の代替策を検討。",
+      "caveats": "不足見通しは政府側の予測であり確定実績ではない。",
+      "sources": [
+        {
+          "label": "Reuters 11月11日",
+          "url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-05",
+      "category": "テクノロジー",
+      "date": "2026-11-11",
+      "title": "英国AI半導体企業Fractileが7.2億ドル調達",
+      "summary": "FractileはシリーズCで7.2億ドルを調達、企業価値70億ドルと報じられた。推論向けチップを開発。",
+      "background": "生成AIの実運用拡大に伴い推論の電力・コスト削減が競争領域。",
+      "importance": "AI計算基盤の競争構造に変化の可能性。",
+      "japan_impact": "国内の半導体部材・製造装置需要に間接影響。",
+      "investment_impact": "【分析】製品実用化と量産計画を分けて評価。",
+      "work_impact": "【分析】推論コスト低下の実証状況を確認。",
+      "caveats": "初の商用チップは翌年予定で性能は企業側の主張。",
+      "sources": [
+        {
+          "label": "Reuters 11月11日",
+          "url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-06",
+      "category": "テクノロジー",
+      "date": "2026-11-11",
+      "title": "AIエージェントを用いたタジキスタン政府文書窃取の疑い",
+      "summary": "CloudSekの調査としてReutersは、カザフスタン関連とされる攻撃者がAIエージェントを利用し2000件超の政府文書を窃取した疑いを報道。",
+      "background": "AIエージェントによる偵察・ファイル処理の自動化が懸念される。",
+      "importance": "自律型攻撃の現実的なリスクを示唆。",
+      "japan_impact": "国内行政・企業の認証と監視の見直しに示唆。",
+      "investment_impact": "【分析】防御技術への需要が増える可能性。",
+      "work_impact": "【分析】エージェント実行権限とログ監視を点検。",
+      "caveats": "帰属は調査会社の推定。政府側の確認はなく独立検証は限定的。",
+      "sources": [
+        {
+          "label": "Reuters 11月11日",
+          "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12-07",
+      "category": "社会・産業",
+      "date": "2026-11-11",
+      "title": "ユナイテッド航空、AIボットの自社サービスへのアクセス制限へ",
+      "summary": "United Airlinesはデータ安全性への懸念からAIエージェントのデジタルサービスへのアクセスを制限する方針を示した。",
+      "background": "旅行予約の自動化が進む一方、サイト運営者の統制が課題。",
+      "importance": "AIエージェントと事業者の利用条件の摩擦。",
+      "japan_impact": "国内旅行・ECサービスにも同様の議論が波及し得る。",
+      "investment_impact": "【分析】自動予約市場のアクセス規制を注視。",
+      "work_impact": "【分析】自社サイトのbotポリシーを確認。",
+      "caveats": "対象botや施行時期の詳細は未確認。",
+      "sources": [
+        {
+          "label": "Reuters 11月11日",
+          "url": "https://www.reuters.com/legal/litigation/united-airlines-moves-block-ai-agents-its-platform-over-security-concerns-2026-11-11/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "英国：推論用AI半導体への資金流入",
+      "summary": "Fractileが7.2億ドルを調達",
+      "japan_comparison": "日本の半導体製造装置・材料企業との関連を比較",
+      "url": "https://www.reuters.com/legal/transactional/uk-backed-ai-chip-startup-fractile-hits-7-billion-valuation-funding-round-2026-11-11/"
+    },
+    {
+      "title": "中央アジア：AIエージェントを使う諜報活動",
+      "summary": "調査会社がタジキスタン政府文書窃取の疑いを公表",
+      "japan_comparison": "国内の行政システムの監査・アクセス制御と比較",
+      "url": "https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/"
+    },
+    {
+      "title": "中東：イランの国内ガス供給不安",
+      "summary": "戦争被害による処理能力低下と冬季需要",
+      "japan_comparison": "日本のエネルギー輸入依存との違いを比較",
+      "url": "https://www.reuters.com/business/energy/iran-warns-domestic-gas-shortages-war-this-winter-2026-11-11/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "star_gain": 2842,
+      "purpose": "エージェント対応デザインシステム",
+      "period": "日次（2026-11-12確認、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "star_gain": 1079,
+      "purpose": "個人向け金融管理アプリ",
+      "period": "日次（2026-11-12確認、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "star_gain": 788,
+      "purpose": "AIコーディングエージェント向けスキル",
+      "period": "日次（2026-11-12確認、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "star_gain": 712,
+      "purpose": "ブラウザ自動操作CLI",
+      "period": "日次（2026-11-12確認、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "star_gain": 640,
+      "purpose": "Home Assistant向けMCP",
+      "period": "日次（2026-11-12確認、週次未取得）",
+      "source_url": "https://github.com/trending"
+    }
+  ]
+}
