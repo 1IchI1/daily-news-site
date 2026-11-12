@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T06:01:23+09:00",
+  "status": "11月12日報道中心。一次資料の直接照合は限定的。重大な新規侵害事案の独立確認なし。GitHub日次スター増加数のみ取得、週次未取得。",
+  "summary": [
+    "国内企業物価が前年比7.1%上昇、円は一時159.94円で当局が警戒。",
+    "FRB関係者が追加引き締めとAI雇用影響に言及。",
+    "AI開発停止を求める提訴と仏防衛AI拠点構想。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-13-01",
+      "category": "経済・金融",
+      "date": "2026-11-12",
+      "title": "国内企業物価指数が前年比7.1%上昇",
+      "summary": "日銀の10月企業物価指数は前年比7.1%上昇とReutersが報道。",
+      "background": "輸入物価・燃料費と人件費の転嫁が背景。",
+      "importance": "金融政策と企業収益への波及が大きい。",
+      "japan_impact": "国内企業の調達コスト上昇圧力。",
+      "investment_impact": "【分析】利幅と価格転嫁の差を注視。",
+      "work_impact": "【分析】購買契約の価格改定リスクを確認。",
+      "caveats": "報道の数値。12月の利上げは未決定。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-accelerates-keeps-alive-boj-rate-hike-view-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-02",
+      "category": "国内政治・政策",
+      "date": "2026-11-12",
+      "title": "財務省の三村財務官、円安の急速な進行を警戒",
+      "summary": "Reutersによると三村財務官は過去の円買い介入を忘れるべきではないと警告。",
+      "background": "ドル円が一時159.94円と報じられた。",
+      "importance": "為替介入観測と輸入物価に直結。",
+      "japan_impact": "家計と企業の輸入費用への影響。",
+      "investment_impact": "【分析】介入の実施と口先介入は区別。",
+      "work_impact": "【分析】外貨建て費用の変動に注意。",
+      "caveats": "発言は介入実施の発表ではない。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/world/asia-pacific/japans-top-currency-diplomat-renews-volatility-warning-yen-nears-key-160-level-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-03",
+      "category": "経済・金融",
+      "date": "2026-11-12",
+      "title": "米サンフランシスコ連銀総裁、追加利上げの可能性を指摘",
+      "summary": "デイリー総裁はインフレ高止まりを受け追加引き締めが必要になる可能性を示した。",
+      "background": "サービス物価の持続的な上昇が論点。",
+      "importance": "米金利と世界的な資金調達環境に影響。",
+      "japan_impact": "日米金利差と為替に波及し得る。",
+      "investment_impact": "【分析】債券利回りと株式評価への波及。",
+      "work_impact": "【分析】ドル建て契約への影響を注視。",
+      "caveats": "個人の見解でありFOMCの決定ではない。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.newsweekjapan.jp/articles/-/339967"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-04",
+      "category": "社会・産業",
+      "date": "2026-11-12",
+      "title": "FRB理事、AI普及による雇用の混乱と格差を警告",
+      "summary": "バー理事はAIが短期的に雇用を混乱させ格差を広げる可能性を指摘。",
+      "background": "AI投資は需要を押し上げる一方、労働代替の懸念もある。",
+      "importance": "雇用・教育・所得分配の政策論点。",
+      "japan_impact": "日本の人手不足と職種転換に示唆。",
+      "investment_impact": "【分析】労働生産性と雇用の両面を検証。",
+      "work_impact": "【分析】業務自動化と再教育を併せて評価。",
+      "caveats": "大規模な失業の発生を確認したという発言ではない。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-05",
+      "category": "テクノロジー",
+      "date": "2026-11-12",
+      "title": "米非営利団体、主要AI企業を提訴",
+      "summary": "複数団体が最先端AI開発の停止を求めOpenAI、Google、Anthropicなどを提訴したとReutersが報道。",
+      "background": "AIの安全性を巡る規制・司法の論争が続く。",
+      "importance": "生成AIの開発・公開条件に影響する可能性。",
+      "japan_impact": "国内のAI導入方針にも議論が波及し得る。",
+      "investment_impact": "【分析】訴訟リスクと開発費への影響。",
+      "work_impact": "【分析】モデル利用条件の変化に注意。",
+      "caveats": "原告の主張は司法判断で認定された事実ではない。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-06",
+      "category": "国際・地政学",
+      "date": "2026-11-12",
+      "title": "フランス、国防AIの国際拠点設置を計画",
+      "summary": "仏国防省は2027年夏を目標に防衛向けAIの国際拠点を設ける計画を明らかにした。",
+      "background": "欧州の軍事AI能力強化と米国企業依存の軽減が背景。",
+      "importance": "安全保障技術の国際競争に関係。",
+      "japan_impact": "日本の防衛技術協力にも示唆。",
+      "investment_impact": "【分析】国防AI調達の市場拡大可能性。",
+      "work_impact": "【分析】機微情報を扱うAIの統制に注目。",
+      "caveats": "予算・参加国は未確定。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/technology/french-army-ministry-set-up-centre-defence-related-ai-2026-11-12/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-07",
+      "category": "テクノロジー",
+      "date": "2026-11-12",
+      "title": "AI企業が防諜人材の採用を強化",
+      "summary": "ReutersはAI企業や半導体企業で元情報機関職員などの採用が進むと報道。",
+      "background": "機密技術と経営層が諜報・サイバー攻撃の標的になる懸念。",
+      "importance": "AI産業の安全保障コストが増加。",
+      "japan_impact": "日本企業の技術情報保護にも示唆。",
+      "investment_impact": "【分析】情報保護投資の増加可能性。",
+      "work_impact": "【分析】内部不正と経営層リスクを含む対策。",
+      "caveats": "個別人物への疑惑は独立確認されておらず掲載対象外。",
+      "sources": [
+        {
+          "label": "Reuters等 2026-11-12",
+          "url": "https://www.reuters.com/legal/litigation/help-wanted-ai-firms-court-ex-spies-nvidia-drama-spotlights-security-risks-2026-11-12/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米国：AIと雇用政策",
+      "summary": "FRB理事がAIの雇用への影響を警告",
+      "japan_comparison": "日本の人手不足・再教育との比較",
+      "url": "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+    },
+    {
+      "title": "フランス：防衛AI拠点",
+      "summary": "2027年の国際拠点設置を計画",
+      "japan_comparison": "日本の防衛AI研究・調達と比較",
+      "url": "https://www.reuters.com/technology/french-army-ministry-set-up-centre-defence-related-ai-2026-11-12/"
+    },
+    {
+      "title": "米国：AI安全性の司法争点",
+      "summary": "非営利団体が先端モデル開発停止を求め提訴",
+      "japan_comparison": "日本のAIガバナンスと比較",
+      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "star_gain": 1789,
+      "purpose": "エージェント対応デザインシステム",
+      "period": "日次（2026-11-13取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "star_gain": 974,
+      "purpose": "個人向け金融管理",
+      "period": "日次（2026-11-13取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "star_gain": 812,
+      "purpose": "AI開発エージェントのスキル",
+      "period": "日次（2026-11-13取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "star_gain": 799,
+      "purpose": "モダンWeb開発ガイド",
+      "period": "日次（2026-11-13取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "star_gain": 663,
+      "purpose": "セキュリティ検査CLI・SDK",
+      "period": "日次（2026-11-13取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    }
+  ]
+}
