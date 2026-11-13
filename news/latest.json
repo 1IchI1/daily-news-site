@@ -1,206 +1,244 @@
 {
-  "date": "2026-11-13",
-  "updated_at": "2026-11-13T06:01:23+09:00",
-  "status": "11月12日報道中心。一次資料の直接照合は限定的。重大な新規侵害事案の独立確認なし。GitHub日次スター増加数のみ取得、週次未取得。",
+  "date": "2026-11-14",
+  "updated_at": "2026-11-14T05:55:14+09:00",
+  "status": "11月13日報道中心。一次資料の直接照合は限定的。重大な新規侵害事案は独立確認できず。GitHub日次スター増加数のみ確認、週次未取得。",
   "summary": [
-    "国内企業物価が前年比7.1%上昇、円は一時159.94円で当局が警戒。",
-    "FRB関係者が追加引き締めとAI雇用影響に言及。",
-    "AI開発停止を求める提訴と仏防衛AI拠点構想。"
+    "円が160円を突破、防衛費次期計画の財源論争が浮上。",
+    "Microsoft世界的障害の続報とAI悪用サイバー攻撃の報告制度協議。",
+    "半導体株安と中国のAI計算資源供給網を巡る調査。"
   ],
   "articles": [
     {
-      "id": "2026-11-13-01",
-      "category": "経済・金融",
-      "date": "2026-11-12",
-      "title": "国内企業物価指数が前年比7.1%上昇",
-      "summary": "日銀の10月企業物価指数は前年比7.1%上昇とReutersが報道。",
-      "background": "輸入物価・燃料費と人件費の転嫁が背景。",
-      "importance": "金融政策と企業収益への波及が大きい。",
-      "japan_impact": "国内企業の調達コスト上昇圧力。",
-      "investment_impact": "【分析】利幅と価格転嫁の差を注視。",
-      "work_impact": "【分析】購買契約の価格改定リスクを確認。",
-      "caveats": "報道の数値。12月の利上げは未決定。",
-      "sources": [
-        {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-accelerates-keeps-alive-boj-rate-hike-view-2026-11-12/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-02",
+      "id": "2026-11-14-01",
       "category": "国内政治・政策",
-      "date": "2026-11-12",
-      "title": "財務省の三村財務官、円安の急速な進行を警戒",
-      "summary": "Reutersによると三村財務官は過去の円買い介入を忘れるべきではないと警告。",
-      "background": "ドル円が一時159.94円と報じられた。",
-      "importance": "為替介入観測と輸入物価に直結。",
-      "japan_impact": "家計と企業の輸入費用への影響。",
-      "investment_impact": "【分析】介入の実施と口先介入は区別。",
-      "work_impact": "【分析】外貨建て費用の変動に注意。",
-      "caveats": "発言は介入実施の発表ではない。",
+      "date": "2026-11-13",
+      "title": "防衛費次期計画を巡り財務省が50～60兆円案と報道",
+      "summary": "Reutersは2027年度から5年間の防衛費について財務省が50～60兆円を提案したと関係者情報を報道。",
+      "background": "現行5年計画43兆円と、一部が想定する80兆円の間で財源論争。",
+      "importance": "装備調達・安全保障政策への影響が大きい。",
+      "japan_impact": "装備調達計画と財政負担が焦点。",
+      "investment_impact": "【分析】防衛関連企業の受注見通しには不確実性。",
+      "work_impact": "【分析】官公庁調達に関わる業務で計画変更を注視。",
+      "caveats": "政府の正式決定ではない。関係者に基づく報道。",
       "sources": [
         {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/world/asia-pacific/japans-top-currency-diplomat-renews-volatility-warning-yen-nears-key-160-level-2026-11-12/"
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/business/retail-consumer/japan-warns-arms-suppliers-deep-order-cuts-budget-squeeze-hits-military-buildup-2026-11-13/"
         }
       ]
     },
     {
-      "id": "2026-11-13-03",
+      "id": "2026-11-14-02",
       "category": "経済・金融",
-      "date": "2026-11-12",
-      "title": "米サンフランシスコ連銀総裁、追加利上げの可能性を指摘",
-      "summary": "デイリー総裁はインフレ高止まりを受け追加引き締めが必要になる可能性を示した。",
-      "background": "サービス物価の持続的な上昇が論点。",
-      "importance": "米金利と世界的な資金調達環境に影響。",
-      "japan_impact": "日米金利差と為替に波及し得る。",
-      "investment_impact": "【分析】債券利回りと株式評価への波及。",
-      "work_impact": "【分析】ドル建て契約への影響を注視。",
-      "caveats": "個人の見解でありFOMCの決定ではない。",
+      "date": "2026-11-13",
+      "title": "円が1ドル160円を突破、介入の抑止力に注目",
+      "summary": "Reutersは円が160円を超え、米国の過去の為替協調介入の実際の規模が想定より小さかったと報道。",
+      "background": "ドル高と米国債利回り上昇が背景。",
+      "importance": "輸入価格と金融政策への影響。",
+      "japan_impact": "円安による輸入コスト上昇が懸念。",
+      "investment_impact": "【分析】為替変動による業績影響は企業ごとに異なる。",
+      "work_impact": "【分析】外貨建て契約の見直しリスク。",
+      "caveats": "介入実施を示すものではなく、市場の将来予測は未確定。",
       "sources": [
         {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.newsweekjapan.jp/articles/-/339967"
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/markets/us/japans-finance-minister-vows-action-yen-breaches-160-threshold-2026-11-13/"
         }
       ]
     },
     {
-      "id": "2026-11-13-04",
-      "category": "社会・産業",
-      "date": "2026-11-12",
-      "title": "FRB理事、AI普及による雇用の混乱と格差を警告",
-      "summary": "バー理事はAIが短期的に雇用を混乱させ格差を広げる可能性を指摘。",
-      "background": "AI投資は需要を押し上げる一方、労働代替の懸念もある。",
-      "importance": "雇用・教育・所得分配の政策論点。",
-      "japan_impact": "日本の人手不足と職種転換に示唆。",
-      "investment_impact": "【分析】労働生産性と雇用の両面を検証。",
-      "work_impact": "【分析】業務自動化と再教育を併せて評価。",
-      "caveats": "大規模な失業の発生を確認したという発言ではない。",
+      "id": "2026-11-14-03",
+      "category": "経済・金融",
+      "date": "2026-11-13",
+      "title": "世界株安、半導体関連株に売り",
+      "summary": "Reutersは11月13日にハイテク株が下落し、米半導体指数が下落したと報道。",
+      "background": "Nvidia経営陣の変化と米金利観測が重荷。",
+      "importance": "世界のAI設備投資と資本市場の動向。",
+      "japan_impact": "日本の半導体関連企業にも市場心理を通じて波及し得る。",
+      "investment_impact": "【分析】短期株価と中長期利益の変化は区別。",
+      "work_impact": "【分析】調達先の設備投資姿勢に注意。",
+      "caveats": "取引時間中の数値は終値と異なる可能性。",
       "sources": [
         {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-13/"
         }
       ]
     },
     {
-      "id": "2026-11-13-05",
-      "category": "テクノロジー",
-      "date": "2026-11-12",
-      "title": "米非営利団体、主要AI企業を提訴",
-      "summary": "複数団体が最先端AI開発の停止を求めOpenAI、Google、Anthropicなどを提訴したとReutersが報道。",
-      "background": "AIの安全性を巡る規制・司法の論争が続く。",
-      "importance": "生成AIの開発・公開条件に影響する可能性。",
-      "japan_impact": "国内のAI導入方針にも議論が波及し得る。",
-      "investment_impact": "【分析】訴訟リスクと開発費への影響。",
-      "work_impact": "【分析】モデル利用条件の変化に注意。",
-      "caveats": "原告の主張は司法判断で認定された事実ではない。",
-      "sources": [
-        {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-13-06",
+      "id": "2026-11-14-04",
       "category": "国際・地政学",
-      "date": "2026-11-12",
-      "title": "フランス、国防AIの国際拠点設置を計画",
-      "summary": "仏国防省は2027年夏を目標に防衛向けAIの国際拠点を設ける計画を明らかにした。",
-      "background": "欧州の軍事AI能力強化と米国企業依存の軽減が背景。",
-      "importance": "安全保障技術の国際競争に関係。",
-      "japan_impact": "日本の防衛技術協力にも示唆。",
-      "investment_impact": "【分析】国防AI調達の市場拡大可能性。",
-      "work_impact": "【分析】機微情報を扱うAIの統制に注目。",
-      "caveats": "予算・参加国は未確定。",
+      "date": "2026-11-13",
+      "title": "ASEANでミャンマー対応の足並みに差",
+      "summary": "Reutersはタイがミャンマー外相の会合参加を求める一方、フィリピンは和平計画の履行を検証する方針と報道。",
+      "background": "ASEANの5項目合意の実施停滞。",
+      "importance": "東南アジア外交の結束に影響。",
+      "japan_impact": "地域安定と日本企業の活動環境に関係。",
+      "investment_impact": "【分析】地域の政治リスクを注視。",
+      "work_impact": "【分析】東南アジア事業のリスク評価に示唆。",
+      "caveats": "各国の意向でありASEANの新たな統一決定ではない。",
       "sources": [
         {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/technology/french-army-ministry-set-up-centre-defence-related-ai-2026-11-12/"
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/world/asia-pacific/asean-faces-myanmar-dilemma-some-members-pursue-closer-ties-2026-11-13/"
         }
       ]
     },
     {
-      "id": "2026-11-13-07",
-      "category": "テクノロジー",
-      "date": "2026-11-12",
-      "title": "AI企業が防諜人材の採用を強化",
-      "summary": "ReutersはAI企業や半導体企業で元情報機関職員などの採用が進むと報道。",
-      "background": "機密技術と経営層が諜報・サイバー攻撃の標的になる懸念。",
-      "importance": "AI産業の安全保障コストが増加。",
-      "japan_impact": "日本企業の技術情報保護にも示唆。",
-      "investment_impact": "【分析】情報保護投資の増加可能性。",
-      "work_impact": "【分析】内部不正と経営層リスクを含む対策。",
-      "caveats": "個別人物への疑惑は独立確認されておらず掲載対象外。",
+      "id": "2026-11-14-05",
+      "category": "社会・産業",
+      "date": "2026-11-13",
+      "title": "Microsoftの世界的障害で企業が代替連絡手段を使用",
+      "summary": "ReutersはOutlook、Teams、Copilot等の障害により金融・物流などで電話やFAX等への切替が生じたと報道。",
+      "background": "大規模クラウドへの集中依存。",
+      "importance": "企業の事業継続計画に直結。",
+      "japan_impact": "日本企業でもクラウド障害時の代替手段検討が重要。",
+      "investment_impact": "【分析】事業継続対策への投資が増える可能性。",
+      "work_impact": "【分析】承認済み代替通信手段と復旧訓練を整備。",
+      "caveats": "Microsoftはサーバー問題に言及。悪意ある攻撃の証拠は確認されていない。前日からの重要続報。",
       "sources": [
         {
-          "label": "Reuters等 2026-11-12",
-          "url": "https://www.reuters.com/legal/litigation/help-wanted-ai-firms-court-ex-spies-nvidia-drama-spotlights-security-risks-2026-11-12/"
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/business/finance/faxes-phones-bluetooth-microsoft-outage-forces-businesses-find-fixes-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-06",
+      "category": "テクノロジー",
+      "date": "2026-11-13",
+      "title": "米AIタスクフォースがAI悪用サイバー攻撃の報告制度を協議",
+      "summary": "Reutersによると米政府のAIタスクフォースが重要インフラでのAIを使った攻撃の報告促進を協議。",
+      "background": "AIエージェントの攻撃能力への懸念。",
+      "importance": "安全性情報の共有制度に影響。",
+      "japan_impact": "日本の重要インフラ対策にも示唆。",
+      "investment_impact": "【分析】セキュリティ監査需要への波及可能性。",
+      "work_impact": "【分析】AI利用時の事故報告・監査ログ設計が重要。",
+      "caveats": "協議段階であり規制成立や実際の新規攻撃発生を意味しない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/world/us/trumps-ai-task-force-met-thursday-discussed-ai-powered-cyberattacks-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-07",
+      "category": "テクノロジー",
+      "date": "2026-11-13",
+      "title": "中国のNvidia製AI半導体関連計画、32億ドル規模と調査",
+      "summary": "Reutersは150件以上の調達・投資資料を調べ、制限対象Nvidia製品を前提とする関連案件が32億ドル規模と報道。",
+      "background": "米輸出規制と中国のAIインフラ投資。",
+      "importance": "AI計算資源の供給網と規制の実効性が焦点。",
+      "japan_impact": "日本の半導体関連供給網にも示唆。",
+      "investment_impact": "【分析】規制と供給制約が収益予測に影響。",
+      "work_impact": "【分析】半導体調達の規制順守確認が重要。",
+      "caveats": "計画・契約・稼働済みが混在。違法流通の立証ではない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/world/china/huang-exit-us-scrutiny-imperil-3-billion-chinese-ai-projects-reliant-nvidia-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-08",
+      "category": "テクノロジー",
+      "date": "2026-11-13",
+      "title": "EU首脳が初のAIサミットで課題を協議",
+      "summary": "ReutersはEU首脳がAIサミットで技術・規制上の課題を協議すると報道。",
+      "background": "AIの国際的な競争力と統治の両立。",
+      "importance": "EUのAI政策と事業環境に影響。",
+      "japan_impact": "日本企業のEU向けAIサービスの規制対応に関連。",
+      "investment_impact": "【分析】規制順守コストに注意。",
+      "work_impact": "【分析】AI製品の説明責任と監査要件を確認。",
+      "caveats": "協議報道であり新規法令成立ではない。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/world/china/eu-leaders-seek-tackle-challenges-first-ever-ai-summit-2026-11-13/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14-09",
+      "category": "社会・産業",
+      "date": "2026-11-13",
+      "title": "AmazonがAI買い物エージェントに対抗する商品データ戦略を検討",
+      "summary": "ReutersはAmazonの商品データを巡る戦略とAIショッピングエージェントとの競争を報道。",
+      "background": "生成AIが購買経路を変える可能性。",
+      "importance": "電子商取引の競争構造に影響。",
+      "japan_impact": "国内EC事業者の流通戦略にも示唆。",
+      "investment_impact": "【分析】プラットフォームの競争優位に影響し得る。",
+      "work_impact": "【分析】商品データの品質と利用条件が重要。",
+      "caveats": "報道に基づく戦略分析。将来の市場変化は未確定。",
+      "sources": [
+        {
+          "label": "Reuters 2026-11-13",
+          "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13/"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米国：AIと雇用政策",
-      "summary": "FRB理事がAIの雇用への影響を警告",
-      "japan_comparison": "日本の人手不足・再教育との比較",
-      "url": "https://www.reuters.com/legal/government/feds-barr-us-should-prepare-serious-ai-job-disruption-widening-inequality-2026-11-12/"
+      "title": "米国：AIサイバー攻撃の情報共有",
+      "summary": "重要インフラのAI攻撃報告制度を協議",
+      "japan_comparison": "日本のサイバー情報共有制度と比較",
+      "url": "https://www.reuters.com/world/us/trumps-ai-task-force-met-thursday-discussed-ai-powered-cyberattacks-2026-11-13/"
     },
     {
-      "title": "フランス：防衛AI拠点",
-      "summary": "2027年の国際拠点設置を計画",
-      "japan_comparison": "日本の防衛AI研究・調達と比較",
-      "url": "https://www.reuters.com/technology/french-army-ministry-set-up-centre-defence-related-ai-2026-11-12/"
-    },
-    {
-      "title": "米国：AI安全性の司法争点",
-      "summary": "非営利団体が先端モデル開発停止を求め提訴",
+      "title": "欧州：AI規制と産業政策",
+      "summary": "EU首脳がAIサミットで課題を協議",
       "japan_comparison": "日本のAIガバナンスと比較",
-      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/"
+      "url": "https://www.reuters.com/world/china/eu-leaders-seek-tackle-challenges-first-ever-ai-summit-2026-11-13/"
+    },
+    {
+      "title": "東南アジア：ミャンマー外交",
+      "summary": "ASEAN内で関与方針に差",
+      "japan_comparison": "日本の対ASEAN外交と比較",
+      "url": "https://www.reuters.com/world/asia-pacific/asean-faces-myanmar-dilemma-some-members-pursue-closer-ties-2026-11-13/"
     }
   ],
   "github_trending": [
     {
-      "name": "meta/astryx",
-      "url": "https://github.com/meta/astryx",
-      "star_gain": 1789,
-      "purpose": "エージェント対応デザインシステム",
-      "period": "日次（2026-11-13取得、週次未取得）",
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "star_gain": 1875,
+      "purpose": "Web開発エージェント向けガイド",
+      "period": "日次（2026-11-14取得、週次未取得）",
       "source_url": "https://github.com/trending"
     },
     {
       "name": "we-promise/sure",
       "url": "https://github.com/we-promise/sure",
-      "star_gain": 974,
+      "star_gain": 944,
       "purpose": "個人向け金融管理",
-      "period": "日次（2026-11-13取得、週次未取得）",
-      "source_url": "https://github.com/trending"
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "star_gain": 812,
-      "purpose": "AI開発エージェントのスキル",
-      "period": "日次（2026-11-13取得、週次未取得）",
-      "source_url": "https://github.com/trending"
-    },
-    {
-      "name": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "star_gain": 799,
-      "purpose": "モダンWeb開発ガイド",
-      "period": "日次（2026-11-13取得、週次未取得）",
+      "period": "日次（2026-11-14取得、週次未取得）",
       "source_url": "https://github.com/trending"
     },
     {
       "name": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
-      "star_gain": 663,
-      "purpose": "セキュリティ検査CLI・SDK",
-      "period": "日次（2026-11-13取得、週次未取得）",
+      "star_gain": 754,
+      "purpose": "脆弱性の検証・修正支援",
+      "period": "日次（2026-11-14取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "star_gain": 324,
+      "purpose": "Tailscaleデータプレーン上の通信ツール",
+      "period": "日次（2026-11-14取得、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "star_gain": 272,
+      "purpose": "LLMによる市場情報分析",
+      "period": "日次（2026-11-14取得、週次未取得）",
       "source_url": "https://github.com/trending"
     }
   ]
