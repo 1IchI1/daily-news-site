@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T06:02:17+09:00",
+  "status": "直近24時間を中心に5件。国内政治の新規独立確認なし。重大な新規侵害事案は確認できず。GitHub日次スターのみ取得、週次未取得。",
+  "summary": [
+    "米中が関税・農産物貿易を協議、合意は未発表。",
+    "ウクライナ停戦条件と衛星通信を巡り当事者の主張が対立。",
+    "米航空管制とMicrosoft 365の障害続報、重要インフラの可用性が焦点。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-15-01",
+      "category": "国際・地政学",
+      "date": "2026-11-14",
+      "title": "ウクライナ大統領、ドンバス撤退とNATO加盟の交換案に言及",
+      "summary": "ゼレンスキー大統領は米交渉担当者が領土撤退とNATO加盟を結び付ける案を示したと説明。",
+      "background": "アブダビでの米仲介協議の続報。",
+      "importance": "停戦条件と欧州安全保障に直結。",
+      "japan_impact": "対ロ制裁と国際秩序への影響を注視。",
+      "investment_impact": "【分析】地政学リスクの変動経路。",
+      "work_impact": "【分析】対外取引のリスク評価。",
+      "caveats": "当事者の説明であり合意成立ではない。",
+      "sources": [
+        {
+          "label": "Reuters 11/14",
+          "url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-02",
+      "category": "国際・地政学",
+      "date": "2026-11-14",
+      "title": "ウクライナ、SpaceX衛星端末の速度制限を批判",
+      "summary": "ゼレンスキー大統領は占領地域でのStarshield端末速度制限が防空を妨げると主張。SpaceXは新規制限を否定。",
+      "background": "衛星通信が軍事運用に不可欠。",
+      "importance": "民間インフラ依存の安全保障リスク。",
+      "japan_impact": "通信サービスの契約・運用リスクに示唆。",
+      "investment_impact": "【分析】衛星通信関連の政策リスク。",
+      "work_impact": "【分析】通信サービスの冗長化が重要。",
+      "caveats": "双方の主張が対立、原因未確定。",
+      "sources": [
+        {
+          "label": "Reuters 11/14",
+          "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-escalates-criticism-spacex-over-speed-caps-2026-11-14/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-03",
+      "category": "経済・金融",
+      "date": "2026-11-14",
+      "title": "米中、首脳会談を前に関税・農産物貿易を協議",
+      "summary": "米中は初の貿易協議会合で関税と農産物取引を議論。中国商務省は建設的と評価したが合意発表なし。",
+      "background": "米中貿易摩擦と相互関税。",
+      "importance": "世界貿易・供給網への影響。",
+      "japan_impact": "日本の輸出産業にも間接的影響。",
+      "investment_impact": "【分析】貿易政策変化による収益感応度。",
+      "work_impact": "【分析】調達網と関税条件を注視。",
+      "caveats": "600億ドル相互関税削減案は未成立。",
+      "sources": [
+        {
+          "label": "Reuters 11/14",
+          "url": "https://www.reuters.com/world/china/china-us-discuss-tariffs-farm-trade-first-trade-council-meeting-2026-11-14/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-04",
+      "category": "社会・産業",
+      "date": "2026-11-14",
+      "title": "米航空管制の大規模障害、週末の欠航が拡大",
+      "summary": "FAAの全国離陸停止後、土曜には多数の欠航。老朽設備更新中のルーター過負荷が調査対象。",
+      "background": "11月13日の停止からの続報。",
+      "importance": "重要インフラ更新とBCPの課題。",
+      "japan_impact": "米国渡航や物流に影響し得る。",
+      "investment_impact": "【分析】航空・物流業の運航コストに影響。",
+      "work_impact": "【分析】更新時の切替・復旧手順の検証が重要。",
+      "caveats": "当局はサイバー攻撃の兆候なしと説明。詳細原因は調査中。",
+      "sources": [
+        {
+          "label": "AP 11/14",
+          "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-05",
+      "category": "テクノロジー",
+      "date": "2026-11-14",
+      "title": "Microsoft 365世界的障害、復旧と原因説明",
+      "summary": "Microsoftはサービス復旧を説明。以前のネットワーク容量更新と後続の変更が障害を顕在化させたとした。",
+      "background": "11月12日開始の障害の重要続報。",
+      "importance": "クラウド集中依存と可用性設計。",
+      "japan_impact": "国内利用組織も代替連絡手段の確認が必要。",
+      "investment_impact": "【分析】クラウド冗長化投資に波及し得る。",
+      "work_impact": "【分析】障害時の代替認証・通信手段を検証。",
+      "caveats": "Microsoftはサイバー攻撃やAI起因を否定。正式事後報告は別途確認が必要。",
+      "sources": [
+        {
+          "label": "AP 11/14",
+          "url": "https://apnews.com/article/ca395c0f1e51af784b6d70afb6554f6a"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米国：航空管制の老朽設備更新",
+      "summary": "FAA障害で更新時の可用性課題が顕在化",
+      "japan_comparison": "日本の航空管制システム更新時のBCPと比較",
+      "url": "https://apnews.com/article/1fbf4992f0ddaa4c463b0e4990b6e291"
+    },
+    {
+      "title": "欧州：ウクライナ安全保障",
+      "summary": "領土・NATO加盟を巡る交渉が継続",
+      "japan_comparison": "日本の安全保障政策と対ロ制裁への影響",
+      "url": "https://www.reuters.com/world/europe/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says-2026-11-14/"
+    },
+    {
+      "title": "米中：貿易協議",
+      "summary": "関税と農産物貿易の協議、合意未成立",
+      "japan_comparison": "日本の輸出産業・供給網への波及",
+      "url": "https://www.reuters.com/world/china/china-us-discuss-tariffs-farm-trade-first-trade-council-meeting-2026-11-14/"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "star_gain": 215,
+      "purpose": "AI支援コードレビュー",
+      "period": "日次（2026-11-14公開スナップショット、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "star_gain": 1925,
+      "purpose": "Web開発エージェント向け指針",
+      "period": "日次（2026-11-14公開スナップショット、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "star_gain": 751,
+      "purpose": "脆弱性の検出・検証・修正支援",
+      "period": "日次（2026-11-14公開スナップショット、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "star_gain": 256,
+      "purpose": "LLMによる市場情報分析",
+      "period": "日次（2026-11-14公開スナップショット、週次未取得）",
+      "source_url": "https://github.com/trending"
+    },
+    {
+      "name": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "star_gain": 925,
+      "purpose": "個人向け金融管理",
+      "period": "日次（2026-11-14公開スナップショット、週次未取得）",
+      "source_url": "https://github.com/trending"
+    }
+  ]
+}
