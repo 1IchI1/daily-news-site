@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T06:04:27+09:00",
+  "status": "5件。国内政治・国内経済の直近24時間の独立確認なし。GitHub攻撃は11/14報道の重要続報。Trending週次増加数は未取得。",
+  "summary": [
+    "米中ロがAPEC三者会談を計画、核軍縮と中東情勢が焦点。",
+    "紅海・黒海で海運リスクが拡大。",
+    "GitHub Actions攻撃の続報とインドの金融AI規制方針。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-16-01",
+      "category": "国際・地政学",
+      "date": "2026-11-15",
+      "title": "米中ロ首脳、APEC三者会談を計画",
+      "summary": "米国・ロシアが会談計画を説明。中国の最終確認は未了。",
+      "background": "関連する国際情勢・規制・技術の継続的変化。",
+      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
+      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
+      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
+      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
+      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "sources": [
+        {
+          "label": "AP 11/15",
+          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-02",
+      "category": "国際・地政学",
+      "date": "2026-11-15",
+      "title": "イエメン政府軍が紅海付近から後退、バーレーンにも攻撃",
+      "summary": "イエメン政府側の後退とバーレーンによる攻撃迎撃発表。攻撃の一部は当事者主張。",
+      "background": "関連する国際情勢・規制・技術の継続的変化。",
+      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
+      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
+      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
+      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
+      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "sources": [
+        {
+          "label": "Reuters 11/15",
+          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-03",
+      "category": "国際・地政学",
+      "date": "2026-11-15",
+      "title": "ルーマニア近海の黒海で商船3隻被弾",
+      "summary": "ルーマニア首相が商船3隻へのドローン攻撃を報告。攻撃主体未特定。",
+      "background": "関連する国際情勢・規制・技術の継続的変化。",
+      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
+      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
+      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
+      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
+      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "sources": [
+        {
+          "label": "Reuters 11/15",
+          "url": "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-04",
+      "category": "テクノロジー",
+      "date": "2026-11-14",
+      "title": "GitHub Actionsを悪用した大規模資格情報窃取が報告",
+      "summary": "11月14日の重要報道の続報。研究者推計で多数のリポジトリと資格情報が被害。",
+      "background": "関連する国際情勢・規制・技術の継続的変化。",
+      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
+      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
+      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
+      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
+      "caveats": "11月14日の報道であり新規発生として扱わない。被害規模は研究者推計。",
+      "sources": [
+        {
+          "label": "TechRadar 11/14",
+          "url": "https://www.techradar.com/pro/security/thousands-of-github-repositories-targeted-in-widespread-attack-4-800-accounts-already-compromised-to-steal-cloud-credentials"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-05",
+      "category": "社会・産業",
+      "date": "2026-11-15",
+      "title": "インド証券規制当局が金融AI指針を準備",
+      "summary": "SEBIトップが重要判断での人間の監督を重視する方針を説明。最終規則ではない。",
+      "background": "関連する国際情勢・規制・技術の継続的変化。",
+      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
+      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
+      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
+      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
+      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "sources": [
+        {
+          "label": "Times of India 11/15",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米中ロの核軍縮外交",
+      "summary": "APECに合わせた三者会談計画",
+      "japan_comparison": "日本の東アジア安全保障と比較",
+      "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+    },
+    {
+      "title": "中東の海運リスク",
+      "summary": "紅海・湾岸の攻撃継続",
+      "japan_comparison": "日本のエネルギー輸入と比較",
+      "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+    },
+    {
+      "title": "インドの金融AI統制",
+      "summary": "人間の監督を重視する規制方針",
+      "japan_comparison": "日本の金融AIガバナンスと比較",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "star_gain": 2220,
+      "purpose": "リバースエンジニアリング",
+      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
+      "source_url": "https://luongnv.com/news/trending/index.html"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "star_gain": 686,
+      "purpose": "音声制作",
+      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
+      "source_url": "https://luongnv.com/news/trending/index.html"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "star_gain": 699,
+      "purpose": "セキュリティ監査",
+      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
+      "source_url": "https://luongnv.com/news/trending/index.html"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "star_gain": 695,
+      "purpose": "AI開発",
+      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
+      "source_url": "https://luongnv.com/news/trending/index.html"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "star_gain": 1007,
+      "purpose": "コーディング",
+      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
+      "source_url": "https://luongnv.com/news/trending/index.html"
+    }
+  ]
+}
