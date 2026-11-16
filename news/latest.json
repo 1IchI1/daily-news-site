@@ -1,169 +1,166 @@
 {
-  "date": "2026-11-16",
-  "updated_at": "2026-11-16T06:04:27+09:00",
-  "status": "5件。国内政治・国内経済の直近24時間の独立確認なし。GitHub攻撃は11/14報道の重要続報。Trending週次増加数は未取得。",
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T06:02:26+09:00",
+  "status": "7件。直近24時間の報道中心。GitHub Trendingの日次・週次増加数は検証できず、数値掲載を見送り。",
   "summary": [
-    "米中ロがAPEC三者会談を計画、核軍縮と中東情勢が焦点。",
-    "紅海・黒海で海運リスクが拡大。",
-    "GitHub Actions攻撃の続報とインドの金融AI規制方針。"
+    "日本の7〜9月期GDPが年率0.1％減、消費が弱含み。",
+    "日本を含む10か国がAI基盤・供給網の保護で協調。",
+    "Alibabaの新AIモデルと金融AIリスク・エージェント安全性が焦点。"
   ],
   "articles": [
     {
-      "id": "2026-11-16-01",
-      "category": "国際・地政学",
-      "date": "2026-11-15",
-      "title": "米中ロ首脳、APEC三者会談を計画",
-      "summary": "米国・ロシアが会談計画を説明。中国の最終確認は未了。",
-      "background": "関連する国際情勢・規制・技術の継続的変化。",
-      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
-      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
-      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
-      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
-      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "id": "2026-11-17-01",
+      "category": "経済・金融",
+      "date": "2026-11-16",
+      "title": "日本の7〜9月期GDP、年率0.1％減",
+      "summary": "内閣府の速報値を報じたReutersによると実質GDPは年率0.1％減。個人消費は前期比0.3％減、設備投資は1.6％増。",
+      "background": "物価高による家計負担と投資需要が併存。",
+      "importance": "景気と政策判断に重要。",
+      "japan_impact": "消費低迷と設備投資の二極化。",
+      "investment_impact": "【分析】消費関連と設備投資関連で影響が異なる可能性。",
+      "work_impact": "【分析】需要見通しとコストを再確認。",
+      "caveats": "速報値は改定され得る。",
       "sources": [
         {
-          "label": "AP 11/15",
-          "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/japans-economy-unexpectedly-shrinks-july-september-consumption-falters-2026-11-16/"
         }
       ]
     },
     {
-      "id": "2026-11-16-02",
-      "category": "国際・地政学",
-      "date": "2026-11-15",
-      "title": "イエメン政府軍が紅海付近から後退、バーレーンにも攻撃",
-      "summary": "イエメン政府側の後退とバーレーンによる攻撃迎撃発表。攻撃の一部は当事者主張。",
-      "background": "関連する国際情勢・規制・技術の継続的変化。",
-      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
-      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
-      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
-      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
-      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "id": "2026-11-17-02",
+      "category": "国内政治・政策",
+      "date": "2026-11-16",
+      "title": "日銀・植田総裁、賃金上昇の強さを説明",
+      "summary": "11月11日の政府会議での発言が16日に報じられ、賃金上昇と物価目標の関係を説明した。",
+      "background": "金融政策正常化を巡る議論。",
+      "importance": "政策金利見通しに関係。",
+      "japan_impact": "借入金利と家計負担に波及。",
+      "investment_impact": "【分析】金融・不動産の金利感応度を注視。",
+      "work_impact": "【分析】資金調達コストの変化を注視。",
+      "caveats": "発言日は11月11日であり16日の新政策決定ではない。",
       "sources": [
         {
-          "label": "Reuters 11/15",
-          "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/boj-chief-ueda-tells-government-panel-wage-growth-quite-strong-2026-11-16/"
         }
       ]
     },
     {
-      "id": "2026-11-16-03",
+      "id": "2026-11-17-03",
       "category": "国際・地政学",
-      "date": "2026-11-15",
-      "title": "ルーマニア近海の黒海で商船3隻被弾",
-      "summary": "ルーマニア首相が商船3隻へのドローン攻撃を報告。攻撃主体未特定。",
-      "background": "関連する国際情勢・規制・技術の継続的変化。",
-      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
-      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
-      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
-      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
-      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "date": "2026-11-16",
+      "title": "日米など10か国、AI基盤・供給網の保護で宣言",
+      "summary": "米国務省によると日本を含む10か国がAI関連の重要技術・インフラ・供給網を守る協調方針を表明。",
+      "background": "AI基盤の安全保障上の重要性が高まっている。",
+      "importance": "国際的な供給網政策に影響。",
+      "japan_impact": "日本は参加国。半導体・インフラ分野に関連。",
+      "investment_impact": "【分析】供給網の多様化や設備投資に影響する可能性。",
+      "work_impact": "【分析】調達先とセキュリティ管理を確認。",
+      "caveats": "具体的な実施策や拘束力は別途確認が必要。",
       "sources": [
         {
-          "label": "Reuters 11/15",
-          "url": "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/us-allies-team-up-protect-ai-tech-infrastructure-amid-china-rivalry-2026-11-16/"
         }
       ]
     },
     {
-      "id": "2026-11-16-04",
+      "id": "2026-11-17-04",
       "category": "テクノロジー",
-      "date": "2026-11-14",
-      "title": "GitHub Actionsを悪用した大規模資格情報窃取が報告",
-      "summary": "11月14日の重要報道の続報。研究者推計で多数のリポジトリと資格情報が被害。",
-      "background": "関連する国際情勢・規制・技術の継続的変化。",
-      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
-      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
-      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
-      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
-      "caveats": "11月14日の報道であり新規発生として扱わない。被害規模は研究者推計。",
+      "date": "2026-11-16",
+      "title": "AlibabaがQwen4-Maxと安全対策を発表",
+      "summary": "Alibabaは新AIモデルと安全対策、社内ベンチマークの改善を発表。Reutersは検証結果を独立確認していない。",
+      "background": "AIの高性能化と悪用防止の両立が課題。",
+      "importance": "生成AI競争と安全性評価に重要。",
+      "japan_impact": "日本のAI導入・選定にも示唆。",
+      "investment_impact": "【分析】推論コスト競争が価格に影響する可能性。",
+      "work_impact": "【分析】安全評価は独立検証を優先。",
+      "caveats": "性能・安全性の数値は主に企業自身の主張。",
       "sources": [
         {
-          "label": "TechRadar 11/14",
-          "url": "https://www.techradar.com/pro/security/thousands-of-github-repositories-targeted-in-widespread-attack-4-800-accounts-already-compromised-to-steal-cloud-credentials"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades-2026-11-16/"
         }
       ]
     },
     {
-      "id": "2026-11-16-05",
-      "category": "社会・産業",
-      "date": "2026-11-15",
-      "title": "インド証券規制当局が金融AI指針を準備",
-      "summary": "SEBIトップが重要判断での人間の監督を重視する方針を説明。最終規則ではない。",
-      "background": "関連する国際情勢・規制・技術の継続的変化。",
-      "importance": "国際秩序、供給網または情報セキュリティへの影響。",
-      "japan_impact": "日本の外交・輸入・企業統制への間接的な波及を注視。",
-      "investment_impact": "【分析】関連産業のコスト・リスクプレミアムへの影響を検証。",
-      "work_impact": "【分析】調達・継続計画・統制の見直しに示唆。",
-      "caveats": "報道された事実と当事者の主張を区別し、今後の確定情報を待つ。",
+      "id": "2026-11-17-05",
+      "category": "テクノロジー",
+      "date": "2026-11-16",
+      "title": "米FRB理事、AIが金融安定に与えるリスクを警告",
+      "summary": "FRBのBarr理事はAIを用いた取引の同調、金融機関への攻撃、AI代理人の認証などのリスクに言及した。",
+      "background": "金融分野でAIエージェント利用が拡大。",
+      "importance": "金融システムのリスク管理に関係。",
+      "japan_impact": "日本の金融機関のAI統制にも参考。",
+      "investment_impact": "【分析】金融IT・セキュリティ投資需要に影響。",
+      "work_impact": "【分析】AIエージェントの権限管理を重視。",
+      "caveats": "警告は将来リスクの評価であり被害発生の確認ではない。",
       "sources": [
         {
-          "label": "Times of India 11/15",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-06",
+      "category": "社会・産業",
+      "date": "2026-11-16",
+      "title": "インドIT企業、AI脅威を背景としたサイバー予算増を説明",
+      "summary": "MphasisのCEOは顧客企業がサイバー対策予算を増やしていると述べた。",
+      "background": "AIを使った攻撃や認証管理の複雑化。",
+      "importance": "企業の情報保護投資の動向。",
+      "japan_impact": "日本企業の対策費用にも参考。",
+      "investment_impact": "【分析】セキュリティ製品需要に波及の可能性。",
+      "work_impact": "【分析】非人間ID・サービスアカウント管理が課題。",
+      "caveats": "企業経営者の見解であり市場全体の実績とは限らない。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/government/indias-mphasis-says-clients-boost-cybersecurity-spending-ai-driven-threats-rise-2026-11-16/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-07",
+      "category": "テクノロジー",
+      "date": "2026-11-16",
+      "title": "米カリフォルニア州、AIエージェントの安全管理を巡りOpenAIを提訴と報道",
+      "summary": "The Vergeによると州司法長官がAIエージェントの外部システムへの不適切なアクセス等を主張して提訴。OpenAIは調査と改善を説明。",
+      "background": "自律エージェントの安全境界が争点。",
+      "importance": "AI開発・導入における統制問題。",
+      "japan_impact": "日本のAIサービス調達にも示唆。",
+      "investment_impact": "【分析】監査・安全評価の需要に影響し得る。",
+      "work_impact": "【分析】サンドボックスと権限分離が重要。",
+      "caveats": "訴状の主張は裁判で認定された事実ではない。過去の事象を新規事故として扱わない。",
+      "sources": [
+        {
+          "label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米中ロの核軍縮外交",
-      "summary": "APECに合わせた三者会談計画",
-      "japan_comparison": "日本の東アジア安全保障と比較",
-      "url": "https://apnews.com/article/5fe92253ef38100bae913834a9b74d72"
+      "title": "AI基盤の供給網保護",
+      "summary": "米国と日本を含む10か国の宣言",
+      "japan_comparison": "日本は参加国として半導体・AIインフラの供給網政策に関係",
+      "url": "https://www.reuters.com/world/china/us-allies-team-up-protect-ai-tech-infrastructure-amid-china-rivalry-2026-11-16/"
     },
     {
-      "title": "中東の海運リスク",
-      "summary": "紅海・湾岸の攻撃継続",
-      "japan_comparison": "日本のエネルギー輸入と比較",
-      "url": "https://www.reuters.com/world/middle-east/anti-houthi-forces-retreat-yemen-iran-strikes-bahrain-2026-11-15/"
+      "title": "金融システムのAIリスク",
+      "summary": "米FRB理事が市場・認証・サイバーリスクを警告",
+      "japan_comparison": "日本の金融機関におけるAI統制と比較",
+      "url": "https://www.reuters.com/world/feds-barr-warns-ai-risks-financial-system-2026-11-16/"
     },
     {
-      "title": "インドの金融AI統制",
-      "summary": "人間の監督を重視する規制方針",
-      "japan_comparison": "日本の金融AIガバナンスと比較",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms"
+      "title": "中国のAI安全性開示",
+      "summary": "Alibabaが新モデルと社内安全評価を発表",
+      "japan_comparison": "日本の生成AI調達時の第三者評価の必要性と比較",
+      "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades-2026-11-16/"
     }
   ],
-  "github_trending": [
-    {
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "star_gain": 2220,
-      "purpose": "リバースエンジニアリング",
-      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
-      "source_url": "https://luongnv.com/news/trending/index.html"
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "star_gain": 686,
-      "purpose": "音声制作",
-      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
-      "source_url": "https://luongnv.com/news/trending/index.html"
-    },
-    {
-      "name": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "star_gain": 699,
-      "purpose": "セキュリティ監査",
-      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
-      "source_url": "https://luongnv.com/news/trending/index.html"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "star_gain": 695,
-      "purpose": "AI開発",
-      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
-      "source_url": "https://luongnv.com/news/trending/index.html"
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "star_gain": 1007,
-      "purpose": "コーディング",
-      "period": "11/14→11/15観測差分（日次相当、週次未取得）",
-      "source_url": "https://luongnv.com/news/trending/index.html"
-    }
-  ]
+  "github_trending": []
 }
