@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18T06:01:15+09:00",
+  "status": "8件。直近24時間の報道を中心に選定。GitHub Trendingの日次・週次スター増加数は取得できず掲載を見送り。",
+  "summary": [
+    "日本がアジア石油備蓄協力を提案、APECでは貿易協調を模索。",
+    "Microsoftが特化型AIモデルを発表、中国のAI訓練利用も焦点。",
+    "Equinorがサイバー攻撃を検知、米国の連続IT障害は当局が攻撃との関連を否定。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-18-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-17",
+      "title": "日本、アジアの石油安全保障タスクフォースを提案",
+      "summary": "高市首相がASEAN関連会合で備蓄・緊急放出の地域協調を提案。",
+      "background": "ホルムズ海峡経由の供給不安が背景。",
+      "importance": "アジアのエネルギー安全保障に関わる。",
+      "japan_impact": "備蓄融通・供給安定に関係。",
+      "investment_impact": "【分析】エネルギー物流・備蓄関連への影響を注視。",
+      "work_impact": "【分析】燃料調達リスクを再点検。",
+      "caveats": "構想段階であり設立・運用は未確定。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-02",
+      "category": "国際・地政学",
+      "date": "2026-11-17",
+      "title": "トランプ米大統領、マニラで地域同盟国と会談",
+      "summary": "中国訪問を前にインド太平洋の同盟国と会談した。",
+      "background": "米中関係と地域安全保障が焦点。",
+      "importance": "外交・貿易政策に関係。",
+      "japan_impact": "対中外交と供給網に影響し得る。",
+      "investment_impact": "【分析】貿易摩擦の経路を注視。",
+      "work_impact": "【分析】サプライチェーンの代替先を検討。",
+      "caveats": "会談結果と今後の合意は区別。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-03",
+      "category": "経済・金融",
+      "date": "2026-11-17",
+      "title": "世界市場、Nvidia決算を前にAI株への警戒",
+      "summary": "欧州株が下落し、Nvidia決算を控え株式市場は慎重姿勢。ドル指数は19か月高値に一時到達した。",
+      "background": "AI関連の成長期待と評価額が焦点。",
+      "importance": "グローバル市場のリスク選好に関係。",
+      "japan_impact": "日本の半導体関連株にも波及し得る。",
+      "investment_impact": "【分析】決算内容と市場期待の差が重要。",
+      "work_impact": "【分析】IT投資の実需を確認。",
+      "caveats": "市場価格は変動し、決算結果は未発表。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-04",
+      "category": "テクノロジー",
+      "date": "2026-11-17",
+      "title": "Microsoft、コード・サイバー向けAIモデル群を発表",
+      "summary": "IgniteでMAI Code 2など特化型AIモデルを発表。低コストでの競争力は同社の主張。",
+      "background": "AIモデルの用途別最適化が進む。",
+      "importance": "企業向けAI選択肢が広がる。",
+      "japan_impact": "日本企業の開発・セキュリティ導入にも関係。",
+      "investment_impact": "【分析】推論価格競争に波及。",
+      "work_impact": "【分析】独立ベンチマークと利用条件を検証。",
+      "caveats": "性能・価格優位性は独立評価を要する。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-05",
+      "category": "テクノロジー",
+      "date": "2026-11-17",
+      "title": "Equinor、一部ITシステムへのサイバー攻撃を検知",
+      "summary": "同社は攻撃を検知して当局に通知し、対応中と説明。データ流出や操業影響は確認していないとした。",
+      "background": "重要インフラ企業への攻撃は影響が大きい。",
+      "importance": "エネルギー供給網のサイバーリスク。",
+      "japan_impact": "日本のエネルギー調達にも間接的関係。",
+      "investment_impact": "【分析】防御投資需要への影響を注視。",
+      "work_impact": "【分析】インシデント対応と監視体制を再確認。",
+      "caveats": "被害規模・攻撃主体は未確認。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/technology/equinor-detects-cyberattack-against-some-it-systems-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-06",
+      "category": "社会・産業",
+      "date": "2026-11-17",
+      "title": "米国の相次ぐIT障害、当局者はサイバー攻撃との関連を否定",
+      "summary": "米国土安全保障当局者は航空・金融・Microsoftなどの障害について老朽化したシステムが原因との見方を示した。",
+      "background": "複数分野の障害が社会活動を混乱させた。",
+      "importance": "基幹システムの更新課題が浮上。",
+      "japan_impact": "日本の老朽化システム対策にも示唆。",
+      "investment_impact": "【分析】更新投資の必要性を再評価。",
+      "work_impact": "【分析】BCPと障害復旧を点検。",
+      "caveats": "当局者の説明であり各障害の最終調査報告とは限らない。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/us-official-says-recent-tech-woes-not-tied-cyberattacks-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-07",
+      "category": "テクノロジー",
+      "date": "2026-11-17",
+      "title": "中国企業、米AIモデルの出力を国内モデル訓練に利用と報道",
+      "summary": "Reutersが文書を基に、中国の関係者が米国製AIモデルの出力を活用していると報じた。",
+      "background": "半導体輸出規制とAI競争が背景。",
+      "importance": "AIモデルの利用条件と競争政策が焦点。",
+      "japan_impact": "日本のAI調達・契約条件にも示唆。",
+      "investment_impact": "【分析】モデル提供企業の防御・価格戦略に関係。",
+      "work_impact": "【分析】利用規約・データ来歴を確認。",
+      "caveats": "個別企業の違反認定や全業界の実態を示すものではない。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18-08",
+      "category": "国際・地政学",
+      "date": "2026-11-17",
+      "title": "APEC、貿易対立下でも共同目標の合意を模索",
+      "summary": "APEC高官は関税や供給網を巡る相違があっても首脳会議で共同文書をまとめる見通しを示した。",
+      "background": "米中対立下で多国間協力を模索。",
+      "importance": "アジア太平洋の通商秩序に影響。",
+      "japan_impact": "日本の輸出入と供給網に関係。",
+      "investment_impact": "【分析】合意文言の拘束力に注目。",
+      "work_impact": "【分析】調達の地政学リスクを点検。",
+      "caveats": "合意は見通しであり採択済みではない。",
+      "sources": [
+        {
+          "label": "Reuters via Straits Times",
+          "url": "https://www.straitstimes.com/asia/apec-members-expected-to-look-past-trade-differences-to-agree-summit-text-official-says"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "アジアの石油備蓄協力",
+      "summary": "日本が広域タスクフォースを提案",
+      "japan_comparison": "日本の備蓄能力を地域協力に生かす構想",
+      "url": "https://www.reuters.com/business/energy/japan-propose-asia-oil-security-task-force-azec-summit-media-reports-2026-11-17/"
+    },
+    {
+      "title": "米中AIモデル競争",
+      "summary": "中国関係者による米国AI出力の訓練利用を報道",
+      "japan_comparison": "日本のAI調達でも利用条件とデータ来歴の検証が必要",
+      "url": "https://www.reuters.com/world/china/china-taps-us-ai-models-train-homegrown-rivals-chip-curbs-bite-2026-11-17/"
+    },
+    {
+      "title": "企業向け特化AI",
+      "summary": "Microsoftがコード・サイバー向けモデルを発表",
+      "japan_comparison": "国内企業は性能・価格・ガバナンスを比較",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-unveils-ai-models-coding-cybersecurity-it-takes-anthropic-openai-2026-11-17/"
+    }
+  ],
+  "github_trending": []
+}
