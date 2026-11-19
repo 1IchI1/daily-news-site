@@ -1,165 +1,165 @@
 {
-  "date": "2026-11-19",
-  "updated_at": "2026-11-19T06:03:19+09:00",
-  "status": "7件。11月18日報道中心。重大サイバー新規案件・GitHub Trending増加数は確認できず掲載見送り。",
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T06:00:00+09:00",
+  "status": "7件。11月19日発表・報道中心。GitHub Trending増加数は未取得。重大サイバー新規案件は確認できず。",
   "summary": [
-    "日銀総裁が利上げ継続の考えを示し、NVIDIAの好決算と中国向け出荷停止が焦点。",
-    "APECで米中ロ首脳会談が予定され、ウクライナ和平協議も進む。",
-    "英国の燃料高による物価上昇と台湾の外交的懸念を確認。"
+    "高市首相とプーチン大統領がAPECで会談。米中ロ首脳も協議。",
+    "日銀総裁は利上げ継続姿勢、10月貿易赤字は4765億円。",
+    "IMFがAI投資による物価圧力を警告。"
   ],
   "articles": [
     {
-      "id": "2026-11-19-01",
+      "id": "2026-11-20-01",
       "category": "国内政治・政策",
-      "date": "2026-11-18",
-      "title": "日銀・植田総裁、金融緩和度合いに応じ利上げ継続を示唆",
-      "summary": "植田総裁は基調物価を2％付近に安定させるため、経済・物価・金融情勢に応じ利上げを続ける考えを示した。",
-      "background": "政策金利は10月30日に1.25％で据え置かれた。",
-      "importance": "金利・為替と政府財政の双方に関係。",
-      "japan_impact": "住宅ローンや企業資金調達に影響し得る。",
-      "investment_impact": "【分析】銀行・不動産の金利感応度を注視。",
-      "work_impact": "【分析】借入コストのシナリオを更新。",
-      "caveats": "具体的な次回利上げ時期の確約ではない。",
+      "date": "2026-11-19",
+      "title": "高市首相、APECでプーチン大統領と会談",
+      "summary": "日本政府によれば邦人拘束と日本企業保護を提起し、対話継続で一致。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
       "sources": [
         {
           "label": "Reuters",
-          "url": "https://www.reuters.com/markets/asia/bank-japan-governor-says-central-bank-should-keep-raising-rates-2026-11-18/"
+          "url": "https://www.reuters.com/world/china/japan-says-pm-takaichi-putin-held-talks-apec-summit-china-2026-11-19/"
         }
       ]
     },
     {
-      "id": "2026-11-19-02",
+      "id": "2026-11-20-02",
       "category": "経済・金融",
-      "date": "2026-11-18",
-      "title": "NVIDIA決算、四半期売上高1158億ドル・前年比103％増",
-      "summary": "NVIDIAは2027年度第3四半期売上高1158億ドル、データセンター売上高1076億ドルと発表した。",
-      "background": "AI計算基盤への投資拡大が続く一方、顧客資金調達と規制に不確実性。",
-      "importance": "AI投資の実需を測る重要な企業決算。",
-      "japan_impact": "半導体装置・メモリーなど国内供給網に関係。",
-      "investment_impact": "【分析】成長率と設備投資の持続可能性を分けて評価。",
-      "work_impact": "【分析】AIインフラ費用の推移を点検。",
-      "caveats": "数値は企業発表。発表日は11月17日で、18日の市場反応を続報として扱う。",
+      "date": "2026-11-19",
+      "title": "日銀総裁、金融緩和の縮小継続を示唆",
+      "summary": "植田総裁は19日、金融環境はなお緩和的とし、円安・原油高の家計への影響を警戒。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
       "sources": [
         {
-          "label": "NVIDIA公式",
-          "url": "https://nvidianews.nvidia.com/_gallery/download_pdf/6afcc55b3d633299c104d103/"
+          "label": "Reuters",
+          "url": "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/"
         }
       ]
     },
     {
-      "id": "2026-11-19-03",
+      "id": "2026-11-20-03",
+      "category": "経済・金融",
+      "date": "2026-11-19",
+      "title": "日本の10月貿易収支、4765億円の赤字",
+      "summary": "輸入増加が輸出増加を上回り、エネルギー価格が影響。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "AP",
+          "url": "https://apnews.com/article/17623689c3248c926283044cd5ff3484"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-04",
+      "category": "国内政治・政策",
+      "date": "2026-11-19",
+      "title": "JBIC会長、対米5500億ドル投資の案件選定に日本の関与拡大を要求",
+      "summary": "日本側の案件形成と選定への参加を強めるべきだと述べた。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/jbic-chair-calls-greater-japanese-role-550-billion-us-investment-2026-11-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-05",
       "category": "国際・地政学",
-      "date": "2026-11-18",
-      "title": "米中ロ首脳、APECに合わせた会談へ",
-      "summary": "中国・米国・ロシア首脳による会談が11月19日に予定され、貿易と安全保障が議題になる見通し。",
-      "background": "米中の先端半導体規制とロシア制裁を巡る対立が続く。",
-      "importance": "大国間の外交協議は通商・安全保障に広範な影響。",
-      "japan_impact": "台湾情勢・対中貿易への影響に注意。",
-      "investment_impact": "【分析】協議の発表と実際の合意を区別。",
-      "work_impact": "【分析】サプライチェーン規制の変更を監視。",
-      "caveats": "会談予定であり合意成立ではない。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-19-04",
-      "category": "国際・地政学",
-      "date": "2026-11-18",
-      "title": "米特使、ウクライナ和平協議でベルリン訪問予定",
-      "summary": "米国特使ウィトコフ氏とクシュナー氏が欧州・ウクライナ側と安全保障保証や復興計画を協議する予定。",
-      "background": "領土と安全保障の条件で当事者の隔たりが残る。",
-      "importance": "欧州の安全保障とエネルギー供給に関係。",
-      "japan_impact": "エネルギー価格や欧州経済を通じ間接影響。",
-      "investment_impact": "【分析】停戦期待と正式合意を区別。",
-      "work_impact": "【分析】欧州関連の調達リスクを確認。",
-      "caveats": "協議は予定であり和平合意ではない。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/trump-envoys-witkoff-kushner-expected-berlin-ukraine-talks-says-us-2026-11-18/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-19-05",
-      "category": "テクノロジー",
-      "date": "2026-11-18",
-      "title": "NVIDIA、許可済みAI半導体の中国向け出荷を停止",
-      "summary": "NVIDIA幹部は許可対象のHopper系データセンター半導体について中国向け出荷を停止したと説明。",
-      "background": "米輸出許可と中国側の輸入制約が並存する。",
-      "importance": "AI半導体の市場分断と規制リスクを示す。",
-      "japan_impact": "日本の半導体供給網・輸出管理に関係。",
-      "investment_impact": "【分析】中国向け需要の代替と規制コストを評価。",
-      "work_impact": "【分析】AI調達先の地政学リスクを点検。",
-      "caveats": "停止の恒久性と理由は未確定。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-19-06",
-      "category": "社会・産業",
-      "date": "2026-11-18",
-      "title": "英国の10月消費者物価上昇率、3.6％に加速",
-      "summary": "英国の10月インフレ率は燃料高を背景に3.6％となったと報道された。",
-      "background": "エネルギー価格上昇と金利判断が焦点。",
-      "importance": "欧州の家計負担と金融政策に影響。",
-      "japan_impact": "英国向け事業・為替経路で間接影響。",
-      "investment_impact": "【分析】物価上昇と金利観測を注視。",
-      "work_impact": "【分析】海外事業の燃料費リスクを点検。",
-      "caveats": "英国の指標であり日本の物価率ではない。",
+      "date": "2026-11-19",
+      "title": "米中ロ首脳、APECで三者協議",
+      "summary": "核リスクなどを協議したが、具体的な突破口は報じられていない。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
       "sources": [
         {
           "label": "Guardian",
-          "url": "https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates"
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
         }
       ]
     },
     {
-      "id": "2026-11-19-07",
-      "category": "国際・地政学",
-      "date": "2026-11-18",
-      "title": "台湾、米中ロ首脳会談を前に米国と緊密に連絡",
-      "summary": "台湾側はAPECの首脳協議を前に米国と連絡していると説明し、現状維持と自衛強化を訴えた。",
-      "background": "台湾を巡る米中間の外交的緊張が続く。",
-      "importance": "東アジアの安全保障と先端半導体供給に関係。",
-      "japan_impact": "日本の安全保障・半導体調達に関連。",
-      "investment_impact": "【分析】外交声明と政策変更を区別。",
-      "work_impact": "【分析】半導体供給網の集中を点検。",
-      "caveats": "台湾側の説明であり米国の保証内容は未確認。",
+      "id": "2026-11-20-06",
+      "category": "テクノロジー",
+      "date": "2026-11-19",
+      "title": "APECでAI安全性と国際協力が主要議題に",
+      "summary": "各国はAIの活用と規制の方向性を議論し、半導体アクセス制限の対立も継続。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
       "sources": [
         {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/china/taiwans-apec-envoy-says-he-will-speak-with-other-members-china-hosted-summit-2026-11-18/"
+          "label": "AP",
+          "url": "https://apnews.com/article/bb61e50e4b0bb0b975b0695dc4f7b64a"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-07",
+      "category": "経済・金融",
+      "date": "2026-11-19",
+      "title": "IMF専務理事、AI設備需要とエネルギー高のインフレ圧力を警告",
+      "summary": "AI投資は成長を支える一方、電力・設備需要と資金調達負担を押し上げると指摘。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米中ロのAPEC外交",
-      "summary": "首脳会談予定と通商・安全保障の協議",
-      "japan_comparison": "日本は地域安保と輸出規制の双方を注視",
-      "url": "https://www.reuters.com/world/chinas-xi-calls-free-open-trade-apec-summit-2026-11-18/"
+      "title": "大国間外交",
+      "summary": "APECで米中ロ協議",
+      "japan_comparison": "日本は対露対話を再開",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
     },
     {
-      "title": "AI半導体の中国向け規制",
-      "summary": "NVIDIAが中国向けHopper出荷を停止",
-      "japan_comparison": "国内半導体関連企業も市場分断の影響を検証",
-      "url": "https://www.reuters.com/world/china/nvidia-stops-shipping-us-approved-ai-chips-china-2026-11-18/"
+      "title": "AI投資と物価",
+      "summary": "IMFがAI設備投資のインフレ圧力を警告",
+      "japan_comparison": "日銀も円安と物価の波及を警戒",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
     },
     {
-      "title": "英国のエネルギーインフレ",
-      "summary": "燃料高で物価上昇率3.6％",
-      "japan_comparison": "輸入燃料への依存という共通の物価リスク",
-      "url": "https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates"
+      "title": "AIガバナンス",
+      "summary": "APECでAI安全性と国際協力を協議",
+      "japan_comparison": "日本の技術調達と安全基準にも関係",
+      "url": "https://apnews.com/article/bb61e50e4b0bb0b975b0695dc4f7b64a"
     }
   ],
   "github_trending": []
