@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T06:00:00+09:00",
+  "status": "7件。11月19日発表・報道中心。GitHub Trending増加数は未取得。重大サイバー新規案件は確認できず。",
+  "summary": [
+    "高市首相とプーチン大統領がAPECで会談。米中ロ首脳も協議。",
+    "日銀総裁は利上げ継続姿勢、10月貿易赤字は4765億円。",
+    "IMFがAI投資による物価圧力を警告。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-20-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-19",
+      "title": "高市首相、APECでプーチン大統領と会談",
+      "summary": "日本政府によれば邦人拘束と日本企業保護を提起し、対話継続で一致。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/japan-says-pm-takaichi-putin-held-talks-apec-summit-china-2026-11-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-02",
+      "category": "経済・金融",
+      "date": "2026-11-19",
+      "title": "日銀総裁、金融緩和の縮小継続を示唆",
+      "summary": "植田総裁は19日、金融環境はなお緩和的とし、円安・原油高の家計への影響を警戒。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/markets/us/boj-governor-ueda-says-financial-conditions-loose-despite-rate-hikes-2026-11-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-03",
+      "category": "経済・金融",
+      "date": "2026-11-19",
+      "title": "日本の10月貿易収支、4765億円の赤字",
+      "summary": "輸入増加が輸出増加を上回り、エネルギー価格が影響。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "AP",
+          "url": "https://apnews.com/article/17623689c3248c926283044cd5ff3484"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-04",
+      "category": "国内政治・政策",
+      "date": "2026-11-19",
+      "title": "JBIC会長、対米5500億ドル投資の案件選定に日本の関与拡大を要求",
+      "summary": "日本側の案件形成と選定への参加を強めるべきだと述べた。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/jbic-chair-calls-greater-japanese-role-550-billion-us-investment-2026-11-19/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-05",
+      "category": "国際・地政学",
+      "date": "2026-11-19",
+      "title": "米中ロ首脳、APECで三者協議",
+      "summary": "核リスクなどを協議したが、具体的な突破口は報じられていない。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-06",
+      "category": "テクノロジー",
+      "date": "2026-11-19",
+      "title": "APECでAI安全性と国際協力が主要議題に",
+      "summary": "各国はAIの活用と規制の方向性を議論し、半導体アクセス制限の対立も継続。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "AP",
+          "url": "https://apnews.com/article/bb61e50e4b0bb0b975b0695dc4f7b64a"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-07",
+      "category": "経済・金融",
+      "date": "2026-11-19",
+      "title": "IMF専務理事、AI設備需要とエネルギー高のインフレ圧力を警告",
+      "summary": "AI投資は成長を支える一方、電力・設備需要と資金調達負担を押し上げると指摘。",
+      "background": "11月19日の発表・報道。",
+      "importance": "国内外の政策・経済・技術動向に関係。",
+      "japan_impact": "日本の政策・企業活動に関連。",
+      "investment_impact": "【分析】直接の政策決定と市場の期待を分けて評価。",
+      "work_impact": "【分析】関連する調達・業務コストと規制動向を確認。",
+      "caveats": "報道内容・当事者発言と将来の確定結果を区別する。",
+      "sources": [
+        {
+          "label": "Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "大国間外交",
+      "summary": "APECで米中ロ協議",
+      "japan_comparison": "日本は対露対話を再開",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/apec-summit-trump-xi-putin-meeting-shenzhen-china"
+    },
+    {
+      "title": "AI投資と物価",
+      "summary": "IMFがAI設備投資のインフレ圧力を警告",
+      "japan_comparison": "日銀も円安と物価の波及を警戒",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+    },
+    {
+      "title": "AIガバナンス",
+      "summary": "APECでAI安全性と国際協力を協議",
+      "japan_comparison": "日本の技術調達と安全基準にも関係",
+      "url": "https://apnews.com/article/bb61e50e4b0bb0b975b0695dc4f7b64a"
+    }
+  ],
+  "github_trending": []
+}
