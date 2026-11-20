@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T06:04:30+09:00",
+  "status": "8件。11月20日報道中心。GitHub Trendingの日次・週次スター増加数は検証できず未掲載。",
+  "summary": [
+    "日本の10月コアCPIが2.2%上昇、日銀の利上げ見通しに注目。",
+    "米中軍事AIの人間関与について米財務長官が説明。",
+    "欧州のAI利用サイバー攻撃続報、英国の冷蔵設備脆弱性修正。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-21-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-20",
+      "title": "政府、JT減配でも産業投資計画に支障なしと説明",
+      "summary": "片山財務相は政府保有JT株の配当減が投資計画を妨げないと述べた。ロシアによる子会社接収を受けJTが配当予想を25%引き下げた。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/markets/asia/japan-says-jt-dividend-cut-will-not-disrupt-governments-industrial-investment-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-02",
+      "category": "経済・金融",
+      "date": "2026-11-20",
+      "title": "10月の日本コアCPI、前年比2.2%上昇",
+      "summary": "生鮮食品を除く消費者物価上昇率が9月の2.1%から加速。12月の日銀利上げ観測に影響。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "WSJ",
+          "url": "https://www.wsj.com/economy/japan-consumer-inflation-accelerates-amid-rate-hike-views-15cf7577"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-03",
+      "category": "経済・金融",
+      "date": "2026-11-20",
+      "title": "日銀の最終的な利上げ水準を巡る不透明感",
+      "summary": "政策委員の中立金利認識に幅があり、円安圧力を高める可能性があるとの市場分析。利上げ決定ではない。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/business/finance/bojs-ambiguity-rate-hike-path-could-tempt-yen-bears-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-04",
+      "category": "国際・地政学",
+      "date": "2026-11-20",
+      "title": "米中首脳、軍事AIの重要判断への人間関与で合意と米財務長官",
+      "summary": "ベセント米財務長官が説明。両首脳の共同文書や運用基準は本記事では確認できず、当事者の説明として扱う。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-05",
+      "category": "社会・産業",
+      "date": "2026-11-20",
+      "title": "欧州冷蔵設備攻撃を受け英国で脆弱性を修正",
+      "summary": "食品流通向け冷蔵・冷凍設備の欠陥を英国の専門家が修正。欧州では先行する攻撃で損失が生じた。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-finds-fix-fridge-freezer-vulnerability-after-european-hacks-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-06",
+      "category": "テクノロジー",
+      "date": "2026-11-20",
+      "title": "欧州委、10月に発生したAI利用サイバー攻撃を公表",
+      "summary": "11月20日の報道によれば10月22日に検知し、一部アプリを停止。発生は10月であり新規攻撃ではない。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "AP",
+          "url": "https://apnews.com/article/79705095e8141cd650196dbff1cf3c70"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-07",
+      "category": "テクノロジー",
+      "date": "2026-11-20",
+      "title": "ECB総裁、AIによるサイバー脅威増幅を警告",
+      "summary": "ラガルド総裁は金融システムに対するAIエージェント悪用を最重要の懸念の一つとして説明。具体的な新規侵害の確認とは別。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/legal/government/ecbs-lagarde-cyber-threat-boosted-by-ai-is-my-top-worry-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-08",
+      "category": "経済・金融",
+      "date": "2026-11-20",
+      "title": "AI関連株への売りが世界市場に波及",
+      "summary": "AI投資負担や企業価値への懸念から半導体・AI関連銘柄が下落。相場変動の原因は単一とは断定できない。",
+      "background": "2026年11月20日の発表・報道を確認。事象発生日が異なる場合は本文に明記。",
+      "importance": "社会・市場・技術への影響と速報性を考慮して選定。",
+      "japan_impact": "日本の金融政策、事業継続、技術調達や安全対策への波及を注視。",
+      "investment_impact": "【編集上の分析】収益・費用・金利・リスクプレミアムへの影響を検証。売買推奨ではない。",
+      "work_impact": "【編集上の分析】セキュリティ対策、調達判断、運用継続性への影響を確認。",
+      "caveats": "出典の報道事実と当事者の主張、将来に関する編集上の推測は区別。独立した一次資料で未検証の部分がある。",
+      "sources": [
+        {
+          "label": "Guardian",
+          "url": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "軍事AIの人間による統制",
+      "summary": "米財務長官が米中首脳の合意を説明",
+      "japan_comparison": "日本でも防衛AIの統制原則が論点",
+      "url": "https://www.reuters.com/world/china/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says-2026-11-20/"
+    },
+    {
+      "title": "AIと金融システムの安全",
+      "summary": "ECB総裁がAI悪用のサイバーリスクを警告",
+      "japan_comparison": "国内金融機関にも共通の運用リスク",
+      "url": "https://www.reuters.com/legal/government/ecbs-lagarde-cyber-threat-boosted-by-ai-is-my-top-worry-2026-11-20/"
+    },
+    {
+      "title": "冷蔵設備へのサイバー攻撃",
+      "summary": "英国が脆弱性を修正",
+      "japan_comparison": "日本の食品物流でもOT機器の公開設定点検が重要",
+      "url": "https://www.reuters.com/world/uk/uk-finds-fix-fridge-freezer-vulnerability-after-european-hacks-2026-11-20/"
+    }
+  ],
+  "github_trending": []
+}
