@@ -1,146 +1,127 @@
 {
-  "date": "2026-11-22",
-  "updated_at": "2026-11-22T06:02:44+09:00",
-  "status": "報道6件。直近24時間の一次資料の網羅性は限定的。GitHub Trending日次・週次スター増加数は取得できず未掲載。重大な新規セキュリティインシデントは確認できず。",
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T06:04:06+09:00",
+  "status": "確認できた報道5件。国内政治の直近24時間の確度十分な新規記事は未収録。GitHub Trendingの日次・週次スター増加数は取得できず未掲載。重大セキュリティ事案は週次続報として収録。",
   "summary": [
-    "バルト海でロシア貨物船が攻撃を受け炎上、フィンランド領海に漂流。",
-    "自律型兵器の国際規制協議は2028年まで継続、拘束力ある合意は未成立。",
-    "COP31は化石燃料・気候資金で難航。AI関連株安の週末総括も確認。"
+    "COP31はEUなどの反対で最終合意なく閉幕。",
+    "バルト海で攻撃されたロシア貨物船の曳航開始。",
+    "米株調整とAI投資採算、Java4Shellなどの脆弱性続報を確認。"
   ],
   "articles": [
     {
-      "id": "2026-11-22-01",
       "category": "国際・地政学",
-      "date": "2026-11-21",
-      "title": "ロシア貨物船、バルト海でドローン攻撃を受け炎上",
-      "summary": "11月21日、ロシア関連貨物船が攻撃を受け火災、フィンランド領海に漂流。乗組員は退避。フィンランド当局はウクライナによる攻撃の可能性を示した。",
-      "background": "軍事関連企業とのつながりがあり米制裁対象の船舶。攻撃主体は独立確認されていない。",
-      "importance": "バルト海の航行安全と周辺国の緊張に影響。",
-      "japan_impact": "欧州航路の物流・保険費用を注視。",
-      "investment_impact": "【編集分析】海運保険料やリスクプレミアム上昇の可能性。",
-      "work_impact": "【編集分析】物流継続計画を再点検。",
-      "caveats": "攻撃主体は当局見解であり確定事実ではない。",
+      "date": "2026-11-22",
+      "title": "バルト海の被攻撃ロシア貨物船、フィンランド領海から曳航開始",
+      "summary": "フィンランド沿岸警備当局によると、ドローン攻撃後に炎上したロシア貨物船Sparta IIの曳航が始まった。乗組員16人は退避。",
+      "background": "前日の攻撃からの続報。フィンランド軍はウクライナ関与の可能性を指摘したが独立確認はない。",
+      "importance": "バルト海の航行・周辺国安全保障",
+      "japan_impact": "欧州向け物流の混乱可能性",
+      "investment_impact": "【編集分析】海運保険・物流コストへの影響を監視",
+      "work_impact": "【編集分析】欧州物流の代替経路を点検",
+      "caveats": "攻撃主体は確定していない。",
       "sources": [
         {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/russia-says-cargo-vessel-struck-by-drones-finland-says-it-is-fire-its-waters-2026-11-21/"
+          "label": "Reuters 11/22",
+          "url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/"
         }
-      ]
+      ],
+      "id": "2026-11-23-01"
     },
     {
-      "id": "2026-11-22-02",
       "category": "国際・地政学",
-      "date": "2026-11-21",
-      "title": "国連枠組み、自律型致死兵器の規制協議を2028年まで継続",
-      "summary": "11月21日、特定通常兵器使用禁止制限条約の参加国が自律型致死兵器の規制協議を継続することで一致。法的拘束力のあるルールへの合意ではない。",
-      "background": "主要兵器生産国の一部が拘束力ある規則に反対。",
-      "importance": "軍事AIの人間による統制を巡る国際ルールが未確定。",
-      "japan_impact": "【編集分析】日本の防衛AI政策にも参考となる。",
-      "investment_impact": "【編集分析】防衛・AI関連企業の規制対応コストを注視。",
-      "work_impact": "【編集分析】高リスクAIの監査・統制設計に関連。",
-      "caveats": "拘束力ある条約成立と混同しない。",
+      "date": "2026-11-22",
+      "title": "COP31、EUなどの反対で最終合意に至らず",
+      "summary": "トルコ・アンタルヤのCOP31はEUなどが議長案を拒否し、最終合意なしで閉幕したとReutersが報じた。",
+      "background": "化石燃料への言及などで対立。前日の交渉難航から結果が変化した続報。",
+      "importance": "気候外交の合意形成に大きな後退",
+      "japan_impact": "日本の脱炭素政策に国際調整上の不確実性",
+      "investment_impact": "【編集分析】エネルギー投資の政策前提を再点検",
+      "work_impact": "【編集分析】排出量・調達ルールの各国差に注意",
+      "caveats": "交渉決裂はReuters報道に基づく。今後の再協議は未確定。",
       "sources": [
         {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+          "label": "Reuters 11/22",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
         }
-      ]
+      ],
+      "id": "2026-11-23-02"
     },
     {
-      "id": "2026-11-22-03",
-      "category": "国内政治・政策",
-      "date": "2026-11-21",
-      "title": "米中首脳会談の具体的成果、11月21日時点で限定的との分析",
-      "summary": "11月21日のReuters分析は、米中首脳会談で具体的な新規公約が乏しく、レアアース・半導体規制などの懸案が残ると指摘。",
-      "background": "会談自体は11月19日であり、新規会談ではない。",
-      "importance": "日本の供給網・対中輸出管理への波及を注視。",
-      "japan_impact": "【編集分析】国内半導体・素材調達の不確実性が残る。",
-      "investment_impact": "【編集分析】供給網リスク評価に影響。",
-      "work_impact": "【編集分析】代替調達先の点検が有効。",
-      "caveats": "分析記事の評価と当局の公式合意を区別。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-basks-summit-pomp-chinas-xi-strengthens-his-hand-2026-11-21/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-22-04",
-      "category": "社会・産業",
-      "date": "2026-11-21",
-      "title": "COP31、化石燃料と適応資金を巡る対立で延長協議",
-      "summary": "11月21日、COP31は予定終了日を過ぎても合意できず、化石燃料に関する文言と途上国の適応資金が争点。",
-      "background": "11月21日時点の交渉状況であり最終合意ではない。",
-      "importance": "日本の脱炭素政策・エネルギー調達に影響し得る。",
-      "japan_impact": "【編集分析】電力・再エネ・産業設備の投資条件を注視。",
-      "investment_impact": "【編集分析】エネルギー関連企業の規制見通しに影響。",
-      "work_impact": "【編集分析】排出量報告や調達基準の変更に備える。",
-      "caveats": "協議の結果は未確定。",
-      "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-22-05",
       "category": "経済・金融",
-      "date": "2026-11-21",
-      "title": "米株急落とAI投資採算への懸念、週末の市場総括",
-      "summary": "11月21日のReuters週末総括は、AI関連投資の収益性を巡る懸念が米株の急落につながったと紹介。",
-      "background": "市場変動の中心は11月20日以前。11月21日の新規相場ではない。",
-      "importance": "日本の半導体・設備投資関連銘柄にも波及可能性。",
-      "japan_impact": "【編集分析】設備投資の実績と収益化の進展を区別。",
-      "investment_impact": "【編集分析】AI関連企業の利益率・資金調達を注視。",
-      "work_impact": "【編集分析】AI導入の費用対効果検証が重要。",
-      "caveats": "単一要因による下落とは断定できない。",
+      "date": "2026-11-22",
+      "title": "米国株の調整局面、AI投資採算と下落持続性を市場関係者が検討",
+      "summary": "Reutersは株式売りが一時的な調整か長期的な見直しかを投資家が見極めていると報じた。",
+      "background": "週末の分析であり22日に新たな取引が行われたわけではない。",
+      "importance": "AI関連株の評価とリスク選好",
+      "japan_impact": "日本の半導体関連株への連動に注意",
+      "investment_impact": "【編集分析】設備投資の収益化と企業業績を分けて検証",
+      "work_impact": "【編集分析】AI導入の投資対効果を重視",
+      "caveats": "市場見通しは当事者の評価であり将来確定事実ではない。",
       "sources": [
         {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/podcasts/wall-street-plunges-climate-talks-run-over-republicans-position-2028-2026-11-21/"
+          "label": "Reuters 11/22",
+          "url": "https://www.reuters.com/business/finance/correction-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-2026-11-22/"
         }
-      ]
+      ],
+      "id": "2026-11-23-03"
     },
     {
-      "id": "2026-11-22-06",
-      "category": "国際・地政学",
-      "date": "2026-11-21",
-      "title": "米民主党、中間選挙後の政策課題を検討",
-      "summary": "11月21日のReutersは民主党が議会での多数派獲得後、医療保険などの優先課題と党内意見の差を抱えると報道。",
-      "background": "具体的法案の成立や政策実施は未確定。",
-      "importance": "米国の財政・産業政策が日本企業の対米事業に影響し得る。",
-      "japan_impact": "【編集分析】対米政策変更の可能性を注視。",
-      "investment_impact": "【編集分析】政策不確実性は企業見通しに影響。",
-      "work_impact": "【編集分析】米国向け契約の規制前提を点検。",
-      "caveats": "将来の政策見通しは予測であり決定事項ではない。",
+      "category": "テクノロジー",
+      "date": "2026-11-22",
+      "title": "Java4Shellなど重大脆弱性の週次続報、悪用有無は区別が必要",
+      "summary": "セキュリティ専門媒体がJava4Shellの悪用難度やOptimizely経由の悪意あるJavaScript混入事案を週次総括した。",
+      "background": "Java4Shellの公表は11月18日以前。11月22日の新規発見ではない。",
+      "importance": "サプライチェーンとパッチ運用に影響",
+      "japan_impact": "日本企業のJava・Web基盤にも確認価値",
+      "investment_impact": "【編集分析】パッチ対応企業の費用と停止リスク",
+      "work_impact": "【編集分析】製品影響範囲とパッチ検証を優先",
+      "caveats": "二次資料の週次総括。個々の脆弱性について当局・ベンダー一次資料での再確認が必要。",
       "sources": [
         {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/legal/government/democrats-won-big-midterms-so-now-what-2026-11-21/"
+          "label": "Help Net Security 11/22",
+          "url": "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/"
         }
-      ]
+      ],
+      "id": "2026-11-23-04"
+    },
+    {
+      "category": "社会・産業",
+      "date": "2026-11-22",
+      "title": "大規模IT障害の連続、単一の組織的攻撃と断定できず",
+      "summary": "英Guardianは航空、Microsoftなどの障害を検証し、複数の別個の技術的問題が重なったと解説した。",
+      "background": "複数の過去事案に関する22日の解説であり新たな一斉障害ではない。",
+      "importance": "社会インフラの集中リスクと復旧設計",
+      "japan_impact": "国内公共サービス・業務継続にも教訓",
+      "investment_impact": "【編集分析】集中事業者への依存リスク",
+      "work_impact": "【編集分析】障害時の手動運用と代替通信を検証",
+      "caveats": "解説記事であり各障害の公式原因報告を代替しない。",
+      "sources": [
+        {
+          "label": "The Guardian 11/22",
+          "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
+        }
+      ],
+      "id": "2026-11-23-05"
     }
   ],
   "overseas_trends": [
     {
-      "title": "自律型兵器の国際規制",
-      "summary": "2028年まで協議を継続、拘束力ある合意は未成立",
-      "japan_comparison": "日本の防衛AIガバナンスと比較",
-      "url": "https://www.reuters.com/world/states-agree-to-un-talks-aiming-regulate-killer-robots-by-2028-2026-11-21/"
+      "title": "欧州の気候外交",
+      "summary": "COP31が最終合意なしで終了",
+      "japan_comparison": "日本のエネルギー政策と各国規制の乖離",
+      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
     },
     {
-      "title": "COP31の気候資金交渉",
-      "summary": "化石燃料・適応資金を巡り協議延長",
-      "japan_comparison": "日本のエネルギー転換と資金調達に関係",
-      "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/"
+      "title": "バルト海航行安全",
+      "summary": "被攻撃貨物船の曳航開始",
+      "japan_comparison": "日本の海上輸送リスク管理と比較",
+      "url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/"
     },
     {
-      "title": "米中の先端技術規制",
-      "summary": "首脳会談後もAI半導体と希土類の懸案が残存",
-      "japan_comparison": "日本の半導体・素材供給網の対応と比較",
-      "url": "https://www.reuters.com/world/china/trump-basks-summit-pomp-chinas-xi-strengthens-his-hand-2026-11-21/"
+      "title": "米国のAI関連投資",
+      "summary": "株価調整の持続性を投資家が検討",
+      "japan_comparison": "日本の半導体・データセンター投資への波及",
+      "url": "https://www.reuters.com/business/finance/correction-or-deeper-reckoning-investors-seek-signs-us-stock-selling-will-abate-2026-11-22/"
     }
   ],
   "github_trending": []
