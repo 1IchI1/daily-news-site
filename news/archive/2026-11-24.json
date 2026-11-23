@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T06:00:00+09:00",
+  "status": "11月23日中心の確認報道8件。国内政治の新規確証なし。GitHub Trending日次・週次増加数は取得不能。",
+  "summary": [
+    "韓国株急落と台湾の市場安定策がAI投資への懸念を反映。",
+    "メキシコ・中国貿易協議、豪州・国連のAIガバナンスが焦点。",
+    "欧州の水素政策、米国のAIサイバー防御を確認。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-24-01",
+      "category": "経済・金融",
+      "date": "2026-11-23",
+      "title": "韓国KOSPIが約5％下落、政府が市場安定策を示唆",
+      "summary": "AI関連株への警戒が広がり、韓国株が急落。政府は必要に応じ安定化措置を講じる姿勢を示した。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-02",
+      "category": "経済・金融",
+      "date": "2026-11-23",
+      "title": "台湾、AI株売りを受け追証規制を緩和",
+      "summary": "台湾当局は株式市場の急変に対応し、信用取引の追証規則を緩和した。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/global-markets-taiwan-update-1-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-03",
+      "category": "国際・地政学",
+      "date": "2026-11-23",
+      "title": "メキシコと中国、貿易課題の作業部会設置で合意",
+      "summary": "メキシコ経済省は23日、両国が二国間の経済課題を扱う作業部会の設置で合意したと発表。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/world/mexico-china-agree-create-working-group-boost-trade-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-04",
+      "category": "国際・地政学",
+      "date": "2026-11-23",
+      "title": "豪州、AIを外交・安全保障の主要課題に位置付けへ",
+      "summary": "豪外相はAIによる外国からの干渉と安全保障上のリスクに対応する方針を演説で示す見通し。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-05",
+      "category": "テクノロジー",
+      "date": "2026-11-23",
+      "title": "国連事務総長、AIリスク管理の国際枠組みを提唱",
+      "summary": "国連事務総長は各国に対し、1年以内に独立監督を伴う多国間AIリスク管理枠組みの策定を呼びかけた。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.timesofisrael.com/liveblog_entry/un-chief-calls-for-ai-risk-management-framework-within-a-year/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-06",
+      "category": "社会・産業",
+      "date": "2026-11-23",
+      "title": "グリーン水素、欧州で費用削減と政策支援が焦点",
+      "summary": "欧州では水素の価格差支援と輸送網整備を進める一方、電力価格と採算性が普及の障壁となっている。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/sustainability/climate-energy/hopes-green-hydrogen-revive-industry-seeks-cut-costs--ecmii-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-07",
+      "category": "経済・金融",
+      "date": "2026-11-23",
+      "title": "フランス財務相、2027年成長率予測の下方修正リスクを指摘",
+      "summary": "政府の2027年成長率1％予測には下方修正リスクがあり、改定値は1月公表予定と財務相が述べた。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.reuters.com/world/frances-2027-economic-growth-forecast-1-risk-being-downgraded-minister-says-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-08",
+      "category": "社会・産業",
+      "date": "2026-11-23",
+      "title": "米重要インフラ、AIを用いたサイバー脅威への防御を検討",
+      "summary": "米エネルギー省のAI-FORTS計画を紹介した解説。23日に新たな侵害が確認されたとの報道ではない。",
+      "background": "11月23日の報道。政策・市場環境を継続確認。",
+      "importance": "政策・市場・技術への影響を評価する必要がある。",
+      "japan_impact": "【編集分析】日本への波及は未確定。",
+      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
+      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
+      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "sources": [
+        {
+          "label": "2026-11-23 報道・解説",
+          "url": "https://www.forbes.com/sites/ronschmelzer/2026/11/23/americas-power-grid-has-an-ai-problem-the-us-doe-has-a-plan/"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "韓国・台湾のAI関連株",
+      "summary": "AI株の下落に対し市場安定策を検討・実施",
+      "japan_comparison": "日本の半導体関連株との比較",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-2026-11-23/"
+    },
+    {
+      "title": "豪州のAI外交",
+      "summary": "AIを外交・安全保障の課題に位置付け",
+      "japan_comparison": "日本のAI規制・安全保障政策との比較",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+    },
+    {
+      "title": "欧州の水素政策",
+      "summary": "価格差支援とインフラ投資が焦点",
+      "japan_comparison": "日本の水素政策との比較",
+      "url": "https://www.reuters.com/sustainability/climate-energy/hopes-green-hydrogen-revive-industry-seeks-cut-costs--ecmii-2026-11-23/"
+    }
+  ],
+  "github_trending": []
+}
