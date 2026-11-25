@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T06:00:33+09:00",
+  "status": "11月25日報道・発表9件。GitHub Trending日次・週次は取得制限により未確認。",
+  "summary": [
+    "米国が日本を含む14経済圏への通商措置を提案。",
+    "米GDPは年率4.3％増に上方改定、物価上昇も継続。",
+    "Drupalの実悪用とCheck Point管理サーバー侵害の続報を確認。"
+  ],
+  "articles": [
+    {
+      "id": "2026-11-26-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-25",
+      "title": "経済安保政策案、フィジカルAIを重点に",
+      "summary": "政府が安保3文書改定に向けた概要を自民党会合に提示。AI基盤モデルへの投資や重要産業のリスク点検を盛り込んだ。",
+      "background": "年内改定に向けた検討段階であり、最終決定ではない。",
+      "importance": "安全保障政策",
+      "japan_impact": "国内AI政策に直接関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "年内改定に向けた検討段階であり、最終決定ではない。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000550596.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-02",
+      "category": "国内政治・政策",
+      "date": "2026-11-25",
+      "title": "次期学習指導要領の意見公募結果を公表",
+      "summary": "文部科学省が審議まとめに対する意見公募結果を25日付で掲載した。",
+      "background": "指導要領の最終決定とは異なる。",
+      "importance": "教育政策",
+      "japan_impact": "国内教育制度に直接関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "指導要領の最終決定とは異なる。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.mext.go.jp/b_menu/houdou/2026/index.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-03",
+      "category": "経済・金融",
+      "date": "2026-11-25",
+      "title": "米GDP改定値は年率4.3％増、物価も上昇",
+      "summary": "7～9月期実質GDPの伸びは速報3.4％から4.3％へ改定。10月PCE物価は前年比3.8％、コアは3.3％と報じられた。",
+      "background": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
+      "importance": "世界経済・金融政策",
+      "japan_impact": "米国経済指標として関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-04",
+      "category": "経済・金融",
+      "date": "2026-11-25",
+      "title": "豪州の基調インフレが2年ぶり高水準",
+      "summary": "10月の豪州インフレが加速したと報じられた。",
+      "background": "金融政策の決定とは区別する。",
+      "importance": "金融政策",
+      "japan_impact": "海外金融政策の比較材料",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "金融政策の決定とは区別する。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-05",
+      "category": "国際・地政学",
+      "date": "2026-11-25",
+      "title": "米通商代表部、日本を含む14経済圏への措置を提案",
+      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
+      "background": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
+      "importance": "国際貿易",
+      "japan_impact": "日本が調査対象に含まれる",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-06",
+      "category": "社会・産業",
+      "date": "2026-11-25",
+      "title": "JBICとカタールエナジーが協力覚書",
+      "summary": "エネルギー安全保障と供給網強靱化、事業・投資協力を目的とする覚書締結が報じられた。",
+      "background": "個別案件の投資実行や供給量確定とは異なる。",
+      "importance": "エネルギー供給",
+      "japan_impact": "日本のエネルギー調達に関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "個別案件の投資実行や供給量確定とは異なる。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/business/energy/japans-jbic-qatarenergy-sign-mou-strengthen-energy-security-2026-11-25/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-07",
+      "category": "社会・産業",
+      "date": "2026-11-25",
+      "title": "米金融犯罪対策当局が一部システム停止",
+      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
+      "background": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
+      "importance": "金融インフラ",
+      "japan_impact": "国内への直接被害は未確認",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-08",
+      "category": "テクノロジー",
+      "date": "2026-11-25",
+      "title": "Drupalの修正済み脆弱性に実悪用報告",
+      "summary": "CISAとDrupal開発者による実悪用の確認が報じられた。",
+      "background": "25日の続報であり、脆弱性自体の新規発見ではない。",
+      "importance": "OSSの安全性",
+      "japan_impact": "国内利用環境も対象製品の確認が必要",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
+      "caveats": "25日の続報であり、脆弱性自体の新規発見ではない。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-09",
+      "category": "テクノロジー",
+      "date": "2026-11-25",
+      "title": "Check Point管理サーバーへの攻撃、22組織に影響との報告",
+      "summary": "GreyNoiseの調査について25日に続報。24台の管理サーバーが侵害されたと報じられた。",
+      "background": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
+      "importance": "ネットワーク管理基盤",
+      "japan_impact": "国内被害の有無は未確認",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
+      "caveats": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+        }
+      ]
+    }
+  ],
+  "overseas_trends": [
+    {
+      "title": "米国の通商政策",
+      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
+      "japan_comparison": "日本も対象に含まれる。",
+      "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+    },
+    {
+      "title": "米豪の物価",
+      "summary": "米国と豪州で物価上昇が報じられた。",
+      "japan_comparison": "各国の物価指標と金融政策を区別して比較する。",
+      "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
+    },
+    {
+      "title": "海外の金融インフラ障害",
+      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
+      "japan_comparison": "国内の同種被害は未確認。",
+      "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
+    }
+  ],
+  "github_trending": []
+}
