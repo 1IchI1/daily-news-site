@@ -1,184 +1,203 @@
 {
-  "date": "2026-11-24",
-  "updated_at": "2026-11-24T06:00:00+09:00",
-  "status": "11月23日中心の確認報道8件。国内政治の新規確証なし。GitHub Trending日次・週次増加数は取得不能。",
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T06:00:33+09:00",
+  "status": "11月25日報道・発表9件。GitHub Trending日次・週次は取得制限により未確認。",
   "summary": [
-    "韓国株急落と台湾の市場安定策がAI投資への懸念を反映。",
-    "メキシコ・中国貿易協議、豪州・国連のAIガバナンスが焦点。",
-    "欧州の水素政策、米国のAIサイバー防御を確認。"
+    "米国が日本を含む14経済圏への通商措置を提案。",
+    "米GDPは年率4.3％増に上方改定、物価上昇も継続。",
+    "Drupalの実悪用とCheck Point管理サーバー侵害の続報を確認。"
   ],
   "articles": [
     {
-      "id": "2026-11-24-01",
+      "id": "2026-11-26-01",
+      "category": "国内政治・政策",
+      "date": "2026-11-25",
+      "title": "経済安保政策案、フィジカルAIを重点に",
+      "summary": "政府が安保3文書改定に向けた概要を自民党会合に提示。AI基盤モデルへの投資や重要産業のリスク点検を盛り込んだ。",
+      "background": "年内改定に向けた検討段階であり、最終決定ではない。",
+      "importance": "安全保障政策",
+      "japan_impact": "国内AI政策に直接関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "年内改定に向けた検討段階であり、最終決定ではない。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000550596.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-02",
+      "category": "国内政治・政策",
+      "date": "2026-11-25",
+      "title": "次期学習指導要領の意見公募結果を公表",
+      "summary": "文部科学省が審議まとめに対する意見公募結果を25日付で掲載した。",
+      "background": "指導要領の最終決定とは異なる。",
+      "importance": "教育政策",
+      "japan_impact": "国内教育制度に直接関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "指導要領の最終決定とは異なる。",
+      "sources": [
+        {
+          "label": "公式発表",
+          "url": "https://www.mext.go.jp/b_menu/houdou/2026/index.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-03",
       "category": "経済・金融",
-      "date": "2026-11-23",
-      "title": "韓国KOSPIが約5％下落、政府が市場安定策を示唆",
-      "summary": "AI関連株への警戒が広がり、韓国株が急落。政府は必要に応じ安定化措置を講じる姿勢を示した。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "date": "2026-11-25",
+      "title": "米GDP改定値は年率4.3％増、物価も上昇",
+      "summary": "7～9月期実質GDPの伸びは速報3.4％から4.3％へ改定。10月PCE物価は前年比3.8％、コアは3.3％と報じられた。",
+      "background": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
+      "importance": "世界経済・金融政策",
+      "japan_impact": "米国経済指標として関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-2026-11-23/"
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
         }
       ]
     },
     {
-      "id": "2026-11-24-02",
+      "id": "2026-11-26-04",
       "category": "経済・金融",
-      "date": "2026-11-23",
-      "title": "台湾、AI株売りを受け追証規制を緩和",
-      "summary": "台湾当局は株式市場の急変に対応し、信用取引の追証規則を緩和した。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "date": "2026-11-25",
+      "title": "豪州の基調インフレが2年ぶり高水準",
+      "summary": "10月の豪州インフレが加速したと報じられた。",
+      "background": "金融政策の決定とは区別する。",
+      "importance": "金融政策",
+      "japan_impact": "海外金融政策の比較材料",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "金融政策の決定とは区別する。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/sustainability/boards-policy-regulation/global-markets-taiwan-update-1-2026-11-23/"
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
         }
       ]
     },
     {
-      "id": "2026-11-24-03",
+      "id": "2026-11-26-05",
       "category": "国際・地政学",
-      "date": "2026-11-23",
-      "title": "メキシコと中国、貿易課題の作業部会設置で合意",
-      "summary": "メキシコ経済省は23日、両国が二国間の経済課題を扱う作業部会の設置で合意したと発表。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "date": "2026-11-25",
+      "title": "米通商代表部、日本を含む14経済圏への措置を提案",
+      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
+      "background": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
+      "importance": "国際貿易",
+      "japan_impact": "日本が調査対象に含まれる",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/world/mexico-china-agree-create-working-group-boost-trade-2026-11-23/"
+          "label": "公式発表",
+          "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
         }
       ]
     },
     {
-      "id": "2026-11-24-04",
-      "category": "国際・地政学",
-      "date": "2026-11-23",
-      "title": "豪州、AIを外交・安全保障の主要課題に位置付けへ",
-      "summary": "豪外相はAIによる外国からの干渉と安全保障上のリスクに対応する方針を演説で示す見通し。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "id": "2026-11-26-06",
+      "category": "社会・産業",
+      "date": "2026-11-25",
+      "title": "JBICとカタールエナジーが協力覚書",
+      "summary": "エネルギー安全保障と供給網強靱化、事業・投資協力を目的とする覚書締結が報じられた。",
+      "background": "個別案件の投資実行や供給量確定とは異なる。",
+      "importance": "エネルギー供給",
+      "japan_impact": "日本のエネルギー調達に関連",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "個別案件の投資実行や供給量確定とは異なる。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/business/energy/japans-jbic-qatarenergy-sign-mou-strengthen-energy-security-2026-11-25/"
         }
       ]
     },
     {
-      "id": "2026-11-24-05",
+      "id": "2026-11-26-07",
+      "category": "社会・産業",
+      "date": "2026-11-25",
+      "title": "米金融犯罪対策当局が一部システム停止",
+      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
+      "background": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
+      "importance": "金融インフラ",
+      "japan_impact": "国内への直接被害は未確認",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "具体的な業務への影響は未確認。",
+      "caveats": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
+      "sources": [
+        {
+          "label": "11月25日報道",
+          "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-08",
       "category": "テクノロジー",
-      "date": "2026-11-23",
-      "title": "国連事務総長、AIリスク管理の国際枠組みを提唱",
-      "summary": "国連事務総長は各国に対し、1年以内に独立監督を伴う多国間AIリスク管理枠組みの策定を呼びかけた。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "date": "2026-11-25",
+      "title": "Drupalの修正済み脆弱性に実悪用報告",
+      "summary": "CISAとDrupal開発者による実悪用の確認が報じられた。",
+      "background": "25日の続報であり、脆弱性自体の新規発見ではない。",
+      "importance": "OSSの安全性",
+      "japan_impact": "国内利用環境も対象製品の確認が必要",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
+      "caveats": "25日の続報であり、脆弱性自体の新規発見ではない。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.timesofisrael.com/liveblog_entry/un-chief-calls-for-ai-risk-management-framework-within-a-year/"
+          "label": "11月25日報道",
+          "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"
         }
       ]
     },
     {
-      "id": "2026-11-24-06",
-      "category": "社会・産業",
-      "date": "2026-11-23",
-      "title": "グリーン水素、欧州で費用削減と政策支援が焦点",
-      "summary": "欧州では水素の価格差支援と輸送網整備を進める一方、電力価格と採算性が普及の障壁となっている。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
+      "id": "2026-11-26-09",
+      "category": "テクノロジー",
+      "date": "2026-11-25",
+      "title": "Check Point管理サーバーへの攻撃、22組織に影響との報告",
+      "summary": "GreyNoiseの調査について25日に続報。24台の管理サーバーが侵害されたと報じられた。",
+      "background": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
+      "importance": "ネットワーク管理基盤",
+      "japan_impact": "国内被害の有無は未確認",
+      "investment_impact": "個別企業の業績への影響は未確認。",
+      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
+      "caveats": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
       "sources": [
         {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/sustainability/climate-energy/hopes-green-hydrogen-revive-industry-seeks-cut-costs--ecmii-2026-11-23/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-24-07",
-      "category": "経済・金融",
-      "date": "2026-11-23",
-      "title": "フランス財務相、2027年成長率予測の下方修正リスクを指摘",
-      "summary": "政府の2027年成長率1％予測には下方修正リスクがあり、改定値は1月公表予定と財務相が述べた。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
-      "sources": [
-        {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.reuters.com/world/frances-2027-economic-growth-forecast-1-risk-being-downgraded-minister-says-2026-11-23/"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-24-08",
-      "category": "社会・産業",
-      "date": "2026-11-23",
-      "title": "米重要インフラ、AIを用いたサイバー脅威への防御を検討",
-      "summary": "米エネルギー省のAI-FORTS計画を紹介した解説。23日に新たな侵害が確認されたとの報道ではない。",
-      "background": "11月23日の報道。政策・市場環境を継続確認。",
-      "importance": "政策・市場・技術への影響を評価する必要がある。",
-      "japan_impact": "【編集分析】日本への波及は未確定。",
-      "investment_impact": "【編集分析】業績・制度への実際の反映を監視。",
-      "work_impact": "【編集分析】関連する業務・技術の影響範囲を確認。",
-      "caveats": "二次報道を含む。当事者の見通し・発言と確定事実は区別する。",
-      "sources": [
-        {
-          "label": "2026-11-23 報道・解説",
-          "url": "https://www.forbes.com/sites/ronschmelzer/2026/11/23/americas-power-grid-has-an-ai-problem-the-us-doe-has-a-plan/"
+          "label": "11月25日報道",
+          "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "韓国・台湾のAI関連株",
-      "summary": "AI株の下落に対し市場安定策を検討・実施",
-      "japan_comparison": "日本の半導体関連株との比較",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-finance-minister-sees-solid-growth-next-year-flags-chip-volatility-2026-11-23/"
+      "title": "米国の通商政策",
+      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
+      "japan_comparison": "日本も対象に含まれる。",
+      "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
     },
     {
-      "title": "豪州のAI外交",
-      "summary": "AIを外交・安全保障の課題に位置付け",
-      "japan_comparison": "日本のAI規制・安全保障政策との比較",
-      "url": "https://www.reuters.com/world/asia-pacific/australia-treat-ai-key-foreign-policy-challenge-2026-11-23/"
+      "title": "米豪の物価",
+      "summary": "米国と豪州で物価上昇が報じられた。",
+      "japan_comparison": "各国の物価指標と金融政策を区別して比較する。",
+      "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
     },
     {
-      "title": "欧州の水素政策",
-      "summary": "価格差支援とインフラ投資が焦点",
-      "japan_comparison": "日本の水素政策との比較",
-      "url": "https://www.reuters.com/sustainability/climate-energy/hopes-green-hydrogen-revive-industry-seeks-cut-costs--ecmii-2026-11-23/"
+      "title": "海外の金融インフラ障害",
+      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
+      "japan_comparison": "国内の同種被害は未確認。",
+      "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
     }
   ],
   "github_trending": []
