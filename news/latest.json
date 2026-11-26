@@ -1,203 +1,203 @@
 {
-  "date": "2026-11-26",
-  "updated_at": "2026-11-26T06:00:33+09:00",
-  "status": "11月25日報道・発表9件。GitHub Trending日次・週次は取得制限により未確認。",
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T06:01:01+09:00",
+  "status": "11月26日報道9件。一次資料の直接確認は未完了。GitHub Trending日次・週次は取得制限により未確認。",
   "summary": [
-    "米国が日本を含む14経済圏への通商措置を提案。",
-    "米GDPは年率4.3％増に上方改定、物価上昇も継続。",
-    "Drupalの実悪用とCheck Point管理サーバー侵害の続報を確認。"
+    "英中銀がAI関連借入の金融リスクを警告。",
+    "スイス当局がAIエージェントを用いた攻撃5件を報告。",
+    "SAPの人員削減検討、MiniMaxの入力データ管理を巡る報道。"
   ],
   "articles": [
     {
-      "id": "2026-11-26-01",
+      "id": "2026-11-27-01",
       "category": "国内政治・政策",
-      "date": "2026-11-25",
-      "title": "経済安保政策案、フィジカルAIを重点に",
-      "summary": "政府が安保3文書改定に向けた概要を自民党会合に提示。AI基盤モデルへの投資や重要産業のリスク点検を盛り込んだ。",
-      "background": "年内改定に向けた検討段階であり、最終決定ではない。",
-      "importance": "安全保障政策",
-      "japan_impact": "国内AI政策に直接関連",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "年内改定に向けた検討段階であり、最終決定ではない。",
+      "date": "2026-11-26",
+      "title": "文科相への問責決議案、27日に採決予定",
+      "summary": "野党8会派が提出した決議案を巡り、公明党の中野政調会長が維新の対応に言及した。",
+      "background": "参院で与党が少数のため採決結果は未確定。",
+      "importance": "国内政局",
+      "japan_impact": "国内に直接関連",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "参院で与党が少数のため採決結果は未確定。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000550596.html"
+          "label": "11月26日報道",
+          "url": "https://news.tv-asahi.co.jp/news_politics/articles/000550773.html"
         }
       ]
     },
     {
-      "id": "2026-11-26-02",
-      "category": "国内政治・政策",
-      "date": "2026-11-25",
-      "title": "次期学習指導要領の意見公募結果を公表",
-      "summary": "文部科学省が審議まとめに対する意見公募結果を25日付で掲載した。",
-      "background": "指導要領の最終決定とは異なる。",
-      "importance": "教育政策",
-      "japan_impact": "国内教育制度に直接関連",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "指導要領の最終決定とは異なる。",
-      "sources": [
-        {
-          "label": "公式発表",
-          "url": "https://www.mext.go.jp/b_menu/houdou/2026/index.html"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-26-03",
+      "id": "2026-11-27-02",
       "category": "経済・金融",
-      "date": "2026-11-25",
-      "title": "米GDP改定値は年率4.3％増、物価も上昇",
-      "summary": "7～9月期実質GDPの伸びは速報3.4％から4.3％へ改定。10月PCE物価は前年比3.8％、コアは3.3％と報じられた。",
-      "background": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
-      "importance": "世界経済・金融政策",
-      "japan_impact": "米国経済指標として関連",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "個人消費と設備投資が成長を支えた。今後の政策金利は未決定。",
+      "date": "2026-11-26",
+      "title": "英中銀、AI関連借入の金融リスクを警告",
+      "summary": "金融安定報告でAI関連の資金調達拡大や複雑化に伴うリスクを指摘したとReutersが報道。",
+      "background": "中銀によるリスク評価であり、危機発生の確認ではない。",
+      "importance": "金融安定",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "中銀によるリスク評価であり、危機発生の確認ではない。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://www.reuters.com/business/us-inflation-rises-further-october-2026-11-25/"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-04",
+      "id": "2026-11-27-03",
       "category": "経済・金融",
-      "date": "2026-11-25",
-      "title": "豪州の基調インフレが2年ぶり高水準",
-      "summary": "10月の豪州インフレが加速したと報じられた。",
-      "background": "金融政策の決定とは区別する。",
-      "importance": "金融政策",
-      "japan_impact": "海外金融政策の比較材料",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "金融政策の決定とは区別する。",
+      "date": "2026-11-26",
+      "title": "ソフトバンクの信用リスクへの警戒",
+      "summary": "AI投資を背景に投資家の信用リスクへの警戒が強まったとReutersが報道。",
+      "background": "債務不履行が発生したという報道ではない。",
+      "importance": "国内企業の資金調達",
+      "japan_impact": "国内に直接関連",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "債務不履行が発生したという報道ではない。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/business/media-telecom/investors-see-rising-risk-softbank-default-pressure-grows-ai-bets-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-05",
+      "id": "2026-11-27-04",
+      "category": "経済・金融",
+      "date": "2026-11-26",
+      "title": "世界株式市場が反発",
+      "summary": "FTによると26日は日経平均が0.9％上昇し、欧州株も反発した。",
+      "background": "米国市場は感謝祭で休場。反発は長期的な回復を保証しない。",
+      "importance": "市場動向",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "米国市場は感謝祭で休場。反発は長期的な回復を保証しない。",
+      "sources": [
+        {
+          "label": "11月26日報道",
+          "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-05",
       "category": "国際・地政学",
-      "date": "2026-11-25",
-      "title": "米通商代表部、日本を含む14経済圏への措置を提案",
-      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
-      "background": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
-      "importance": "国際貿易",
-      "japan_impact": "日本が調査対象に含まれる",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "不公正との評価は米当局の主張。提案は発効済み関税ではない。",
+      "date": "2026-11-26",
+      "title": "ポーランド、Palantirとの防衛AI契約を予定",
+      "summary": "国防省が27日に意思決定支援ソフトウェアの購入契約を締結する予定と発表したとReutersが報道。",
+      "background": "26日時点で締結済みではなく、契約詳細は未公表。",
+      "importance": "防衛分野のAI調達",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "26日時点で締結済みではなく、契約詳細は未公表。",
       "sources": [
         {
-          "label": "公式発表",
-          "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/technology/polish-defence-ministry-sign-agreement-with-palantir-friday-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-06",
+      "id": "2026-11-27-06",
       "category": "社会・産業",
-      "date": "2026-11-25",
-      "title": "JBICとカタールエナジーが協力覚書",
-      "summary": "エネルギー安全保障と供給網強靱化、事業・投資協力を目的とする覚書締結が報じられた。",
-      "background": "個別案件の投資実行や供給量確定とは異なる。",
-      "importance": "エネルギー供給",
-      "japan_impact": "日本のエネルギー調達に関連",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "個別案件の投資実行や供給量確定とは異なる。",
+      "date": "2026-11-26",
+      "title": "SAPの人員削減検討報道",
+      "summary": "BloombergがAI関連の再編で少なくとも1万人の削減を検討していると報道した。",
+      "background": "Reutersは独立確認できず、SAPはコメントを控えた。決定ではない。",
+      "importance": "雇用と企業再編",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "Reutersは独立確認できず、SAPはコメントを控えた。決定ではない。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://www.reuters.com/business/energy/japans-jbic-qatarenergy-sign-mou-strengthen-energy-security-2026-11-25/"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-07",
+      "id": "2026-11-27-07",
       "category": "社会・産業",
-      "date": "2026-11-25",
-      "title": "米金融犯罪対策当局が一部システム停止",
-      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
-      "background": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
-      "importance": "金融インフラ",
-      "japan_impact": "国内への直接被害は未確認",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "具体的な業務への影響は未確認。",
-      "caveats": "停止は前週からとの報道。主要データベース侵害の有無は調査中。",
+      "date": "2026-11-26",
+      "title": "米半導体規制とアジアのデータセンター投資",
+      "summary": "Fitchは米国の半導体規制強化でアジア太平洋の投資が鈍化し選別的になるとの見方を示した。",
+      "background": "格付け会社の見通しであり実績ではない。",
+      "importance": "半導体供給網",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "具体的な業務影響は未確認。",
+      "caveats": "格付け会社の見通しであり実績ではない。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/world/asia-pacific/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-08",
+      "id": "2026-11-27-08",
       "category": "テクノロジー",
-      "date": "2026-11-25",
-      "title": "Drupalの修正済み脆弱性に実悪用報告",
-      "summary": "CISAとDrupal開発者による実悪用の確認が報じられた。",
-      "background": "25日の続報であり、脆弱性自体の新規発見ではない。",
-      "importance": "OSSの安全性",
-      "japan_impact": "国内利用環境も対象製品の確認が必要",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
-      "caveats": "25日の続報であり、脆弱性自体の新規発見ではない。",
+      "date": "2026-11-26",
+      "title": "スイス当局、AIエージェントを使った攻撃5件を報告",
+      "summary": "連邦サイバーセキュリティ当局によると直近数日の5件のうち4件で侵害が発生し、重要インフラ事業者3者も標的になった。",
+      "background": "26日の当局発表に関する報道。国内被害や個別脆弱性との関連は未確認。",
+      "importance": "重要インフラの安全性",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "AIサービスの機密情報管理とセキュリティ対策の確認材料。",
+      "caveats": "26日の当局発表に関する報道。国内被害や個別脆弱性との関連は未確認。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/legal/litigation/ai-agents-used-five-cyber-attacks-switzerland-government-says-2026-11-26/"
         }
       ]
     },
     {
-      "id": "2026-11-26-09",
+      "id": "2026-11-27-09",
       "category": "テクノロジー",
-      "date": "2026-11-25",
-      "title": "Check Point管理サーバーへの攻撃、22組織に影響との報告",
-      "summary": "GreyNoiseの調査について25日に続報。24台の管理サーバーが侵害されたと報じられた。",
-      "background": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
-      "importance": "ネットワーク管理基盤",
-      "japan_impact": "国内被害の有無は未確認",
-      "investment_impact": "個別企業の業績への影響は未確認。",
-      "work_impact": "対象製品の利用状況と公式修正情報を確認する。",
-      "caveats": "観測は10月以降。AI利用は調査会社の評価で、PHP2Shellとは別の活動とされる。",
+      "date": "2026-11-26",
+      "title": "MiniMaxへの入力データを巡る調査報告",
+      "summary": "研究者が秘密リンクへの第三者アクセスを報告。MiniMaxは安全性検査による自動アクセスと説明し、会話流出の証拠はないとした。",
+      "background": "研究者の観測と企業の説明は区別する。流出範囲は未確定。",
+      "importance": "生成AIの情報管理",
+      "japan_impact": "国内への具体的影響は未確認。",
+      "investment_impact": "個別企業の業績への波及は未確定。",
+      "work_impact": "AIサービスの機密情報管理とセキュリティ対策の確認材料。",
+      "caveats": "研究者の観測と企業の説明は区別する。流出範囲は未確定。",
       "sources": [
         {
-          "label": "11月25日報道",
-          "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html"
+          "label": "11月26日報道",
+          "url": "https://www.reuters.com/world/data-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-2026-11-26/"
         }
       ]
     }
   ],
   "overseas_trends": [
     {
-      "title": "米国の通商政策",
-      "summary": "USTRは製造業の過剰生産能力をめぐる通商法301条調査の判断と措置案を公表した。",
-      "japan_comparison": "日本も対象に含まれる。",
-      "url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+      "title": "AI資金調達",
+      "summary": "金融安定報告でAI関連の資金調達拡大や複雑化に伴うリスクを指摘したとReutersが報道。",
+      "japan_comparison": "国内でもソフトバンクの信用リスクが報じられた。",
+      "url": "https://www.reuters.com/business/finance/bank-england-sees-growing-financial-risks-ai-borrowing-surges-2026-11-26/"
     },
     {
-      "title": "米豪の物価",
-      "summary": "米国と豪州で物価上昇が報じられた。",
-      "japan_comparison": "各国の物価指標と金融政策を区別して比較する。",
-      "url": "https://www.reuters.com/world/asia-pacific/australian-inflation-heats-up-october-core-hits-two-year-high-2026-11-25/"
+      "title": "防衛AI",
+      "summary": "国防省が27日に意思決定支援ソフトウェアの購入契約を締結する予定と発表したとReutersが報道。",
+      "japan_comparison": "国内の同種契約は今回未確認。",
+      "url": "https://www.reuters.com/technology/polish-defence-ministry-sign-agreement-with-palantir-friday-2026-11-26/"
     },
     {
-      "title": "海外の金融インフラ障害",
-      "summary": "FinCENの一部システムへの不正アクセスを受け、当局が停止措置と調査を実施したと報じられた。",
+      "title": "AIと重要インフラ",
+      "summary": "連邦サイバーセキュリティ当局によると直近数日の5件のうち4件で侵害が発生し、重要インフラ事業者3者も標的になった。",
       "japan_comparison": "国内の同種被害は未確認。",
-      "url": "https://www.reuters.com/world/us-fincen-takes-some-systems-offline-after-cyber-incident-official-says-2026-11-25/"
+      "url": "https://www.reuters.com/legal/litigation/ai-agents-used-five-cyber-attacks-switzerland-government-says-2026-11-26/"
     }
   ],
   "github_trending": []
